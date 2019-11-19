@@ -1,0 +1,14 @@
+{
+  "name": "url-tilte-2-md",
+  "version": "1.0.0",
+  "description": "把一些文章的url转换成checkbox+标题+url的形式",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  }
+}
