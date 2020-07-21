@@ -1,7 +1,7 @@
 
 const { Builder, By, Key, until } = require('selenium-webdriver')
 const chromeDriver = require('selenium-webdriver/chrome')
-
+//chromeDriver地址：http://chromedriver.storage.googleapis.com/index.html 复制到windows/system32
 async function getTitleByUrl(url){
     let driver = new Builder()
       .forBrowser('chrome')
@@ -33,17 +33,8 @@ async function url2md(urls){
     const title = `## ${todayDate.getFullYear()}.${todayDate.getMonth() + 1}.${todayDate.getDate()}`;
     console.log(title + '\n' + titles.join('\n'));
 }
-url2md([ 
-    'https://2019.stateofcss.com/',
-    'https://venturebeat.com/2019/03/04/w3c-approves-webauthn-as-the-web-standard-for-password-free-logins/',
-    'https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/',
-    'https://blog.logrocket.com/whats-new-in-preact-x/',
-    'https://blog.logrocket.com/what-is-deno/',
-    'https://www.simplethread.com/understanding-js-decorators/',
-    'https://netflix.github.io/pollyjs/',
-    'https://github.com/Raathigesh/majestic/',
-    'https://mp.weixin.qq.com/s/5HRWuLQ0u3huaqe-Luif8Q',
-    'https://mp.weixin.qq.com/s/i0x9r-17hW_7KAaZdXbK-g',
-    'https://mp.weixin.qq.com/s/t3Z8X8xttFyClIdybRkzeQ',
-    'https://mp.weixin.qq.com/s/KZbXCI1u-O-hu1-gTa-ReQ',
+url2md([
+    'https://mp.weixin.qq.com/s/vNTUfKKtxpSIbt1ZULui_g',
+    'https://mp.weixin.qq.com/s/p7TKapQP4cv_IbFWcP_dFw',
+    'https://mp.weixin.qq.com/s/fjXfcCLNpSYt_Rotnjawxg',
 ]);
