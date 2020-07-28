@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "ghooks": "^2.0.4",
     "selenium-webdriver": "^4.0.0-alpha.5"
   },
   "dependencies": {

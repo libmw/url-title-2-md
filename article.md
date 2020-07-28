@@ -1,3 +1,43 @@
+## 2020.7.28
++ [x][让你的 commit 更有价值](https://mp.weixin.qq.com/s/wrEQbvVMJLyhcjTRovM9Gg)
+> 通过angular的commit message 规范来写message，然后可以利用工具生成log日志等。还可以通过hooks来实现自动转换命令。git的hooks原理是在.git目录里的hooks目录，这个目录在git的执行流程中会被调用。也可以通过ghooks工具来自动生成hooks命令，然后通过配置来实现hooks调用。
++ [x][JS数组奇巧淫技](https://mp.weixin.qq.com/s/c9jtemK9Do85RG4ub1MORA)
+> 把大多数的array function都说了一遍。还讲了各个方法的应用场景。奇淫技巧主要是利用...展开操作和Set类型实现。reduce的例子比较棒。最后作者还感叹了一下生活，聊了下人生。
++ [x][聊聊调试的那些事，超实用！！！](https://mp.weixin.qq.com/s/DXq3vRfQ32Wfbe_Gf1lz7Q)
+> 及其基础的chrome developer tools入门文章。
++ [x][使用 Vue 3.0，你可能不再需要Vuex了](https://mp.weixin.qq.com/s/NES_8rV5DM5eqHROxJUmpA)
+> vue3的相应系统+provide+readonly实现类似state的功能。
+## 2020.7.27
++ [x][封装element-ui表格，我是这样做的](https://mp.weixin.qq.com/s/7NaG8JII6k-YFm_ozyev2g)
+> 作者基于element-table搞的一个封装。
++ [x][14个 JavaScript 代码优化技巧](https://mp.weixin.qq.com/s/rLlB9kOB15c-T-e69tnEnw)
++ [x][手把手教你打造属于自己团队的前端小报系统](https://mp.weixin.qq.com/s/YE_XEP38C3DeSEx-hHYQkA)
+> 利用chrome插件迅速沉淀，后台自动推送。
++ [x][整理几个超实用的前端提效 shell 命令](https://mp.weixin.qq.com/s/YIpdCXMOwge_0N9prJr5ZA)
+> curl等
++ [x][160. 精读《函数缓存》](https://mp.weixin.qq.com/s/bvep2BfQGGaqKkfd5f3LKg)
+> 通过高阶函数对函数进行包装，从而实现缓存。
+## 2020.7.24
++ [x][《模块化系列》snowpack，提高10倍打包速度。](https://mp.weixin.qq.com/s/xYpA2CKAQXWZbL0PQOdJmQ)
+> 完全通过esModule规范来打包，是最接近浏览器标准模块的打包方式。劣势是对模块编译的插件不足，生态还不够强大。
++ [x][React Native 新架构](https://mp.weixin.qq.com/s/c_3ugi8cPxMbi5z-olhdtQ)
++ [x][仿照React源码流程打造90行代码的Hooks](https://mp.weixin.qq.com/s/YLSD4IojDWTPlov_RQtVAA)
+> 通过模拟来学源码
+
+## 2020.7.23
++ [x][语雀在线表格自研之路](https://mp.weixin.qq.com/s/SiwlayY5qYrAAQZg7Ovaeg)
+> 两点让人印象深刻：1、基于命令的协同，允许一定数量的冲突。2、基于ls的本地存储而放弃indexDb。真正的大产品，一定不会刻意去追求使用某种绚丽的技术，而会选择最适合自己的技术。
++ [x][吊打前端专栏 | 吊打JavaScript之从原型到原型链](https://mp.weixin.qq.com/s/dzam1RaeZtfLxZvVh4PSrw)
+> js原型链的基础和应用。
++ [x][让你面试无忧的66条JavaScript面试知识点](https://mp.weixin.qq.com/s/XZ_pgdlYtlPW3hJUg29BJA)
+> `干货`真心涵盖了超过50%的常用面试题。也是前端的基础知识集合。
++ [x][十分钟上手ES2020新特性](https://mp.weixin.qq.com/s/PVc9k55uleSGgfRAaTP0uQ)
+> 2020新特性不算多，了解下吧。
++ [x][如何将业务代码写得更优雅](https://mp.weixin.qq.com/s/-gVr5RMPfpB9hylZuMQlEQ)
+> 蚂蚁金服员工写的文章，对重构的理解较深。
+## 2020.7.22
++ [ ][【前端实时音视频系列】WebRTC入门概览](https://mp.weixin.qq.com/s/oRJ-jBXCFofyxLpl8FEQfg)
++ [ ][SourceMap知多少：介绍与实践](https://mp.weixin.qq.com/s/j3jVPNgg4WCnI7RBJTxktA)
 ## 2020.7.21
 + [x][Chrome 84 正式发布，支持私有方法、用户空闲检测！](https://mp.weixin.qq.com/s/vNTUfKKtxpSIbt1ZULui_g)
 > issue集合，动画api、wsam优化、强制samesite

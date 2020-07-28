@@ -20,7 +20,6 @@ async function getTitleByUrl(url){
         await driver.close();
         return `+ [ ][${title}](${url})`;
     }catch(e){
-        console.log('eeee',e);
         return `+ [ ][${url}](${url})`;
     }
 }
@@ -33,8 +32,10 @@ async function url2md(urls){
     const title = `## ${todayDate.getFullYear()}.${todayDate.getMonth() + 1}.${todayDate.getDate()}`;
     console.log(title + '\n' + titles.join('\n'));
 }
+
 url2md([
-    'https://mp.weixin.qq.com/s/vNTUfKKtxpSIbt1ZULui_g',
-    'https://mp.weixin.qq.com/s/p7TKapQP4cv_IbFWcP_dFw',
-    'https://mp.weixin.qq.com/s/fjXfcCLNpSYt_Rotnjawxg',
+    'https://mp.weixin.qq.com/s/wrEQbvVMJLyhcjTRovM9Gg',
+    'https://mp.weixin.qq.com/s/c9jtemK9Do85RG4ub1MORA',
+    'https://mp.weixin.qq.com/s/DXq3vRfQ32Wfbe_Gf1lz7Q',
+    'https://mp.weixin.qq.com/s/NES_8rV5DM5eqHROxJUmpA',
 ]);
