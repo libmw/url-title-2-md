@@ -1,3 +1,56 @@
+## 2020.8.4
++ [x][利用 JS 实现多种图片相似度算法](https://mp.weixin.qq.com/s/oOlv9cbIhSwJtb-mGU8gwg)
+> 利用一些图片相似度算法通过imageData来计算图片指纹从而得到两张图片相似程度。
++ [x][input/change/composition/keydown事件详解](https://mp.weixin.qq.com/s/tja4JMxiw7ig38Z51tul4w)
+> 对于输入各个阶段的监听。
++ [x][2020年，该如何选择小程序框架](https://mp.weixin.qq.com/s/Nz90IX_kH53dgpdZ2zx-RQ)
+> 写得好。Taro属于编译型框架，而还有一种运行时框架。他们各有各的好处，把这两个结合起来，才是最好的方案。
++ [x][【源码解析+代码实现】一篇文章搞定 babel-plugin-import 插件](https://mp.weixin.qq.com/s/aBTODfHAG9p_z2A1ikVoug)
+> 介绍了这个插件的作用和插件的实现原理。
++ [x][99%的人都不知道内网、外网、宽带、带宽、流量、网速之间的区别与联系](https://mp.weixin.qq.com/s/uK7yRwy_Si5mo5D7qRQ4fA)
+> 扫描文章。
++ [x][这些手写代码会了吗？少年](https://mp.weixin.qq.com/s/3a1L4fITSUrYi5hr-h7ECw)
+> bind/apply/call/new
+## 2020.8.3
++ [x][Vue中使用装饰器，我是认真的](https://mp.weixin.qq.com/s/Rz-Nvg4hAI8x7SOYlaPaBw)
+> 装饰器在类属性中使用有高阶函数的感觉，目标属性被装饰后成为了一个高阶函数。
++ [x][VSCode 的这些黑科技 99% 的人都不知道](https://mp.weixin.qq.com/s/IChlh2sRjgF9H6IKH_kvRQ)
+> 两个写markdown和drawio的工具
++ [x][前端设计模式之责任链模式](https://mp.weixin.qq.com/s/FGtbjooamtDY_xxGfQFGMQ)
+> 一般
++ [x][了不起的 Webpack 构建流程学习指南](https://mp.weixin.qq.com/s/BKAdclv6UBNfJ7IVJ1WL9g)
+> 一个极简的webpack实现。
++ [x][如何基于 Electron 开发跨终端的应用](https://mp.weixin.qq.com/s/qucl_k9pFCga1krHlNTSyQ)
+> electron入门文章
++ [x][50行实现Node.js多进程分页爬虫](https://mp.weixin.qq.com/s/OwjxD9tuwQizNfzhLy6GHw)
+> 多进程的基本用法
++ [x][整理了 25 个前端相关的学习网站和一些靠谱的小工具](https://mp.weixin.qq.com/s/-GJkSfcXJOLkBs6BZzIUww)
+> 各种工具和网站。
++ [x][一个有趣的例子带你入门canvas](https://mp.weixin.qq.com/s/phSlWmKtjd49Nw0MzgfS6A)
+> 是个广告，还是有点意思。每个图形fillColor，点击的时候取出color再去映射表里找就得到点击的图形了。
++ [x][嘿，不要给 async 函数写那么多 try/catch 了(偏原理)](https://mp.weixin.qq.com/s/jKio8gAS4qB2fFbA1jleVQ)
+> `干货`通过自研一个webpack的loader来实现try/catch的自动注入。本文讲解了loader的原理和ast的实战，通过编写loader的过程了解修改ast的过程。
++ [ ][React Hooks 原理与最佳实践](https://mp.weixin.qq.com/s/2-nvV2wIJID8xCWeRW2iNQ)
+## 2020.7.30
++ [x][谈Vue组件的is特性](https://mp.weixin.qq.com/s/taFj7N_eTXyh5LPWRBX2Yg)
+> 可以在html标签中添加is，这种使用方法以前还没注意。
++ [x][新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://mp.weixin.qq.com/s/8-243xANopfa7-2wnQITcw)
+> 比较新的header，看起来可以用来替代部分csp策略。
++ [x][你不知道的 WebSocket](https://mp.weixin.qq.com/s/ptnK2-ihZNH8yZhkkX6sZQ)
+> 实现了一个client、server，实现了socket不同类型的解析。还分析了socket协议的数据帧格式。最后介绍了socket和七层网络模型。
++ [x][你不知道的浏览器渲染原理](https://mp.weixin.qq.com/s/EwcDVoypNHE1s5Wh1xyKLQ)
+> 比较全面，
+
+## 2020.7.29
++ [x][想成为可视化高手？这篇合集就够了 | Vue](https://mp.weixin.qq.com/s/u5aiqliNjXfBNEigs2tBpg)
+> vue-ecahrts的使用文档
++ [x][从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://mp.weixin.qq.com/s/VCy3yT3Ho-QQxNvUp5SwCg)
+> 主要介绍V8的执行流程。通过理解执行流程和优化原理，就可以得到在写代码的时候需要注意哪些问题。文章提到了几个工具：
+[ast在线编译器](https://astexplorer.net/)
++ [x][Babel是如何读懂JS代码的](https://mp.weixin.qq.com/s/hFI__QcPrYTo3lZX7L82NA)
+> `干货`。文章通过一个分词器的demo和一个生成ast函数的demo，展现了分词和生成ast的过程。分词是将整个代码字符串一个字符一个字符的遍历，然后变为一个一维数组，每一项就是一个词语，每一项包含词语的类型和内容，如`{ type: "identifier", value: "alert" }`。而语义就是把一维数组变为AST，这是一个遍历前面那个一维数组的过程，也是有特别多的判断和算法在里面，但实际就是遍历一维数组的过程。这篇文章来源于[百度外卖](https://zhuanlan.zhihu.com/bdwmfe)，里面有很多干货。
++ [x][图解23种设计模式（TypeScript版）——前端必修内功心法](https://mp.weixin.qq.com/s/v8QRqjDrc7m0P3npigG_4Q)
+> 确实是图解，里面全是图。
 ## 2020.7.28
 + [x][让你的 commit 更有价值](https://mp.weixin.qq.com/s/wrEQbvVMJLyhcjTRovM9Gg)
 > 通过angular的commit message 规范来写message，然后可以利用工具生成log日志等。还可以通过hooks来实现自动转换命令。git的hooks原理是在.git目录里的hooks目录，这个目录在git的执行流程中会被调用。也可以通过ghooks工具来自动生成hooks命令，然后通过配置来实现hooks调用。
@@ -37,7 +90,8 @@
 > 蚂蚁金服员工写的文章，对重构的理解较深。
 ## 2020.7.22
 + [ ][【前端实时音视频系列】WebRTC入门概览](https://mp.weixin.qq.com/s/oRJ-jBXCFofyxLpl8FEQfg)
-+ [ ][SourceMap知多少：介绍与实践](https://mp.weixin.qq.com/s/j3jVPNgg4WCnI7RBJTxktA)
++ [x][SourceMap知多少：介绍与实践](https://mp.weixin.qq.com/s/j3jVPNgg4WCnI7RBJTxktA)
+> 主要介绍SourceMap是什么以及如何在webpack中配置。另外生产环境我们是可以配置生成隐藏的sourceMap，然后传递给sentry调用的。不得不说sourceMap是一个伟大的发明。
 ## 2020.7.21
 + [x][Chrome 84 正式发布，支持私有方法、用户空闲检测！](https://mp.weixin.qq.com/s/vNTUfKKtxpSIbt1ZULui_g)
 > issue集合，动画api、wsam优化、强制samesite
