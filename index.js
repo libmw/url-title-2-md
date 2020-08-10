@@ -34,10 +34,12 @@ async function url2md(urls){
 }
 
 url2md([
-    'https://mp.weixin.qq.com/s/oOlv9cbIhSwJtb-mGU8gwg',
-    'https://mp.weixin.qq.com/s/tja4JMxiw7ig38Z51tul4w',
-    'https://mp.weixin.qq.com/s/Nz90IX_kH53dgpdZ2zx-RQ',
-    'https://mp.weixin.qq.com/s/aBTODfHAG9p_z2A1ikVoug',
-    'https://mp.weixin.qq.com/s/uK7yRwy_Si5mo5D7qRQ4fA',
-    'https://mp.weixin.qq.com/s/3a1L4fITSUrYi5hr-h7ECw',
+    'https://mp.weixin.qq.com/s/SxA8E5IG5r9u2LoaNdxArw',
+    'https://juejin.im/post/6856375724979257352',
+    'https://mp.weixin.qq.com/s/dGO7cvhnr0cWdeu7O2v5Eg',
+    'https://mp.weixin.qq.com/s/6gtVR0nVNcZvREjwftZgzA',
+    'https://mp.weixin.qq.com/s/jrXsXch-wnlTcS2JEKe32Q',
+    'https://musicfe.dev/apng/',
+    'https://mp.weixin.qq.com/s/_XUNdR0_TXcv68JKysNnIw/',
+    'https://mp.weixin.qq.com/s/VjicTubTr8UU4XMWrC3nyQ',
 ]);

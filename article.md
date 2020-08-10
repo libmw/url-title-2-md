@@ -1,3 +1,54 @@
+## 2020.8.10
++ [x][TypeScript 安利系列（一）为什么要用TS和基本类型](https://mp.weixin.qq.com/s/PxIo2mrjaCPpEJORAnCJuQ)
+> ts的基本类型。没有说泛型这些，看看即可。
++ [x][编写高质量可维护的代码之优化逻辑判断](https://mp.weixin.qq.com/s/S8nBOuu1W8RaXcdMN5U-yQ)
+> 策略模式减少条件判断比较科学。jsx中有很多标签比如if、with、choose，用来做判断比较优雅。
++ [x][「查缺补漏」巩固你的HTTP知识体系](https://mp.weixin.qq.com/s/-F_rePfdhU29wxsH6nWNuQ)
+> http零碎知识参考书
++ [x][Midway Serverless 能力介绍与设计分析](https://mp.weixin.qq.com/s/gTwnFJWMeFdY1snT7wG9ew)
+> midWay介绍
++ [x][可折叠Web可能会给我们带来的变化](https://mp.weixin.qq.com/s/SxA8E5IG5r9u2LoaNdxArw)
+> 这个有点前沿了。不过现在技术发展速度，谁又说得准。
++ [x][前端业务开发的通用经验 - 质量保障篇 - 掘金](https://juejin.im/post/6856375724979257352)
+> 比较全面，但是不是很深入，可以作为质量保障list参考。
++ [x][从2.9秒到0.6秒，信息流首屏提效80%的秘诀](https://mp.weixin.qq.com/s/dGO7cvhnr0cWdeu7O2v5Eg)
+> 缓存、预加载、仅加载需要用到的资源
++ [x][悟空活动中台 - H5 活动加载优化](https://mp.weixin.qq.com/s/6gtVR0nVNcZvREjwftZgzA)
+> 干货。从网络请求=》资源压缩=》浏览器渲染性能=》vue的生命周期各个方面去压榨性能。
++ [x][如何用 Node.js 实现一个简单的 Websocket 服务？](https://mp.weixin.qq.com/s/jrXsXch-wnlTcS2JEKe32Q)
+> 通过标准的协议使用http接口+解码网络帧来实现ws服务器。
++ [x][Web 端 APNG 播放实现原理 | 云音乐大前端专栏](https://musicfe.dev/apng/)
+> 通过解码apng，然后通过canvas绘制图片数据来解决浏览器不兼容的问题，文中分析了如何解码apng图片的数据。
++ [x][多语言UI设计避坑指南](https://mp.weixin.qq.com/s/_XUNdR0_TXcv68JKysNnIw/)
+> 字符长度，通过缩小字体，增大字容器来解决。字体差异，通过尽量用系统字体来解决。文中说了很多标准的设计指导思想和文字相关概念如字重。
++ [x][深度解析 | Flutter web 支持的最新进展](https://mp.weixin.qq.com/s/VjicTubTr8UU4XMWrC3nyQ)
+> web的渲染渐渐成熟，但是还有很多事需要做。
+## 2020.8.7
++ [x][顶级互联网公司的管理之道 - 文化、组织、人才](https://mp.weixin.qq.com/s/CNwHXjE6NcvZxM7hl0C30Q)
+> 顶级公司的管理思想。
++ [x][分享9条 Webpack 优化策略](https://mp.weixin.qq.com/s/zcR-BO44hpllRb18C7BYdQ)
+> loader耗时监测、boundle大小分析、多进程打包、多进程压缩js、dll静态库文件、缓存、作用域优化方式。
++ [ ][Error handling with async/await and promises, n² ways to shoot yourself in the foot | CatchJS](https://catchjs.com/Docs/AsyncAwait)
+## 2020.8.6
++ [x][当遇到跨域开发时, 我们如何处理好前后端配置和请求库封装(koa/axios版)](https://mp.weixin.qq.com/s/AfFEZi_QYkB4UnlX9arNrw)        
+> 讲了如何通过aios和ant封装一个请求。
++ [x][React 中请求远程数据的四种方法](https://mp.weixin.qq.com/s/DuzL0MEPMul00k55ulR7pA)
+> 一篇翻译文章。最终解决方案是吧http请求全部封装到react-query里面，然后统一写到service文件中，再进行统一调用。使用了hook来简化代码。
++ [x][为什么这条异常没有上报？ HTTP 429](https://mp.weixin.qq.com/s/DLYEBPOikb_DgKQCBb8kDw)
+> sentry的限流机制导致错误超出阈值后无法上报，服务器返回429状态码。收获：http状态码其实有很多，我们在写接口的时候不一定非要全部返回200，有时候需要根据标准来返回。
++ [x][解读HTTP/2与HTTP/3 的新特性](https://mp.weixin.qq.com/s/XVaQH7vE4YOuZyYgS6aGQg)
+> http3基于udp才是真正的发展方向。
++ [x][1000+ 个项目的10大JavaScript错误](https://mp.weixin.qq.com/s/oRzp2XJjUx30jtTQONGwXw)
+> 一些常见的报错总结
++ [x][【GitHub防护】假如代码泄漏，我们能做什么？](https://mp.weixin.qq.com/s/mHo95Psu4BH8Dvmelw4Xdw)
+> 使用gihubMonitor检测是否提交了敏感信息
++ [x][nestjs+vue+ts打造一个酷炫的星空聊天室(含完整数据库设计)](https://mp.weixin.qq.com/s/k7BQWs0Ii-dEWLrLCf_UFQ)
+> 提到一个vuex-class的库，用来写ts版本的vuex
++ [x][上帝视角看 TypeScript](https://mp.weixin.qq.com/s/iPcY5EgPvcQ1fHtVF80bfw)
+> 还不错，讲了typescript是如何编译和类型检查的。
+## 2020.8.5
++ [x][前端冲刺必备指南-this/call/apply/bind（万字长文）](https://mp.weixin.qq.com/s/m9NPSeBjCuCIOIpJlVibLg)
+> 一些常用知识的大杂烩
 ## 2020.8.4
 + [x][利用 JS 实现多种图片相似度算法](https://mp.weixin.qq.com/s/oOlv9cbIhSwJtb-mGU8gwg)
 > 利用一些图片相似度算法通过imageData来计算图片指纹从而得到两张图片相似程度。
@@ -386,7 +437,7 @@
 ## 2020.3.26
 + [x][别乱提交代码了，看下大厂 Git 提交规范是怎么做的！](https://mp.weixin.qq.com/s/IbgsOaJ3xHF-OU1GZYoanw)
 > 一个生成commit日志的工具。
-+ [ ][组件演进史：从Mixin到HOC，再到Hook](https://mp.weixin.qq.com/s/0p6HhRxrSfEgWrTzZsMncw)
++ [x][组件演进史：从Mixin到HOC，再到Hook](https://mp.weixin.qq.com/s/0p6HhRxrSfEgWrTzZsMncw)
 >`干货` 详细列出了三种模式在react中的应用方式。
 + [ ][JavaScript 深入系列之浮点数精度](https://mp.weixin.qq.com/s/YOQ_Vei77O76RQXPpum1Yw)
 + [ ][简单实用的webpack-html-include-loader（附开发详解）](https://mp.weixin.qq.com/s/-16C302cU6bgFuk-Y9U5Tg)
