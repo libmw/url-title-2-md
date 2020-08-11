@@ -18,9 +18,9 @@ async function getTitleByUrl(url){
         }
         //console.log(title)
         await driver.close();
-        return `+ [ ][${title}](${url})`;
+        return `- [ ][${title}](${url})`;
     }catch(e){
-        return `+ [ ][${url}](${url})`;
+        return `- [ ][${url}](${url})`;
     }
 }
     
@@ -34,12 +34,9 @@ async function url2md(urls){
 }
 
 url2md([
-    'https://mp.weixin.qq.com/s/SxA8E5IG5r9u2LoaNdxArw',
-    'https://juejin.im/post/6856375724979257352',
-    'https://mp.weixin.qq.com/s/dGO7cvhnr0cWdeu7O2v5Eg',
-    'https://mp.weixin.qq.com/s/6gtVR0nVNcZvREjwftZgzA',
-    'https://mp.weixin.qq.com/s/jrXsXch-wnlTcS2JEKe32Q',
-    'https://musicfe.dev/apng/',
-    'https://mp.weixin.qq.com/s/_XUNdR0_TXcv68JKysNnIw/',
-    'https://mp.weixin.qq.com/s/VjicTubTr8UU4XMWrC3nyQ',
+    'https://mp.weixin.qq.com/s/eQjKG6wrvt2zy-O5mF6F1g',
+    'https://mp.weixin.qq.com/s/2BU-pGFmFSuES-WBcrM94g',
+    'https://mp.weixin.qq.com/s/zgaDshnmy1HzTKVvSh283w',
+    'https://mp.weixin.qq.com/s/2jb-IVf_tJAqN_H9a9DBwQ',
+    'https://mp.weixin.qq.com/s/2tPAiKHxj_GpnRCmGWnPog',
 ]);
