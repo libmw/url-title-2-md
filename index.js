@@ -18,9 +18,9 @@ async function getTitleByUrl(url){
         }
         //console.log(title)
         await driver.close();
-        return `- [ ][${title}](${url})`;
+        return `- [ ] [${title}](${url})`;
     }catch(e){
-        return `- [ ][${url}](${url})`;
+        return `- [ ] [${url}](${url})`;
     }
 }
     
