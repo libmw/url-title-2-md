@@ -1,3 +1,46 @@
+
+## 2020.8.17
+- [x] [TypeScript实现八大排序与搜索算法](https://mp.weixin.qq.com/s/_oEUGbRLWQfe0R3_1R4uTw)
+> 列举了八大算法的ts代码。但是感觉说得不太清晰，没有介绍每种算法的优劣。
+- [x] [浅谈低代码平台涉及的一些技术选型 · Issue #54 · xufei/blog · GitHub](https://github.com/xufei/blog/issues/54)
+> 徐飞写的文章。层次比较高，有些抽象。但是能看懂就能明白其中说的是什么东西。挺有帮助的。
+- [x] [API设计的几条原则](https://mp.weixin.qq.com/s/nc71DG91a9RT3grw8tV_dQ)
+> 还是写得比较好，文末有一个审查清单，可以作为api设计的参考。
+- [x] [面向5G的阿里自研标准化协议库XQUIC](https://mp.weixin.qq.com/s/CbdlTq1xb2N1WSnmGfmEQQ)
+> QUIC竟然可以自己实现。我的网络知识真的应该补补了。
+- [x] [使用 react-docgen 自动生成组件文档](https://mp.weixin.qq.com/s/Zp-Fs3jXipOLHe_iSJxvvg)
+> little nice
+- [x] [悟空活动中台 - 基于 WebP 的图片高性能加载方案](https://mp.weixin.qq.com/s/rSpWorfNTajtqq_pd7H-nw)
+> 产出的时候使用node转换，加载的时候使用了wasm进行webp的逆解析。
+- [x] [从架构到源码：一文了解Flutter渲染机制](https://mp.weixin.qq.com/s/wpU2APDdJdjMYkj5Kz2lTw)
+> 对flutter的渲染架构解析得相当好。
+- [x] [CSS overflow-anchor属性与滚动锚定 « 张鑫旭-鑫空间-鑫生活](https://www.zhangxinxu.com/wordpress/2020/08/css-overflow-anchor/)
+> 有了这个去加载该死的不知尺寸的图片体验就好多啦。
+- [x] [React17新特性：启发式更新算法](https://mp.weixin.qq.com/s/BEDwLJkEEI9bvD-1E5RRjQ)
+> nice。fiber的启发式更新调度，讲得比较清晰。
+## 2020.8.14
+- [x] [一文搞定前端代理骚操作！再也不怕线上bug啦！](https://mp.weixin.qq.com/s/9AYtps4wFG4lAI8X5IO0cw)
+> 基于nodejs的代理工具Whistle ，以前山月讲过。
+## 2020.8.13
+- [x] [从0到1，从优秀到卓越，再到基业长青](https://mp.weixin.qq.com/s/tih-m3-N2SeUEZmw9Z5uTg)
+> 先考虑垄断，否则注定不能取得巨大成功。
+- [x] [通过源码理解http层和tcp层的keep-alive](https://mp.weixin.qq.com/s/sRD5TKwpzPgdYiq-m2WkOA)
+> 作者看了ng、node、和linux关于keep-alive的源码，在tcp层和http层分析了keep-alive的逻辑。
+- [x] [手写React-Router源码，深入理解其原理](https://mp.weixin.qq.com/s/eINHP7wWtRggmRkTa3A3Aw)
+> 和vue-router类似。都是监听url的变化，然后重新渲染对应的组件。
+- [x] [逻辑代码自动生成相关技术概述](https://mp.weixin.qq.com/s/HO2qUt-w3b9gcv4inEu5uQ)
+> imgcook团队的文章
+- [x] [Typescript 设计模式之工厂方法](https://mp.weixin.qq.com/s/fZd53Nq9mptWTpyD9aXBYA)
+> 图文并茂介绍工厂模式
+## 2020.8.12
+- [x] [Vue 骚技巧，策略模式实现动态表单验证](https://mp.weixin.qq.com/s/betgrxRX-4Sd0Jn6hxBHBQ)
+> 策略模式就是调用一个function，传入策略和需要处理的数据，根据不同的策略返回不同的内容。
+- [x] [手把手教你搭建一个灰度发布环境](https://mp.weixin.qq.com/s/4LMVIJ7yYmfjqF3_YUvlbw)
+> 通过增加一台专门服务于灰度的机器，然后灰度代码先部署到这个机器，通过cookie来判断是否进入灰度环境。作者用jenkins实现了整个流程，只需要在jenkins上操作即可。
+- [x] [了解 JS 压缩图片，这一篇就够了](https://mp.weixin.qq.com/s/3M4S7Uz-nk4yvIcUV5TFKw)
+> 对png的格式做了专门的处理，这一点值得学习。
+- [x] [我在阿里收获的N个成长](https://mp.weixin.qq.com/s/13dl0BD-VQ3GvhOIKv8jZw)
+> 一位阿里P7的思考。
 ## 2020.8.11
 - [x] [如何写技术文章](https://mp.weixin.qq.com/s/eQjKG6wrvt2zy-O5mF6F1g)
 > 奇舞周刊作者多年的经验，值得一读。
