@@ -34,13 +34,5 @@ async function url2md(urls){
 }
 
 url2md([
-    'https://mp.weixin.qq.com/s/_oEUGbRLWQfe0R3_1R4uTw',
-    'https://github.com/xufei/blog/issues/54',
-    'https://mp.weixin.qq.com/s/nc71DG91a9RT3grw8tV_dQ',
-    'https://mp.weixin.qq.com/s/CbdlTq1xb2N1WSnmGfmEQQ',
-    'https://mp.weixin.qq.com/s/Zp-Fs3jXipOLHe_iSJxvvg',
-    'https://mp.weixin.qq.com/s/rSpWorfNTajtqq_pd7H-nw',
-    'https://mp.weixin.qq.com/s/wpU2APDdJdjMYkj5Kz2lTw',
-    'https://www.zhangxinxu.com/wordpress/2020/08/css-overflow-anchor/',
-    'https://mp.weixin.qq.com/s/BEDwLJkEEI9bvD-1E5RRjQ',
+    'https://mp.weixin.qq.com/s/xgNirkhQCXRIg7xTj4gtKQ',
 ]);

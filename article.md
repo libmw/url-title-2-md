@@ -1,4 +1,159 @@
 
+## 2020.9.11
+- [x] [『极限版』不掺水，用纯 CSS 来实现超飒的表单验证功能](https://mp.weixin.qq.com/s/xgNirkhQCXRIg7xTj4gtKQ)
+> 通过:placeholder-shown伪类判断placeholder是否显示。学到了。
+## 2020.9.10
+- [x] [关于ref的一切](https://mp.weixin.qq.com/s/YflnTCGHZyYE4RwdIy9rpA)
+## 2020.9.9
+- [x] [看看别人家的神仙公司](https://mp.weixin.qq.com/s/aaenw1ioimKBXmnH55Mwyg)
+> 哇，我也想去Basecamp
+## 2020.9.8
+- [x] [JavaScript 启动性能瓶颈分析与解决方案](https://mp.weixin.qq.com/s/LvmmGQq-nrfwAdolSP8E3w)
+> 文中提到了各种查看js耗时和性能瓶颈的工具。并提出了一些解决方案。
+- [x] [铁军：保持成长动力，与技术、业务、团队共成长](https://mp.weixin.qq.com/s/D1H-Ac0MnXl1qVAD5vvUxg)
+> 打印ecma262这个nb了
+- [x] [是谁动了我的 DOM？](https://mp.weixin.qq.com/s/a2tuqQOmkvtHysOuBXmMdg)
+> 通过MutationObserver来监听dom的变化，在某些场景下作用较大。
+## 2020.9.7
+- [x] [使用Vue3.0，我收获了哪些知识点（一）](https://mp.weixin.qq.com/s/2S6txkd_LiHCDMt7W-4iCg)
+> 简单的入门
+- [x] [React Hook 的底层实现原理](https://mp.weixin.qq.com/s/PZQwJ0B9ID91E1ZW5qb0aA)
+> 不是特别易懂
+- [x] [当飞猪遇上 Serverless](https://mp.weixin.qq.com/s/e86uMiwCaVTLScEOs7yH4Q)
+> 全文都在瞎扯淡
+- [x] [羚珑视频编辑器开发总结](https://mp.weixin.qq.com/s/m0QHH_UxZnJ1cEuBdSEuHQ)
+> 京东的一个编辑器，文章代入感较弱，不适合阅读
+- [x] [Electron + Puppeteer + Robotjs 实现工作自动化](https://mp.weixin.qq.com/s/mziw_VfwcO_qLglypbzy2A)
+> 挺棒的。有时候真的需要一个工具包。
+- [x] [细说 SOLID 原则](https://mp.weixin.qq.com/s/PwO4ymEKabk74a7J8lAhdg)
+> 面向对象中五个原则梳理，`干货`。单一功能、开闭原则、里氏替换、接口隔离以及依赖反转
+- [x] [御术：比能力更重要的是你的底层操作系统](https://mp.weixin.qq.com/s/h8HdPrmV_K0ZOBoH6f1MXw)
+> nice.echarts作者，写得比较好。
+## 2020.9.4
+- [x] [我的前端成长之路：中医药大学毕业的业务女前端修炼之路](https://mp.weixin.qq.com/s/X1e7So402XXr0R9v_Ivneg)
+> 写得非常实在，非常接地气。心路历程值得参考，很多观点如TL必须做技术、要看成果不是一年两年、保持自己的核心竞争力都很赞同。
+
+## 2020.9.3
+- [x] [我的前端成长之路：在阿里七年，我的成长和迷茫](https://mp.weixin.qq.com/s/J2i93F-XD04EdniOoLN7xQ)
+> 一个阿里P8的总结，人家跟我一年毕业。
+- [x] [如何实现一个 3D 效果的魔方](https://mp.weixin.qq.com/s/B5hlPmpvLXHdOvNWSeln8g)
+> 作者讲解了一些3d透视的原理。
+## 2020.9.2
+- [x] [Vue Composition API 陷阱](https://mp.weixin.qq.com/s/IBmlCYOQZ4tkg5V25HE0qw)
+> 不是太赞同作者的观点。心智模式的变迁本身也是一种学习的过程。作者主要是说的setup只执行一次导致的陷阱
+- [x] [一个可能让你的页面渲染速度提升数倍的CSS属性](https://mp.weixin.qq.com/s/IG9xt25Jj_KHkYnUNZsXdw)
+> content-visibility 告诉浏览器元素没出现的时候，别渲染它
+## 2020.9.1
+- [x] [关于 useState 的一切](https://mp.weixin.qq.com/s/9t1WGfgA0r_GjdDWbQEGwg)
+> useState的内部执行流程。
+- [x] [应该在JavaScript中使用Class吗](https://mp.weixin.qq.com/s/_bcxhAq6WT46CefHatdPOA)
+- [x] [React 条件渲染最佳实践(7 种方法)](https://mp.weixin.qq.com/s/mFodFsyhfXNNJcl9mP07Uw)
+## 2020.8.31
+- [x] [V8 8.5 带来的三个实用新特性！](https://mp.weixin.qq.com/s/StqHFUXWRKwE6yOZxyWX8g)
+> 目前chrome还没支持。
+- [x] [组件库主题设计方案](https://mp.weixin.qq.com/s/rZ53BAZYTBsOTatxbEJYrA)
+> 通过context顶层注入
+- [x] [编写高质量可维护的代码：数据建模](https://mp.weixin.qq.com/s/RLuIX4O31PhcPCgMWivi7w)
+```javascript
+<Price value={switchPrice(product)}/>
+// Good
+<Price value={product.price}/>
+```
+> 这个有点意思，把一些复杂判断放到后端去处理而不是前端
+- [x] [图解Node（上）——直击灵魂的十条拷问](https://mp.weixin.qq.com/s/uFXF4ub-1uF33PEYfFMKLg)
+- [x] [你不知道的 TypeScript 高级技巧](https://mp.weixin.qq.com/s/HTn6RbyneNsGkqcTm1ypcg)
+> 如何定义对象、函数、重载、子对象、协变、逆变、类型或、类型、泛型。
+- [x] [10+个很酷的VueJS组件，模板和实验示例](https://mp.weixin.qq.com/s/QRccznbvyuhbM6ovag7y1g)
+> vue后台系统、vue color组件、二维码组件、音乐播放器
+## 2020.8.28
+- [x] [CSS八种让人眼前一亮的HOVER效果](https://mp.weixin.qq.com/s/-6TJdbXDpssNmvfPOH1Jjw)
+- [x] [Vue新特性：CSS 中使用 JS 变量](https://mp.weixin.qq.com/s/3-zHorntbAV8PLIvuFdfrQ)
+> css已经在某些浏览器里原生支持变量了
+- [x] [Node 如何在 Controller 层进行数据校验](https://mp.weixin.qq.com/s/UAU_Vpu3o53zqEAKDYgvQQ)
+> Controller 层需要进行统一的数据校验，可以采用 JSON Schema (Node 实现 ajv) 与 Joi
+JSON Schema 有官方规范及各个语言的实现，但语法繁琐，可使用校验功能更为强大的 Joi
+进行字符串校验时，注意不安全的正则引起的性能问题
+- [x] [强烈推荐的几个微信小程序开发小技巧，简单又实用](https://mp.weixin.qq.com/s/JuP1lLwcGlaDBUB6kDE9kw)
+> 小程序开发技巧。一些坑、setData的优化等
+- [x] [ts-migrate：Airbnb进行大规模TypeScript迁移的神器](https://mp.weixin.qq.com/s/sMKqdX3XdrEYRHg35-iLew)
+## 2020.8.27
+- [x] [如何在应用架构中设计微前端方案 - icestark](https://mp.weixin.qq.com/s/WpiLixl5NnqF_RiX4z3Yaw)
+> 文章一般，很干涩，不建议阅读
+- [x] [如何优雅的实现消息通信？](https://mp.weixin.qq.com/s/hM6YHy3R2kMxQnbjz8sDDA)
+> 轮询、广播观察者模式、存储订阅列表然后分别发布给每个订阅者的订阅发布模式。
+- [x] [TypeScript 4.0正式发布！现在是开始使用它的最佳时机](https://mp.weixin.qq.com/s/z1_GfdQFDhSbDBlHqE0T6g)
+> 主要介绍4.0的一些更新。
+## 2020.8.26
+- [x] [使用 DevTools 新增的 Issues 选项卡发现网页问题](https://mp.weixin.qq.com/s/C8KTzmARkntQJJ5xMqjgEg)
+> chrome issue现在主要是sameSite问题等
+- [x] [Node 脚本遭遇异常时如何安全退出](https://mp.weixin.qq.com/s/LihozvtnAcVTN8s_v_ylFg)
+> 介绍了如何查看exit code的方法。然后指明了promise.reject的缺陷，它不会产生异常，程序会正常退出。
+- [x] [浏览器之导航这件小事](https://mp.weixin.qq.com/s/TBEvKjjZIe1vDlBsd1OMnA)
+> 加载一个url也分不同的情况。如重定向、如serviceWorker，浏览器分工合作并通过预加载、提前准备渲染进程等方式来优化这个过程，挺有意思的。
+## 2020.8.25
+- [x] [一文讲透ES6箭头函数](https://mp.weixin.qq.com/s/qnyZ3tyU2LWa2UPpxOz4kA)
+> 没有this，没有prototype，单参数省略括号
+- [x] [TypeScript 系列之接口](https://mp.weixin.qq.com/s/WsSLHlfNfYUkICDJmwOmKw)
+> 比较全的interface各种用法文档。
+- [x] [初探视频原理和FFmpeg](https://mp.weixin.qq.com/s/oenjo6d75Ew1rHx3eeB0wg)
+> `干货`。very nice。主要是对视频编码介绍得较好，另外介绍了ffmpeg的使用，而没介绍历史等。
+- [x] [useContext更佳实践](https://mp.weixin.qq.com/s/x5lJkwZ4N0MZznMBT1YpAQ)
+> 通过自定义hook实现context的前置配置。
+- [x] [混搭 TypeScript + GraphQL + DI + Decorator 风格写 Node.js 应用](https://mp.weixin.qq.com/s/CtWyLb49VJd4_UV0EcIFwQ)
+> 介绍了di注入、orm等范式，是写后端逻辑值得参考的一个架子。
+- [x] [精读《Spring 概念》](https://mp.weixin.qq.com/s/vuyjDFjPFBZ1BTOLQPDa1g)
+> `干货`spring火这么多年是有道理的。 spring 的低侵入式设计，使得业务代码不用关心框架，让业务代码能够快速在不同框架间切换，这不仅方便了业务开发者，更使得 spring 走向成功，这 是前端还需要追赶的作者说的编程思想也非常好，文中主要介绍了ioc控制反转和aop切面编程的思想。其中`ioc`非常值得前端实践。
+## 2020.8.24
+- [x] [学习Vue3.0，先从搭建环境开始](https://mp.weixin.qq.com/s/Hp0HYLVZX13PMMTZRUIsQQ)
+> 通过vite搭建了一个比较完整的环境，包含了vue的各种生态。
+- [x] [JavaScript中的Array.flatMap你知道吗?](https://mp.weixin.qq.com/s/63cszh-KvgwYdxwX2u0DkQ)
+> flat可以用来删除空值位
+- [x] [架构师喜欢用的架构图工具](https://mp.weixin.qq.com/s/s88o_aU36jjbU7_hNrf1IA)
+> excalidraw还可以，脑洞图
+- [x] [React 是如何创建 vdom 和 fiber tree](https://mp.weixin.qq.com/s/NguDIp13M_A9y_ErMS-_7g)
+> vdom就是一个对象，fiber创建比较复杂。
+- [x] [分析网页 JavaScript Bundles 的几种方法](https://mp.weixin.qq.com/s/emJ_LjG7FNR81cxl8BnrMA)
+> chrome自带的coverage、webpack的webpack-bundle-analyzer、lighthouse。
+- [x] [前端组件设计原则](https://mp.weixin.qq.com/s/28CZweWnW8DcD7ELfIY4fw)
+> 文中提到的`层次结构和类图`我也在画，作者也在说没有标准，我也是用ppt画的。扁平化参数：尽量不要直接使用obj作为参数而应该扁平传参。作者最终的总结比较中肯，再写组件的时候值得参考。
+- [x] [前端必会 - CDN加速原理](https://mp.weixin.qq.com/s/eSpLgQPuvSfTKnwZLUlocQ)
+> cdn和dns入门
+- [x] [npm 依赖管理中被忽略的那些细节](https://mp.weixin.qq.com/s/JHDVh9wGj_YaTLtSz4AH7g)
+> 主要解释了为什么会有package-lock文件。
+- [x] [ECMAScript 双月报告：TC39 7月会议提案进度汇总](https://mp.weixin.qq.com/s/pCVN0WfzQGFY6cry0O8c5Q)
+> 总的来说es目前更新不是太快了，但是这些新的属性确实会方便我们的书写。
+- [x] [前端性能优化实践 之 百度App个人主页优化](https://mp.weixin.qq.com/s/DBKTVhD04kc_LNrD53BYBw)
+> 优化过程、优化点
+- [x] [网页布局都有哪种？一般都用什么布局？](https://mp.weixin.qq.com/s/WX4tZkP_EXjcxuRcNBwfmQ)
+> 各种布局的实现都说了。另外object-fit类似于background-size的用法，只是可以作用于dom节点上而不是background上。
+## 2020.8.21
+- [x] [深入解析 Vue 的热更新原理，尤大是如何巧用源码中的细节？](https://mp.weixin.qq.com/s/uhOXhACnPo_ot9ofIOLg1Q)
+> 源码分析类，里面贴了很多源码，有点头大。
+- [x] [轻松理解JS中的面向对象，顺便搞懂prototype和__proto__](https://mp.weixin.qq.com/s/TR0D6R2b9xeke64mkd-8QA)
+> 了解如何实现new就了解js是如何处理面向对象的。
+- [x] [从图片裁剪来聊聊前端二进制](https://mp.weixin.qq.com/s/ukCcIZ1wdM9G1l1E1dnBPw)
+> 作者遇到新东西以后的学习过程值得参考。
+## 2020.8.20
+- [x] [手写一个WebSocket协议](https://mp.weixin.qq.com/s/V3QfpOKpl-wl1Q3rVezWMQ)
+> 用nodejs的api通过ws协议在tcp长连接上实现ws协议。
+- [x] [由浅入深定制你的代码规范与检查](https://mp.weixin.qq.com/s/xH5XNPgubmoZHELZCRx3gA)
+> 感觉写得不是很明白呢。
+## 2020.8.19
+- [x] [对比 React Hooks 和 Vue Composition API](https://mp.weixin.qq.com/s/NeNcGbRBcpGis8uOzljHDg)
+> 文章把各种典型的hooks在vue和react中的实现方式做了一个对比。通过对比来理解不同框架的内部处理方式的差异，非常棒。
+- [x] [什么是人工智能自动编程？它只是一个噱头吗？](https://mp.weixin.qq.com/s/br9cl2wGFBkWVzDhc6HUGA)
+> 人工智能时代的代码补全。
+- [x] [最详细从零开始配置 TypeScript 项目的教程](https://mp.weixin.qq.com/s/NJM6Ts3QTaYzS9KHtH_M8w)
+> 从lint到githook到cicd，讲得很全
+- [x] [深色模式适配指南](https://mp.weixin.qq.com/s/XVckb7sw2_YVmhd4986qng)
+> 通过媒体查询、css变量实现web，还讲了客户端和flutter的实现方法。
+## 2020.8.18
+- [x] [了不起的 IoC 与 DI](https://mp.weixin.qq.com/s/7IkM0QdkxB5nZ9OTXXRxuw)
+> 这个概念不太熟
+- [x] [HTTP 无状态中的 "状态" 到底指的是什么？](https://mp.weixin.qq.com/s/Wuqx8HxDNdK355611VAIpA)
+> 佩服作者这种打破砂锅问到底的精神
+- [x] [用了这 7 个 VS Code 插件，想写一辈子代码](https://mp.weixin.qq.com/s/bTDiwiejCyMpHHzn-y7Xpg)
+> 插件收藏
 ## 2020.8.17
 - [x] [TypeScript实现八大排序与搜索算法](https://mp.weixin.qq.com/s/_oEUGbRLWQfe0R3_1R4uTw)
 > 列举了八大算法的ts代码。但是感觉说得不太清晰，没有介绍每种算法的优劣。
@@ -140,9 +295,9 @@
 - [x] [谈Vue组件的is特性](https://mp.weixin.qq.com/s/taFj7N_eTXyh5LPWRBX2Yg)
 > 可以在html标签中添加is，这种使用方法以前还没注意。
 - [x] [新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://mp.weixin.qq.com/s/8-243xANopfa7-2wnQITcw)
-> 比较新的header，看起来可以用来替代部分csp策略。
+> 比较新的header，看起来可以用来替代部分csp策略，但是他们不限制cookie的发送。
 - [x] [你不知道的 WebSocket](https://mp.weixin.qq.com/s/ptnK2-ihZNH8yZhkkX6sZQ)
-> 实现了一个client、server，实现了socket不同类型的解析。还分析了socket协议的数据帧格式。最后介绍了socket和七层网络模型。
+> 实现了一个client、server，实现了socket不同类型的解析。还分析了socket协议的数据帧格式。最后介绍了socket和七层网络模型和一张很好的图。
 - [x] [你不知道的浏览器渲染原理](https://mp.weixin.qq.com/s/EwcDVoypNHE1s5Wh1xyKLQ)
 > 比较全面，
 
@@ -201,7 +356,7 @@
 - [x] [Chrome 84 正式发布，支持私有方法、用户空闲检测！](https://mp.weixin.qq.com/s/vNTUfKKtxpSIbt1ZULui_g)
 > issue集合，动画api、wsam优化、强制samesite
 - [x] [在前端如何玩转 Word 文档](https://mp.weixin.qq.com/s/p7TKapQP4cv_IbFWcP_dFw)
-> docx是一个zip压缩包，通过解压和文档解析可以转为html和md。通过jszip可以在浏览器上zip
+> docx是一个zip压缩包，通过解压和文档解析可以转为html和markdown。通过jszip可以在浏览器上zip
 - [x] [我在项目中是这样配置Vue的](https://mp.weixin.qq.com/s/fjXfcCLNpSYt_Rotnjawxg)
 > githook、各种检测、各种优化
 ## 2020.7.20
