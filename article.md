@@ -1,4 +1,66 @@
 
+## 2020.9.21
+- [x] [尤大 3 天前发在 GitHub 上的 vue-lit 是啥？](https://mp.weixin.qq.com/s/Yc33h9-P2Y7vrJgaZRCCag)
+> 通过vue直接导出的reactive模块+webComponent实现一个vue-lit，也就是使用webComponent的响应式系统。
+- [x] [Promise 你可能真的还没用明白（续集进阶版）](https://mp.weixin.qq.com/s/7U5DTrSjhGuU4M7uw-QIgg)
+> Promise规范：https://www.ecma-international.org/ecma-262/#sec-newpromiseresolvethenablejob
+- [x] [小程序视角下同构方案思考](https://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247487546&idx=1&sn=21735712a8bc0f7f7100d64ae76d00e7)
+- [x] [请务必给 child_process 加上 on('data') 处理](https://mp.weixin.qq.com/s?__biz=MzI0MzA3MDQ2OA==&mid=2660174111&idx=1&sn=fe4f4329811538f5c1e88f5165cb8ce5)
+> 你一旦建立了子进程，且其 stdout 之类的是一个 pipe，你就必须对它的数据负责。哪怕你只是监听了这个事件，里面写个空函数，Node.js 也会认为你消费了，不然 Node.js 会把子进程的数据一直挂载在它 Stream 的缓存中，最后到一个水位（大于 16384 的时候）之后就停止读取子进程数据了。然后就会导致子进程写阻塞。
+- [x] [浅谈 React 中的 XSS 攻击](https://mp.weixin.qq.com/s/HweEFh78WXLawyQr_Vsl5g)
+> react和vue默认都对html进行了转义输出。文中还提到了一个xss的小游戏。
+- [x] [使用NodeJS实现JWT原理](https://mp.weixin.qq.com/s/RbDGbFaSk5BD0vTDaLiOWQ)
+> jwt主要就是直接在加密串中保存了用户的信息，server通过这个信息直接对当前用户进行鉴权而不需要查库。意思就是jwt里说它是谁就是谁。为了防止篡改进行了加密算法。jwt的缺点是一旦这个串生成后就无法销毁，因为服务端没保存这个串。如果要销毁，只能改签名，而改了签名所有人的令牌都会失效。
+
+## 2020.9.18
+- [x] [给大伙儿盘一盘，那些提效/创意的 vscode 插件](https://mp.weixin.qq.com/s/ktcyI_MlPNwGEmoL4hGPUA)
+> git插件、美化编辑器
+## 2020.9.17
+- [x] [3行核心CSS代码的rate评分组件，秀到你怀疑人生](https://mp.weixin.qq.com/s/pnRaqy5UNTOxEtRFni3TpA)
+> 用checkbox模拟点击、用兄弟节点选中实现多选。实际上30行都不止
+- [x] [聊聊前端监控—错误监控篇](https://mp.weixin.qq.com/s/liqi_rLXBwPf3U4lKnI3gg)
+> 捕获各种错误的方法。
+- [x] [智能UI：面向未来的UI开发技术](https://mp.weixin.qq.com/s/1RNEQb8N68Muu6YmFa-QrQ)
+> imgcook提供了vscode插件，可以试试。
+- [x] [用TypeScript装饰器实现一个简单的依赖注入](https://mp.weixin.qq.com/s/waBAJgYaOJQu2qdcbgmi1A)
+> 非常不错的ioc容器实现，利用装饰器实现依赖注入。
+## 2020.9.16
+- [x] [打破云和端的那堵墙，​Midway Serverless 带你感受云端一体应用研发](https://mp.weixin.qq.com/s/mEa-w8yw03c5tj6e5Mdu_Q)
+> ioc(控制反转)容器，实现了依赖注入，从而各个模块通过ioc容器来进行耦合，相互独立，ioc做到了完全的解耦。Midway通过hook来实现了ioc.
+- [x] [网站图标开发指南](https://mp.weixin.qq.com/s/iE5qVY8EXBYZRqgiqIG3xA)
+- [x] [手写React-Router源码，深入理解其原理](https://mp.weixin.qq.com/s/7VhY0NKAVjcai2JwsdXwBQ)
+> 文章质量不错，值得在研究router的时候参考。
+- [x] [三份适合工薪族的作业，抄完走向财务自由](https://mp.weixin.qq.com/s/p2-CQUiLvBfyDnKv9PWZPw)
+> 奶爸码农对理财研究得也挺多的
+## 2020.9.15
+- [x] [谈谈 MySQL 的 JSON 数据类型操作](https://mp.weixin.qq.com/s/13BVGKEukFtDsDnKCQrP6Q)
+> 提供了通过path对json进行修改的各种语法
+- [x] [设计稿生成代码与 Serverless 的前世今生和未来！](https://mp.weixin.qq.com/s/T9JnQSAi4pBOb_8NyvLrTw)
+> 阿里的imagecook
+- [x] [为你的 Vue.js 单页应用提速](https://mp.weixin.qq.com/s/167wVJIUOchhDUUgRwpXHA)
+> funciton组件值得尝试，特别是在同时加载大量组件的情况下。
+- [x] [浅析鸿蒙 JavaScript GUI 技术栈](https://zhuanlan.zhihu.com/p/240594356)
+> nice，这人的文章看着舒服。分析得非常中立，而且比较实在。`干货`
+## 2020.9.14
+- [x] [硬核看房利器——Web 全景的实现](https://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651893736&idx=1&sn=52a2da5122025ac292e4c8f99f611b2e&scene=21#wechat_redirect)
+> 不是很硬核。主要讲如何实现一个球体。
+- [x] [鸿蒙系统中的 JS 开发框架](https://mp.weixin.qq.com/s?__biz=MzI0NTAyNjE0NQ==&mid=2675578259&idx=1&sn=3b615746ba8d05a763433595269197a1&scene=21#wechat_redirect)
+> 这文章 不知道在说啥呢
+- [x] [【实战指南】如何写一款小程序 Prettier 插件](https://mp.weixin.qq.com/s?__biz=MzAxMDgyMTkyNg==&mid=2247483825&idx=1&sn=860cfe48b844c08d3e89f897f17bf41a&scene=21#wechat_redirect)
+> 通过Prettier的暴露的插件模块实现自定义的美化插件。
+- [x] [“个人主页”设计相关思考](https://mp.weixin.qq.com/s?__biz=MjM5NjA2Njc4Ng==&mid=2257488032&idx=1&sn=21c1b5570f0102508f926329fa5a7778&scene=21#wechat_redirect)
+> nice
+- [x] [用 Rust 和 N-API 开发高性能 NodeJS 扩展](https://mp.weixin.qq.com/s/tCSMdABQiZXJwYCa6REBGg)
+> 看不懂，mark
+- [x] [10 个你可能还不知道 VS Code 使用技巧](https://mp.weixin.qq.com/s/a5TEPwOFTh0l1zCr5Aq5Sw)
+> 记录
+- [x] [女生如何在前端职业发展中寻求突破](https://mp.weixin.qq.com/s/zo_pk5a5rozEjvQWiOIboA)
+> 一个很好的规划+执行力
+- [x] [唐朝人更懂React](https://mp.weixin.qq.com/s/xNqQCgFf3u4_d05eihmhxA)
+> 故事不错
+- [x] [细数 TS 中那些奇怪的符号](https://mp.weixin.qq.com/s/n4rQF9f-WPi7DgdMCe7jYQ)
+> `干货`。各种写法的集合。
+- [x] [贵重：如何在助推业务发展中成就自我](https://mp.weixin.qq.com/s/OYl8xOyzNScgEzJoYWtHZg)
 ## 2020.9.11
 - [x] [『极限版』不掺水，用纯 CSS 来实现超飒的表单验证功能](https://mp.weixin.qq.com/s/xgNirkhQCXRIg7xTj4gtKQ)
 > 通过:placeholder-shown伪类判断placeholder是否显示。学到了。
