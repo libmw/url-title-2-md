@@ -1,3 +1,158 @@
+## 2020.10.29
+- [x] [浏览器 DOM 元素的事件代理指的是什么](https://mp.weixin.qq.com/s/uYaarHAezX8vush4c1LG7w)
+> addEventListener第三个参数代表是否在捕获阶段。默认为false，再次加深印象。
+- [x] [【webpack 性能优化】编译速度从 50S 到 7S](https://mp.weixin.qq.com/s/w1bAVsebHy0VNv3KXXttHg)
+> speed-measure-webpack-plugin检测速度，然后可以用各种缓存来提升性能。但是webpack5本身已经把很多优化默认考虑进去了。
+- [x] [React hooks 最佳实践【更新中】](https://mp.weixin.qq.com/s/0sykIHDM_Ih3W3md-DwFkw)
+- [x] [Chrome V8让你更懂JavaScript](https://segmentfault.com/a/1190000037435824)
+> `干货`。编译器、字节码、机器码、栈和堆、一等公民、闭包、事件循环、宏任务微任务，这篇文章把原理性的东西讲得非常好!
+## 2020.10.28
+- [x] [如何1人5天开发完3D数据可视化大屏](https://mp.weixin.qq.com/s/f1ikt6K7kXdoezrVodgaHw)
+> three.js开发地球及飞线
+- [x] [花椒前端基于WebAssembly 的H.265播放器研发](https://mp.weixin.qq.com/s/tV2Z_YhYk0yOz5YAYTSCPw)
+> 未开源。大概的思路和https://github.com/sonysuqin/WasmVideoPlayer是一致的。
+- [x] [Chrome 上开发调试的九个真香技巧](https://mp.weixin.qq.com/s/JMgNYcuGzOt1_6b9euGyKg)
+> 一键展开所有子元素、过滤is:running请求，值得参考
+## 2020.10.27
+- [x] [Drone 自定义 UI](https://mp.weixin.qq.com/s/HDq5Sr1swvbDaJ06mGNBeg)
+> Drone是go写的一个基于docker的ci/cd的工具。
+- [x] [精读《设计模式 - Prototype 原型模式》](https://mp.weixin.qq.com/s/-vWgJJxTyAlqOkLrxBWNBg)
+## 2020.10.26
+- [x] [npm v7.0.0 发布 - 带来数个重大更新](https://mp.weixin.qq.com/s/NMHOgbqr27id8HZO5GW4bg)
+> 可以自动安装peerDependencies了
+- [x] [77.9K 的 Axios 项目有哪些值得借鉴的地方](https://mp.weixin.qq.com/s/OWUpLpOOMFG9JJSg6gJKxg)
+> 原来Axios有自己的mock库
+- [x] [2020 年你不应该错过的 CSS 新特性](https://mp.weixin.qq.com/s/24H-IJheTX5LRVZQpfyF9Q)
+- [x] [如何从 0 到 1 搭建性能检测系统](https://mp.weixin.qq.com/s/RCZ_Ue7DLrrChXJUwGTdow)
+> 相当于一个完整的nodejs项目了。
+## 2020.10.23
+- [x] [当我谈 Rax 按端拆分代码的时候我谈些什么](https://mp.weixin.qq.com/s/tUcQNchbv8rMiACDQKJ13Q)
+- [x] [​你见过 HTTP 哪些状态码？](https://mp.weixin.qq.com/s/0zjQKzAEzW5VcY3VhIDpSQ)
+> 203比较有意思
+- [x] [【答疑解惑】为什么你的 Charles 会抓包失败？](https://mp.weixin.qq.com/s/w51_B1pOsK_weEQvQP5oFg)
+> 一些设置可能导致抓包失败
+- [x] [TypeScript： 请停止使用 any](https://mp.weixin.qq.com/s/2_p7o2PKZwx8LEgW0w8Wsg)
+## 2020.10.21
+- [x] [新的浏览器缓存策略变更：舍弃性能、确保安全](https://mp.weixin.qq.com/s/8oL4Z4ewTl0VbQ_0BH4n7w)
+> 缓存的key将由一级域名+iframe一级域名+资源地址来组成。同样的key才能命中缓存。chrome在86里开始支持此策略。
+- [x] [你需要知道良好的 CSS 编码习惯](https://mp.weixin.qq.com/s/pvqx2ZsN0SVMkyi546ci7w)
+> css的书写顺序可以参考一下，感觉比较科学。
+- [x] [使用Vue3重构vue2项目](https://mp.weixin.qq.com/s/hMKlmbQiH0Fp_GdnSVMyKA)
+> 主要是让项目跑起来。
+## 2020.10.20
+- [x] [设计一个JavaScript插件系统](https://mp.weixin.qq.com/s/56I2tKce6T2NKYoF83Qlpw)
+> 一个简单的js插件系统的设计
+- [x] [10分钟快速过一遍PM2核心知识点](https://mp.weixin.qq.com/s/5xGhV-70yjUGgyYHesHTRA)
+> pm2创建一个守护进程，然后由它来启动真正的进程，所有进程都由这个守护进程管理。
+## 2020.10.19
+- [x] [【纯干货】前端 CLI 脚手架思路解析](https://juejin.im/post/6879265583205089287)
+> 文章一般，主要对代码。好在全面。
+- [x] [Vue源码解析，keep-alive是如何实现缓存的？](https://mp.weixin.qq.com/s/m1hkczyqHz14ri_oC082fw)
+- [x] [敏感数据加密方案及实现](https://mp.weixin.qq.com/s/yzJt4y2WRXdI4zoCalYd2Q)
+> 通过类https的方式在浏览器上对数据进行了对称加密并通过非对称传递了对称密钥。
+- [x] [ECMAScript 2020新特性](https://mp.weixin.qq.com/s/C-9UUVB7d59zLHILhVC6TQ)
+> 加深印象
+- [x] [从 UNMET PEER DEPENDENCY 中理解依赖版本管理](https://mp.weixin.qq.com/s/hqvEp5IvoTBd40DgXrPSgA)
+> `npm依赖管理`
+## 2020.10.16
+- [x] [手动实现一个 JavaScript 模块执行器](https://mp.weixin.qq.com/s/9GU-xOm_9ex1QytBzc04Ow)
+> 通过Function实现module参数注入，通过with+Reflect.proxy实现沙盒环境。
+- [x] [用Canvas实现一个动态甜甜圈图表](https://mp.weixin.qq.com/s/zZYDBdn6mwhNym03R__m2Q)
+> 帧动画，requestAnimation
+- [x] [深入揭秘前端路由本质，手写 mini-router](https://mp.weixin.qq.com/s/3_S3853OYBdWS4sSX_IcPA)
+## 2020.10.15
+- [x] [Vue3原理实战运用，我用40行代码把他装进了React做状态管理](https://mp.weixin.qq.com/s/kYX5GJWld4mUOsQ6mdpmuA)
+> vue3的响应式库。
+- [x] [Dan — 从外包到React核心团队成员](https://mp.weixin.qq.com/s/MBqZQZL-K-C2xVPllOCt4A)
+> redux作者聊自己的编程经历，一个很早就加入react core team的人
+- [x] [聊聊 ESM、Bundle 、Bundleless 、Vite 、Snowpack](https://mp.weixin.qq.com/s/DkOHjCAdTk3uy4lBnrUESQ)
+- [x] [Next.js + TypeScript 搭建一个简易的博客系统](https://mp.weixin.qq.com/s/QM6MSsYK4cCv0i46TJExUw)
+## 2020.10.14
+- [x] [如何从 0 到 1 打造团队 PC/H5 构建工具](https://mp.weixin.qq.com/s/YpQX5awxnfzRgW3QsqLiCg)
+> 女生写的文章看起来好像要轻松很多。`ci cd`讲得很明白的。
+- [x] [【阿里】在 nginx 中如何配置负载均衡](https://mp.weixin.qq.com/s/vVPl1_VCO7lfuAoL2nRSSw)
+- [x] [深入学习 React 合成事件](https://mp.weixin.qq.com/s/5GJztZvGsXjclY9TnriGLQ)
+> react自己实现的事件系统
+## 2020.10.13
+- [x] [你需要了解的几种 JavaScript 异常类型](https://mp.weixin.qq.com/s/cfTPRS1Q6_rfEzWvQLAZbw)
+> 系统抛出的异常有类型标记。异常主要是error和name属性。
+- [x] [实用的 bash 自定义脚本，快速提效工作流程](https://mp.weixin.qq.com/s/MdElPG4TV76eGVx7jQfDgw)
+- [x] [零距离接触websocket！](https://mp.weixin.qq.com/s/IfQwmxZKXBia9L_g42N1mQ)
+> webSocket的server和client示例
+- [x] [浏览器是如何调度进程和线程的？](https://mp.weixin.qq.com/s/bkSmKYGHk0V5eZIfuSTNyQ)
+- [x] [如何制作 Sketch 插件](https://mp.weixin.qq.com/s/776r6N-XWD7ag0VsFDtBgQ)
+> 有点像浏览器插件
+- [x] [ECMAScript 双月报告：TC39 9月会议提案进度汇总](https://mp.weixin.qq.com/s/FtrpnyB-QTo8y-dhyXvsag)
+- [x] [【淘宝】实现一个函数用来解析 URL 的 queryString](https://mp.weixin.qq.com/s/Vijiel-IDp_P1QeFgdnKyA)
+> 原生有URLSearchParams和URL类来处理url
+## 2020.10.12
+- [x] [搭建一个属于自己的在线 IDE](https://juejin.im/post/6882541950205952013)
+> `在线IDE`
+- [x] [浅析 vue-router 源码和动态路由权限分配](https://mp.weixin.qq.com/s/mf8BFkQvkO13L9QssU8mjA)
+> 时间多就是好
+- [x] [我写炫酷 CSS 效果的常用套路](https://mp.weixin.qq.com/s/kHBBxXap6dKIZojeYnjGPA)
+> `CSS的API`，通过原生CSS.registerProperty()可以注册css变量
+- [x] [10个实用技巧让你的 Vue 代码更优雅](https://mp.weixin.qq.com/s/s1GxDbyQ21ENlsFemcIcUw)
+> 通过`@hook:mounted`实现对子组件生命周期的监听、把父组件的属性、事件等直接打包传递到子组件。`vue技巧`
+- [x] [React官方状态管理库—— Recoil](https://mp.weixin.qq.com/s/EWcTOB08oU96OcQ-41FbPA)
+> 最新的react状态管理库，其主打的是高性能以及可以利用 React 内部的调度机制
+- [x] [2020年前端面试复习必读文章【超三百篇文章/赠复习导图】](https://juejin.im/post/6844904116339261447)## 2020.10.10
+- [x] [支付宝 App 3D 动画和小游戏背后的故事](https://mp.weixin.qq.com/s/UOFEc4w4rRAQXtIVEm444Q)
+> `3D`,`支付宝小游戏`
+- [x] [关于数据智能浪潮对前端技术发展影响的一些思考](https://mp.weixin.qq.com/s/HnKbCa3JIBBGWSOrZ-vo_Q)
+- [x] [程序员如何把控自己的职业](https://coolshell.cn/articles/20977.html)
+> 陈皓写的
+## 2020.10.9
+- [x] [vue源码中值得学习的方法](https://mp.weixin.qq.com/s/0btRqLjz1sD0A00lT3pI_g)
+> vue源码中的一些方法，部分分析得一般。
+- [x] [AntV 的可视化交互语法探索](https://mp.weixin.qq.com/s/QfMXx3ZPgu0sA1S_MFB08A)
+- [x] [你的Tree-Shaking真的起作用了吗](https://mp.weixin.qq.com/s/WncaUekzCWEVspuaNbv8Sw)
+> 编译软件在做tree shaking的时候非常谨慎，因此很多代码都没办法被shaking掉。目前的shaking都是比较难做的。
+- [x] [NPM 组件你应该知道的事](https://mp.weixin.qq.com/s/Sx171hDbQS1yKQemJXxKbQ)
+> 这篇文章也是在讲esm模块化和tree shaking的。在开发npm包的时候，我们如何导出我们的包，如何让使用者能够进行tree shaking。
+- [x] [不用try catch，如何机智的捕获错误](https://mp.weixin.qq.com/s/ne7Ts5fagf6xFq7mNhr2ng)
+- [x] [从 12.9K Star 的前端开源项目我学到了啥？](https://mp.weixin.qq.com/s/H1ek2KQ-IGDmkBoW6hL2zg)
+> 插件化的组件设计思想
+- [x] [编写高质量可维护的代码：一目了然的注释](https://mp.weixin.qq.com/s/4Qq3-QFdyurL2ajbi4N0oQ)
+> 各种注释方法和约定的集合
+- [x] [前端如何快速上手 Web 3D 游戏的开发](https://mp.weixin.qq.com/s/tBgGB8PAw2MTRpRgdGUBXA)
+> 阿里内部Oasis Editor 3d编辑器。
+- [x] [前端技术未来三年前瞻性思考](https://mp.weixin.qq.com/s/M8zKqMcTI8RZxw4S10ENnw)
+- [x] MDN-Browser-Compatibility-Report-2020.pdf 已上传到**微云/文档/book**
+## 2020.9.25
+- [x] [前端技术观察第26期](https://mp.weixin.qq.com/s/WrTfwTinEDwK1qJe-MmeAA)
+> 新函数minimum，clamp等来实现响应式,Brahmos响应式+模板组件，inspect.dev用来调试手机页面，https://printjs.crabbly.com/用来打印pdf文件，https://web-padawan.github.io/vanilla-colorful/拾色器https://fengyuanchen.github.io/cropperjs/图片裁剪器。
+- [x] [如何在 Node.js 中判断一个文件是否存在？](https://mp.weixin.qq.com/s/9s46JZ8n4XDKFHrSoxkj5A)
+- [x] [玹疯：这些年我走过的弯路](https://mp.weixin.qq.com/s/Q8IwHtB69TtnqOVZ3lY9tQ)
+> 这货的经历还是比较多的。
+- [x] [Node.js 中的 require 是如何工作的？](https://mp.weixin.qq.com/s/cXYnTHEN5RkCn3isdG8Q8g)
+> 写的比较清楚
+## 2020.9.24
+- [x] [基于 ffmpeg + Webassembly 实现前端视频帧提取](https://mp.weixin.qq.com/s/X3E2-P1QzKfnbNdzYEQ16A)
+> 大概讲了下流程，具体 的实现还需要研究下文档。
+- [x] [JavaScript：为什么命名参数比位置参数更好](https://mp.weixin.qq.com/s/ONtLGlv-jJdoERLzo99Bdg)
+> 感觉不一定。位置参数可以很明确的告诉你哪些参数是必须的。
+- [x] [或许这就是下一代组件库](https://mp.weixin.qq.com/s/3vDiMStL_8FPN7rfboCW7A)
+> 类似于vue-lit。把响应式当成一个工具库来使用，从而解耦ui和逻辑。
+- [x] [关于长期主义者的思考](https://mp.weixin.qq.com/s/JQQEuyzaz_HInWNGnOwhVw)
+> 寒窗十年，方可金榜题名
+- [x] [不四：产品工程师的修炼之路](https://mp.weixin.qq.com/s/OwtQCpHwPSO2tYWcwZRJRg)
+> 这人我应该见过。
+## 2020.9.23
+- [x] [沙洲：换个视角看前端职业发展](https://mp.weixin.qq.com/s/-NmI0sNEwimEpS-yNHCinA)
+> 人生天地间，各自有禀赋。为一大事来，做一大事去
+- [x] [摸金校尉聊浏览器渲染](https://mp.weixin.qq.com/s/9cJbRURyKK6f2h6UbLNUew)
+> 分析浏览器的eventLoop，比较形象。
+- [x] [祖传技术栈改造，从照抄大公司作业开始](https://mp.weixin.qq.com/s/FlOJCZX-q7OKyElJH7wsgA)
+> 一个广告
+## 2020.9.22
+- [x] [全面分析toString与valueOf，并随手解决掉几道大厂必备面试题](https://mp.weixin.qq.com/s/znprvU9dreSS8WXUHCQnvQ)
+> 这两个函数和Symbol.toPrimitive在一些改动默认行为上非常有用，如实现柯里化累加。
+- [x] [从生产到消费，基于物料的前端开发链路](https://mp.weixin.qq.com/s/HnhLYVOmaebZaXuxH_lqBA)
+- [x] [使用 SVG 制作加载动画](https://mp.weixin.qq.com/s/y5rhwYGFH1wn5t8FOrNdFA)
+> 通过css对svg的节点进行动画变化
+- [x] [精读《设计模式 - Abstract Factory 抽象工厂》](https://mp.weixin.qq.com/s/4sNlrITaAEVSlpPwhxZnRg)
+> 把多个类的耦合通过工厂函数组合起来。
 
 ## 2020.9.21
 - [x] [尤大 3 天前发在 GitHub 上的 vue-lit 是啥？](https://mp.weixin.qq.com/s/Yc33h9-P2Y7vrJgaZRCCag)
