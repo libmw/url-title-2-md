@@ -1,3 +1,45 @@
+## 2020.11.16
+- [x] [精读《设计模式 - Bridge 桥接模式》](https://mp.weixin.qq.com/s/8_--YCHgGPtYRzADQytUpQ)
+> 把某一个A类的某些功能变成一个基础功能，封装到另一个类Base里。然后在扩展这个A类的时候，做一些基础的事情就用Base类里的实现。这样的好处就是我们不需要去改A类，只需要改Base类，相当于对A类做了一个再抽象。而就算改A类又如何呢？并不会带来更多的工作量，只是从抽象逻辑上来说解耦不好、职责划分不明确。
+- [x] [Vue 在哪些方面做的比 React 更好？](https://mp.weixin.qq.com/s/7W4lqQdfwvu46udbmgFn9Q)
+> 一看就是歪果仁写的。vue在简洁性上确实很酷，不过大家都有自己的基因，但是融合一下是不是也挺好？
+- [x] [硬核知识点——浏览器中的三类五种请求](https://mp.weixin.qq.com/s/5padzZG92LOKlp3knRawjQ)
+- [x] [tinyTorrent: 从头写一个 Deno 的 BitTorrent 下载器 - CJ Ting's Blog](https://cjting.me/2020/10/31/tinytorrent-a-deno-bt-downloader/)
+## 2020.11.12
+- [x] [这些高阶的函数技术，你掌握了么](https://mp.weixin.qq.com/s/S6Xu-GITB8l1QfK5nFFRbQ)
+> 高阶函数、函数组合、柯里化、偏函数、惰性函数和缓存函数。lodash本身实现了很多函数。
+- [x] [如何在 Node.js 中 ”相对可靠” 的高效执行可信三方的代码](https://mp.weixin.qq.com/s/I8aRT2OUHjKjNb-Zl_CZ9Q)
+> nodejs的沙盒实现方式。沙盒永远都是一个比较难解决的问题。
+## 2020.11.9
+- [x] [全面拥抱 Reactivity: RxJS, RSocket & Svelte](https://mp.weixin.qq.com/s/n2uJ3pLsvhzWI6noo-FrZw)
+> 现在都是直接响应式的内核来搞了。vue也类似的东西了。
+- [x] [如何打造一款标准的 JS SDK ？](https://mp.weixin.qq.com/s/zxXod2FyRqg93TkvP_2Bdw)
+- [x] [结合阿里云 FC 谈谈我对 FaaS 的理解](https://mp.weixin.qq.com/s/cZm1sdMB7Cid48KD-0mpkA)
+> 阿里云faas使用教程。
+## 2020.11.6
+- [x] [Chrome 86 重要更新解读](https://mp.weixin.qq.com/s/MxDlXIWIcgQOB_7ZWQEhqw)
+> 可以访问文件系统了。
+## 2020.11.3
+- [x] [常见登录鉴权方案](https://mp.weixin.qq.com/s/z7fxgnkK96jfPs5I672kQA)
+> 比较全面的登录鉴权方案总结。
+## 2020.11.2
+- [x] [纯CSS实现密室逃脱游戏](https://mp.weixin.qq.com/s/uoR-lJRqR9hUevPsK-t1xg)
+- [x] [【告别复制粘贴】动态模板生成小技巧](https://mp.weixin.qq.com/s/Yd7WNO8Ix8CaOM2APoeUgg)
+> snippets搞起来
+- [x] [前端不得不懂的架构知识（上）](https://mp.weixin.qq.com/s/Kta4kTKMx6EJ2P54we5fEg)
+- [x] [css晦涩难懂的点都在这啦](https://mp.weixin.qq.com/s/ENbUHy4xVnmO6o66JjbD7Q)
+> 还不错，很多基础的知识点。如bfc ifc、flex常见用法等都有。
+- [x] [Vue 文档编写指南 | Vue.js](https://v3.cn.vuejs.org/guide/contributing/writing-guide.html)
+> vue3.0官方文档编写指南，有些看不懂
+- [x] [Native地图与Web融合技术的应用与实践](https://mp.weixin.qq.com/s/RKGJOtRMjTetTZRIGzqH_Q)
+> 通过分层渲染来解决native与webview视觉交集问题。
+## 2020.10.30
+- [x] [JavaScript实现继承](https://mp.weixin.qq.com/s/ZyNu6qbCTzrnlEc-EgKmSQ)
+> 搞清楚继承要干的事情更重要。
+- [x] [一文让你30分钟快速掌握Vue3](https://mp.weixin.qq.com/s/qPRNGX895xz9y25HR5FvsA)
+> 感觉并没有把核心说得简单明白
+- [x] [读懂开源项目的思路和技巧](https://mp.weixin.qq.com/s/EiPKvNZgWlVr507pQH7jLw)
+> 文中工具值得参考
 ## 2020.10.29
 - [x] [浏览器 DOM 元素的事件代理指的是什么](https://mp.weixin.qq.com/s/uYaarHAezX8vush4c1LG7w)
 > addEventListener第三个参数代表是否在捕获阶段。默认为false，再次加深印象。
@@ -23,7 +65,7 @@
 - [x] [77.9K 的 Axios 项目有哪些值得借鉴的地方](https://mp.weixin.qq.com/s/OWUpLpOOMFG9JJSg6gJKxg)
 > 原来Axios有自己的mock库
 - [x] [2020 年你不应该错过的 CSS 新特性](https://mp.weixin.qq.com/s/24H-IJheTX5LRVZQpfyF9Q)
-- [x] [如何从 0 到 1 搭建性能检测系统](https://mp.weixin.qq.com/s/RCZ_Ue7DLrrChXJUwGTdow)
+- [x] [如何从 0 到 1 搭建性能检测系统](https://www.zoo.team/article/performance-testing-system)
 > 相当于一个完整的nodejs项目了。
 ## 2020.10.23
 - [x] [当我谈 Rax 按端拆分代码的时候我谈些什么](https://mp.weixin.qq.com/s/tUcQNchbv8rMiACDQKJ13Q)

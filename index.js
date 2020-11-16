@@ -34,8 +34,8 @@ async function url2md(urls){
 }
 
 url2md([
-    'https://mp.weixin.qq.com/s/uYaarHAezX8vush4c1LG7w',
-    'https://mp.weixin.qq.com/s/w1bAVsebHy0VNv3KXXttHg',
-    'https://mp.weixin.qq.com/s/0sykIHDM_Ih3W3md-DwFkw',
-    'https://mp.weixin.qq.com/s/E-c9gsk-kxIwnwY4R5z_3Q',
+    'https://mp.weixin.qq.com/s/8_--YCHgGPtYRzADQytUpQ',
+    'https://mp.weixin.qq.com/s/7W4lqQdfwvu46udbmgFn9Q',
+    'https://mp.weixin.qq.com/s/5padzZG92LOKlp3knRawjQ',
+    'https://cjting.me/2020/10/31/tinytorrent-a-deno-bt-downloader/',
 ]);
