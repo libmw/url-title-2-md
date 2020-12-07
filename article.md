@@ -1,3 +1,125 @@
+## 2020.12.7
+- [x] [一文彻底搞懂前端监控](https://mp.weixin.qq.com/s/l6Crug0SwmgqT2hWYrSrgg)
+> 介绍了一些监控平台、指标、promise捕获方式。
+- [x] [使用 Netlify 免费托管前端项目](https://mp.weixin.qq.com/s/3M-5cQ-KaKKctO-OvzfrKw)
+> 和vercel差不多的东西。
+- [x] [CodeReview 下一代：基于 KAITIAN 的纯前端 CR IDE](https://mp.weixin.qq.com/s/B6cot5phZ1CM_pwUkE156A)
+- [x] [Element UI for Vue 3.0 来了！ - 知乎](https://zhuanlan.zhihu.com/p/321311020)
+- [x] [前端元编程——使用注解加速你的前端开发 - 知乎](https://zhuanlan.zhihu.com/p/274328551)
+> 利用装饰器和reflectMeta实现元编程
+- [x] [揭密可视化专家配色秘笈，你在乎的颜色远远不够 - 知乎](https://zhuanlan.zhihu.com/p/112540818)
+> 各种颜色的搭配知识
+- [x] [全球化文案设计: 简明易懂、四海达意](https://mp.weixin.qq.com/s/QEnwoK_N_0IZ97l7NCjJPQ)
+> 文中提到的文案设计规则都非常非常的棒。
+## 2020.12.4
+- [x] [JavaScript 引擎 V8 执行流程概述](https://mp.weixin.qq.com/s/qFVxdN2J3qYbBo8_q93SAA)
+> 讲解了V8编译出来的字节码和字节码执行流程以及turboFan的优化流程。还有两个google的ppt放送。
+- [x] [盒马中后台跨端方案探索](https://mp.weixin.qq.com/s/KsxBN0woBl33C-LKiqBMxA)
+> Design token是个很好的概念。
+- [x] [谈谈前端水印](https://mp.weixin.qq.com/s/r3YxTiblMErCxq5W_GmXVQ)
+> 主要谈加密水印，还提到了公众号文章头图生成：https://www.gaoding.com
+- [x] [github actions 入门指南及实践](https://mp.weixin.qq.com/s/5lTi1mRY46i7xtXl23xOKQ)
+> nice
+- [x] [闲庭信步聊前端 - 揭开视频直播神秘面纱](https://mp.weixin.qq.com/s/14sPMH_yQNCUyuSIvkB9EA)
+> 介绍基本的视频知识
+
+## 2020.12.3
+- [x] [如何用 Babel 为代码自动引入依赖](https://mp.weixin.qq.com/s/8sElRWNiBD2rc9jWCYS05g)
+> 通过babel插件的方式更改ast
+- [x] [如何使用免费服务搭建一个博客](https://mp.weixin.qq.com/s/ju2ms7erHU3qIdi4zCEHAw)
+> 各种搭建静态网站的方法。
+## 2020.12.2
+- [x] [Chrome 87 新特性解读，多年来 Chrome 性能最大提升！](https://mp.weixin.qq.com/s/38J8xeoVQXaPLslCWKYv7Q)
+- [x] [ECMAScript 双月报告：TC39 11月会议提案进度汇总](https://mp.weixin.qq.com/s/UjBPDJabLnVn-Zeozf5U4w)
+## 2020.12.1
+- [x] [科普：直播知多少](https://mp.weixin.qq.com/s/k1P-ByR7HfE07-ikLyTqfA)
+- [x] [精读《设计模式 - Decorator 装饰器模式》](https://mp.weixin.qq.com/s/2Uml6--24xQGCJ-2KMGJpQ)
+> 感觉例子不够形象。
+## 2020.11.30
+- [x] [VSCode 配置 ESLint + Prettier](https://mp.weixin.qq.com/s/NxcyK3VgA09p6pRJo3zcgg)
+- [x] [大型小程序如何研发提效](https://mp.weixin.qq.com/s/Bnz3o3--57ehf1AnuTg07g)
+> 滴滴出的多端小程序方案，chameleon
+- [x] [聊一聊 15.5K 的 FileSaver，是如何工作的？](https://mp.weixin.qq.com/s/yUcEpLJS8UlxhfDl9zIHtw)
+> 介绍了前端保存文件的多种方案
+- [x] [「 giao-js 」用js写一个js解释器](https://juejin.cn/post/6898093501376905230)
+> 解释器感觉还是acorn的，执行器是自己写的
+- [x] [移动端UI一致性解决方案](https://mp.weixin.qq.com/s/oq7ylltdRIdJuSlL7EIiNA)
+> 美团前端的公共资源管理方案。
+
+## 2020.11.27
+- [x] [从前端性能优化引申出来的5道经典面试题(值得收藏)](https://mp.weixin.qq.com/s/qiU8wK9Yb-YrcdZaY-hCkA)
+> 浏览器优化和webpack优化
+- [x] [React 是如何工作的](https://mp.weixin.qq.com/s/ifLP36rFhYJsU2RCAi7OZQ)
+> 一篇文章入门react原理，值得一看
+
+## 2020.11.26
+- [x] [一文带你快速上手Rollup](https://mp.weixin.qq.com/s/rlpDRrW_b4lKk0IQarmOjw)
+> Rollup的入门教程和常用使用方式。
+- [x] [几乎刷完了力扣所有的树题，我发现了这些东西。。。](https://mp.weixin.qq.com/s/5NOYxtF3_sioi9QWp2JPNg)
+> 头大
+## 2020.11.25
+- [x] [教你用VS Code插件实现五彩斑斓的伪代码](https://mp.weixin.qq.com/s/sLYZPVtDoyLWnJ3sZ02cDA)
+> 通过go生成vs code插件项目，然后定制文件类型通过配置进行代码高亮。具体见项目。
+- [x] [谷歌CSP工程化实践导读](https://mp.weixin.qq.com/s/JnuXlgZo5nIQgUtyQUYs9A)
+> csp各个级别和google实践指导。
+- [x] [前端业务安全综述（防爬、防薅、人机校验等）](https://mp.weixin.qq.com/s/eQKqiBbiuw-_RwWVYUnFXg)
+> 前端各种安全概念
+- [x] [“混合双打”之如何在 Class Components 中使用 React Hooks](https://mp.weixin.qq.com/s/I8WKWMAU_voRuLhbavpyuQ)
+- [x] [技术有温，代码有爱: 如何让互动能说话？](https://mp.weixin.qq.com/s/8pj-AJc5J_A9GCJjN87Ojw)
+> 障碍人群如何提供读屏功能
+- [x] [说一说will-change](https://mp.weixin.qq.com/s/rbDZntqZd8VcbDjQFER2Yw)
+> 利用will-change来优化css的动画渲染速度，比如在鼠标hover到父元素的时候就出发子元素可能发生改变的属性的will-change。
+## 2020.11.24
+- [x] [百亿业务流量-如何做好稳定性监控](https://mp.weixin.qq.com/s/iV5hkuC3KWgbgAQbPzDcbQ)
+> 内部的jsTracker，并没看到开源。其中的一些策略可以学习。
+- [x] [图片懒加载从简单到复杂](https://mp.weixin.qq.com/s/qSZaJQIagwhwNwEm96sujw)
+- [x] [打工人，打工魂，打工不懂工具忙死人，教你如何优雅使用webpack5.0](https://mp.weixin.qq.com/s/dP1DYpGDcazG_GMilhFWNQ)
+> webpack5的模块联邦功能值得学习。
+
+## 2020.11.23
+- [x] [​Chrome 87新功能：支持操作相机、访问本地字体](https://mp.weixin.qq.com/s/S78Qa5GOmtGfXQm2nG4QPQ)
+- [x] [6 题 JavaScript 数组相关编程题](https://mp.weixin.qq.com/s/FTOaE8wgtPP5CKYjK6lTWg)
+- [x] [前端换肤的N种方案，请收下](https://mp.weixin.qq.com/s/LgItijgdSMlHTIAj6ejw7A)
+- [x] [MongoDB 副本集之入门篇](https://mp.weixin.qq.com/s/zIjyzqXbE6Y0X4IU2ZlRRg)
+> Mongo的主从机制和选举机制
+- [x] [腾讯 IMWEB 前端团队一站式 Serverless 开发解决方案](https://mp.weixin.qq.com/s/VbHib2pla25zjeZxwKve_Q)
+> 还是没说清楚怎么解决的context问题啊
+- [x] [人机协同时代，AI助力90.4%双11前端模块自动生成](https://mp.weixin.qq.com/s/F2F3VKhET4o3n-6lwosqnw)
+- [x] [史上最快破5亿用户的互动 - 2020双11养猫技术大揭秘](https://mp.weixin.qq.com/s/_oTt-RG48hRmX2X15MuX8w)
+> 介绍了2个2d骨骼动画框架
+- [x] [Vue 3.0 Ref-sugar 提案真的是自寻死路吗？](https://juejin.cn/post/6894175515515551752)
+- [x] [浅谈如何搭建知识体系](https://mp.weixin.qq.com/s/E0u7LmT__x4R9mWNxfDDjA)
+- [x] [Angular 11 正式发布：加入 webpack 5，升级至 TS 4.0，不再支持 IE 9 和 10](https://mp.weixin.qq.com/s/vYX1bLpm5USg7MpJsBjVZQ)   
+- [x] [不可思议，纯 css 都能图片滚动](https://mp.weixin.qq.com/s/9eLw-EUE-3kbsMvvdifHOg)
+> css的scroll-snap实现的滚动
+- [x] [谈谈微前端领域的js沙箱实现机制](https://mp.weixin.qq.com/s/IJMgMO1IeYw2Io8MN7WZWQ)
+- [x] [程序员的瓶颈是如何产生的（上）](https://mp.weixin.qq.com/s/od0-afxwknBwZy1vgwCMzw)
+- [x] [程序员的瓶颈是如何产生的（下）](https://mp.weixin.qq.com/s/31EBiMuR6nxT_9iLx3iUGQ)
+> 作者通过贫穷的本质和自身经历总结的文章，分析得不错，把一些本质性的东西表达了出来。
+## 2020.11.19
+- [x] [Redis + NodeJS 实现一个能处理十万条数据的异步任务队列系统](https://mp.weixin.qq.com/s/nZLdKUkjWAmjqxawX3bu9w)
+- [x] [双11主会场性能体验提升 - 秒开优化](https://mp.weixin.qq.com/s/K0nEzRfXdIDFMMk2vRiiXA)
+> webview预渲染不错
+- [x] [精神小伙的 GitHub 常备的12个骚操作](https://mp.weixin.qq.com/s/NXxO4SZ-zOjPqpmSh_SuYA)
+> GitHub的project board看板，类似Jira、Trello功能。
+- [x] [简单分析下 Node.js 关于集群的那些事](https://mp.weixin.qq.com/s/v_BQviy2cUcYpG_8x0WCGQ)
+> 子进程、独立进程、pm2
+- [x] [postMessage 还能这样玩](https://mp.weixin.qq.com/s/sRi3DawVBrMdkphuMqUMGw)
+> 主要介绍Postmate库
+- [x] [Node.js Serverless 助力业务研发提效 38.89%，并保障双11大流量下稳定可靠](https://mp.weixin.qq.com/s/DX3pHNUJPdwIl21BPoZnUA) 
+> midway广告
+
+## 2020.11.18
+- [x] [使用浏览器的 Reporting API 上报站点错误](https://mp.weixin.qq.com/s/-LDr0UXaOHoBI0r3UbWb-A)
+> 通过配置report头部上报csp、js错误、网络错误各种问题。
+- [x] [编写高质量可维护的代码：异步优化](https://mp.weixin.qq.com/s/s6fVoY31MqUXrW8RPka3pA)
+## 2020.11.17
+- [x] [基于 Serverless 的 Valine 可能并没有那么香](https://mp.weixin.qq.com/s/rRSsUmqtNrNuIOBbf97UPQ)
+> Valine问题多多，作者提到了一个替代品Waline评论系统。另外Waline是通过vercel部署的，非常棒。
+- [x] [基于nodejs线上代码热部署原理与实现](https://mp.weixin.qq.com/s/njPx1u3CCrBNo3l-yAMi3g)
+> 一个实现热更新node代码的库
+- [x] [Chrome 新的默认 Referrer-Policy : strict-origin-when-cross-origin](https://mp.weixin.qq.com/s/xeUVNxoB7H7889ks0WVrTA)
+> 如果没有referrer了，基于referrer来判断cors攻击的脚本是否会失效？
 ## 2020.11.16
 - [x] [精读《设计模式 - Bridge 桥接模式》](https://mp.weixin.qq.com/s/8_--YCHgGPtYRzADQytUpQ)
 > 把某一个A类的某些功能变成一个基础功能，封装到另一个类Base里。然后在扩展这个A类的时候，做一些基础的事情就用Base类里的实现。这样的好处就是我们不需要去改A类，只需要改Base类，相当于对A类做了一个再抽象。而就算改A类又如何呢？并不会带来更多的工作量，只是从抽象逻辑上来说解耦不好、职责划分不明确。
@@ -138,7 +260,9 @@
 > 通过`@hook:mounted`实现对子组件生命周期的监听、把父组件的属性、事件等直接打包传递到子组件。`vue技巧`
 - [x] [React官方状态管理库—— Recoil](https://mp.weixin.qq.com/s/EWcTOB08oU96OcQ-41FbPA)
 > 最新的react状态管理库，其主打的是高性能以及可以利用 React 内部的调度机制
-- [x] [2020年前端面试复习必读文章【超三百篇文章/赠复习导图】](https://juejin.im/post/6844904116339261447)## 2020.10.10
+- [x] [2020年前端面试复习必读文章【超三百篇文章/赠复习导图】](https://juejin.im/post/6844904116339261447)
+
+## 2020.10.10
 - [x] [支付宝 App 3D 动画和小游戏背后的故事](https://mp.weixin.qq.com/s/UOFEc4w4rRAQXtIVEm444Q)
 > `3D`,`支付宝小游戏`
 - [x] [关于数据智能浪潮对前端技术发展影响的一些思考](https://mp.weixin.qq.com/s/HnKbCa3JIBBGWSOrZ-vo_Q)
