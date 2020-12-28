@@ -1,3 +1,133 @@
+
+## 2020.12.28
+- [x] [gulp 的运作方式分析](https://mp.weixin.qq.com/s/8JCyRYlTfRg62hqpU5rfLw)
+- [x] [移动端1px问题解决方案](https://mp.weixin.qq.com/s/JZqS0SrFOHcg53-0V3D0uA)
+> retina的双倍是像素距离变成1/2而不是像素大小变小？这个真的好难理解。
+- [x] [从理解到实现轻松掌握 ES6 中的迭代器](https://mp.weixin.qq.com/s/4BeyUcbEed9eSsF6L4dktw)
+> 迭代器是个遍历的好东西，异步迭代器更是await的本质
+- [x] [闲庭信步聊前端 - 原来你是这样的refs](https://mp.weixin.qq.com/s/UIz5ITrbyDy8ixrtjAE_Zg)
+> react refs简介
+- [x] [图形学 | 格物致知！PNG 除了无损压缩你还知道什么？](https://juejin.cn/post/6905635070397612039)
+> 把png的种类讲得很全。而且是参考的官方文档。
+- [x] [滴滴NodeX生态](https://mp.weixin.qq.com/s/l5AwcMKCMz017HpEADvSIQ)
+> 滴滴的node生态基座。
+- [x] [JELLY DESIGN | 京东零售官方设计共享平台|搅动H5游戏世界的鲶鱼——Cocos](https://jelly.jd.com/article/5fbe616a7482df01463e27e3)
+> 本文通过讲故事的方式讲述了一款小型cocos游戏的开发流程，真的非常精彩易懂。
+- [x] [【深入解析】跨端框架的核心技术到底是什么？](https://mp.weixin.qq.com/s/2XS-d1PUt8olXvHXZFvSfQ)
+> 作者从比较抽象的层面分析了前端干的三件事情：fetch、state、render。这是所有客户端干的事情。什么安卓、ios、小程序、网页都是这么个套路，写得比较好。说到渲染，react和vue的虚拟dom让跨端渲染就成了可能。
+- [x] [【To B管理端】图表设计指南](https://mp.weixin.qq.com/s/HAGkGa4yZaz7RcBbx_LygA)
+> 偏图标渲染理论方面的分析。
+## 2020.12.25
+- [x] [钉钉表格，从零到一打造在线 Excel | D2 大会分享视频+文章](https://mp.weixin.qq.com/s/x8kP57MB1-zOD3Jp5XRPog)
+> 协同算法，canvas分层绘制算法、文字排版算法，非常nice的分享。
+- [x] [React RFC Server Components](https://mp.weixin.qq.com/s/KGev5at-H1TcVytTfliheg)
+> 运行在服务端的组件。这个和ssr还有本质的区别。
+- [x] [手把手教你用 nodejs 撸一个TCP长连接应用](https://mp.weixin.qq.com/s/SkEKk57PdpvGjPg_rSilKw)
+- [x] [Webpack 核心知识有哪些？](https://mp.weixin.qq.com/s/xT12rUsYOkypXS8YFYQEzQ)
+> 概念有些过时了。
+- [x] [仅使用CSS就可以提高页面渲染速度的4个技巧](https://mp.weixin.qq.com/s/h8sXmqPdG6SVW1uZnO-Wsg)
+> css提高页面渲染性能优化。
+## 2020.12.24
+- [x] [34条我能告诉你的Vue之实操篇](https://mp.weixin.qq.com/s/CMEb-VxSov3ZAwjPFBua3w)
+> 非常具有实战作用。收藏。
+## 2020.12.23
+- [x] [手把手教你从0手写一个力导向关系图](https://mp.weixin.qq.com/s/Mc6M0f_L0Xzp18JWZXAnsg)
+> 简单易懂的碰撞检测算法。
+- [x] [学习 sentry 源码整体架构，打造属于自己的前端异常监控SDK](https://mp.weixin.qq.com/s/ALxDDpT33v_sTp9MZTTU1g)
+> sentry源码，nice
+- [x] [V8 引擎垃圾回收与内存分配](https://mp.weixin.qq.com/s/2ARruErg3xNlvPOYjw7IiA)
+
+## 2020.12.22
+- [x] [VSCode 花式玩法（摸鱼）了解一下](https://mp.weixin.qq.com/s/bXsc8Sk8R1TMKenrE7WBXA)
+>看股票看新闻刷题都可以在vscode中完成。
+- [x] [闲庭信步聊前端 - 漫谈XSS](https://mp.weixin.qq.com/s/kDXOntazDDIQWs0p1YMkOg)
+> 比较全的概念讲解
+- [x] [2020年大前端技术趋势解读](https://mp.weixin.qq.com/s/aAmFyYF7Y6F2-9-LrZ-fsg)
+> imweb腾讯团队分享了他们针对于当前前端技术的趋势进行的技术架构和技术选型的趋势分享。值得参考。
+
+## 2020.12.21
+- [x] [10 个 GitHub 上超火的 CSS 技巧项目，找到写 CSS 的灵感！](https://mp.weixin.qq.com/s/CmGMpdGC-hsYXt4mpK4xlQ)
+> 一些小代码，记录起来吧
+- [x] [想要复制图像？Clipboard API 了解一下](https://mp.weixin.qq.com/s/0pkFjeXD_ZpsEM-Vnb7g6g)
+> 上上周才再说，这周就来了，效率高
+- [x] [如何使用 Promise.race() 和 Promise.any() ？](https://mp.weixin.qq.com/s/eNVu-zWhSxjsJuBbYdUSng)
+- [x] [送你一份玩转 Github 的秘诀](https://mp.weixin.qq.com/s/HdYSJwr5deeQ9E4o1MFwCg)
+> 一些github网站加速器。说白了就是proxy
+- [x] [漫画 | 前端发展史的江湖恩怨情仇](https://mp.weixin.qq.com/s/fnsYBHKCluGa74N0yhvsqg)
+- [x] [React 灵魂 23 问，你能答对几个？](https://mp.weixin.qq.com/s/rMnZMgZLw70RCPqYXWN-0w)
+> 没有较多的经验是很难回答准确的。
+- [x] [闲庭信步聊前端 - Cookie的前世今生](https://mp.weixin.qq.com/s/YqnhSWb03W-kTS0gyxTJjw)
+> 很温和的介绍
+- [x] [在线Excel项目到底有多刺激](https://mp.weixin.qq.com/s/f1vwzuPryc8ag6nd5Ngr5A)
+> 腾讯文档这种协同项目的协同操作算法是值得学习的。
+- [x] [产品设计方法与实践](https://mp.weixin.qq.com/s/Sv2sKHuJ3nQOvdtvPirAuw)
+> 里面的kiss总结方法不错。
+- [x] [用 JavaScript 管理 HTML DOM 合集](https://htmldom.dev/)
+> 各种html操作dom的集合。
+
+## 2020.12.18
+- [x] [在 Git 中当更改一个文件名为首字母大写时](https://mp.weixin.qq.com/s/7woU5jBNmR40-Eow19F2iA)
+> 改名不能只改文件系统，还得改git的系统。
+## 2020.12.17
+- [x] [HTTP 15个常见的知识点](https://mp.weixin.qq.com/s/dA5i0rVV0GrrcCQ2Fvk-Dw)
+> 比较杂，内容一般
+- [x] [44个有用的JavaScript技巧与最佳实践](https://mp.weixin.qq.com/s/eryJjmzVQvsyCGXJPeJO4Q)
+> 通过Math.random().toString(36)生成随机字母，还多好玩
+- [x] [一个小小前端的 2020 年年终总结](https://mp.weixin.qq.com/s/gRAFVvqR7qC1DGrIcxLm4A)
+> 想到了曾经的自己。
+- [x] [手把手教你开发互动游戏，看 EVA 互动技术体系在金币小镇的实践](https://mp.weixin.qq.com/s/STFGj_3_Z1gpacOWo2L5Hw)
+> 介绍了淘金币游戏使用的2.5D引擎技术。
+- [x] [实现一个简易的模块打包器](https://mp.weixin.qq.com/s/fkz-aFSKkR_O9hC47eic1g)
+> 通过正则找到require，然后去避免一些循环引用，再手动执行babel。基本模拟webpack流程。
+
+## 2020.12.16
+- [x] [分享8个非常实用的Vue自定义指令](https://mp.weixin.qq.com/s/dDNQLVHrhWgSGXQLXIn03A)
+- [x] [初中级工程师如何快速成长和寻求突破](https://mp.weixin.qq.com/s/gAUKYrlmuSKLboAPNQ4YwQ)
+> 给才毕业的小孩看，非常香。
+- [x] [clipboard.js 的源码分析](https://mp.weixin.qq.com/s/nsEmDprpeICz_wC3Xu9cPQ)
+> 只用的selectionApi和execCommandApi，并没有使用到最新的复制粘贴api呢。
+## 2020.12.15
+- [x] [12 个 GitHub 上超火的 JavaScript 奇技淫巧项目，找到写 JavaScript 的灵感！](https://mp.weixin.qq.com/s/yg_qHvLQTayq2lvLiCptbw)  
+> 这个标题有点不准确。这其实是javascript学习资料的大集合。还是挺不错的。  
+- [x] [前端多线程大文件下载实践，提速10倍](https://mp.weixin.qq.com/s/7_dDnFvfJOB31FgkqC5zgg)
+> 作者还分析了带宽对多线程的影响，这个其实也比较好理解。
+- [x] [深入解析 EventLoop 和浏览器渲染、帧动画、空闲回调的关系](https://mp.weixin.qq.com/s/NyQvnVOn-kniqxgrIyMuug)
+> 写得好，写得棒。文中还分析了vue使用不同的api来实现nextTick，推荐了两篇文章
+- [x] [闲庭信步聊前端 - 一文摸清ES拷贝深浅](https://mp.weixin.qq.com/s/ZSPkUZo1lALVM8i8HeInPA)
+> 深拷贝，不同的深法，不同的逻辑，很难有一个库把所有问题都考虑到
+- [x] [同学，请专业点，用Hooks解耦UI组件吧](https://mp.weixin.qq.com/s/PeLglnbShoNn7JPQnoECSg)
+> 把请求数据的逻辑写成自定义hooks
+- [x] [Vue 组件通信方式及其应用场景总结（1.5W字）](https://mp.weixin.qq.com/s/kR4Lpvr_NWgFm9iuIWmDUA)
+> props、inject、vuex、bus
+- [x] [搞懂 HTTP 重定向 - 如何优雅地使用 301](https://mp.weixin.qq.com/s/sy5AVy-QdgtvsFsowW99dw)
+> 设置了301和设置了缓存一回事，缓存不过期将永远使用缓存。
+- [x] [你的登录接口真的安全吗？](https://mp.weixin.qq.com/s/TMwgcPg4fj131tTXQDegYg)
+> 挺好的哦，作为登录业务的参考吧。
+## 2020.12.11
+- [x] [如何优雅地解决多个 React、Vue App 之间的状态共享](https://mp.weixin.qq.com/s/2nFDX4uvPGe9WCS1OETVxA)
+> 使用vue和react的portal功能进行某个节点的自由dom挂载。
+- [x] [从DOM到虚拟DOM——前端DOM发展史、性能与产能双赢背后的思考](https://mp.weixin.qq.com/s/dCgM_c5GoFTf7J-sU48nHA)
+> 这位同学很会思考
+- [x] [免费适用于个人开发者的异常监控服务：sentry](https://mp.weixin.qq.com/s/6OeGK62y2EE3R4507llmKg)
+- [x] [白嫖我常用的 11 个超火的前端必备在线工具，终于有时间上班摸鱼了](https://mp.weixin.qq.com/s/LS0LlvoYlP_3Yr1KIOZC9g)
+- [x] [Vue3有哪些不向下兼容的改变](https://mp.weixin.qq.com/s/8S6w_0AdjB3we2iDe5rvYw)
+- [x] [跟着 React 官方文档能学懂 Hooks 就怪了](https://mp.weixin.qq.com/s/k_WSX7fW2-KLOAS_lU3sYw)
+> hooks本质上是在某个时机执行的钩子
+## 2020.12.10
+- [x] [基于lerna和single-spa, sysyem.js搭建 vue 的微前端框架](https://mp.weixin.qq.com/s/78iom1dF1KCH1WIT2UH4-Q)
+> 一个git开源项目
+- [x] [Rax 小程序运行时方案解密与思考](https://mp.weixin.qq.com/s/N6j0z1MOGxoXQLoaF-WkLg)
+> 小程序框架竟然还有个Rax
+- [x] [玩转文件下载](https://mp.weixin.qq.com/s/3fcSRcFQ2ps-uXikK3LWnQ)
+> 各式各样文件下载方法，写得很好。
+## 2020.12.9
+- [x] [TypeScript 核心概念梳理](https://mp.weixin.qq.com/s/A06ljaOWpiQv_o-_TpbdzQ)
+> ts的常用方法，比较经典。
+- [x] [NPM 私库从搭建到数据迁移最后容灾备份的一些解决方案](https://mp.weixin.qq.com/s/NUYooqqTklsSs77VDRLwKA)
+> cnpm最大的问题就是无法和npm完全兼容，不是必须不建议使用cnpm
+## 2020.12.8
+- [x] [Vercel: 免费托管你的 API 服务](https://mp.weixin.qq.com/s/6Ppqe2CBqEEjy-6Ad8ZGsw)
+> vercel真的太棒了
 ## 2020.12.7
 - [x] [一文彻底搞懂前端监控](https://mp.weixin.qq.com/s/l6Crug0SwmgqT2hWYrSrgg)
 > 介绍了一些监控平台、指标、promise捕获方式。
