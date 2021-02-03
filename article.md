@@ -1,4 +1,234 @@
+## 2021.2.3
+- [x] [从浅入深讲解 Node 如何开发一个命令行工具](https://mp.weixin.qq.com/s/JTO_XAtu0BwgewrZG0ZsJQ)
+- [x] [像玩 jQuery 一样简单地玩转 AST](https://mp.weixin.qq.com/s/v3JUb205k26L4oc1DFPxOQ)
+> AST介绍
+- [x] [动态表单之表单组件的插件式加载方案](https://mp.weixin.qq.com/s/E4sPbx6DWlPLRCyekiYQDA)
+- [x] [实现Web端自定义截屏](https://mp.weixin.qq.com/s/9RyvVLEoOsju2LuXijSpiA)
+> 把绘制箭头、实线的代码都贴出来了，良心。
+## 2021.2.2
+- [x] [从Webpack打包后的文件分析导入的原理](https://mp.weixin.qq.com/s/4Fj8nNOGPSLsPxzNUGPGPw)
+> 动态导入还是使用的jsonP
+- [x] [Web 现代应用程序架构下的性能优化，渐进式的极致艺术。](https://mp.weixin.qq.com/s/uU-hDwe8BogcIp3UKeOHXw)
+> 渐进式的注水，说白了就是按需加载视图和逻辑
+- [x] [你不知道的 Proxy](https://mp.weixin.qq.com/s/Nvp_N4Sj0PlBqXjTis7UCQ)
+- [x] [Web前端WebRTC攻略(二) 音视频设备及数据采集](https://mp.weixin.qq.com/s/l9CGsIedd0pBymLb3SM4UA)
+- [x] [Webpack5 新特性业务落地实战](https://mp.weixin.qq.com/s/XhBgVGQOdsR-qeZmuB_B1g)
+> 顶层await，wasm的loader，默认的file loader，缓存优化，tree shaking
+- [x] [2021年的今天，如何成为一名专业的前端工程师？](https://mp.weixin.qq.com/s/5rI8VOduRUx03ccH3zes4Q)
+> 写得还不错哦。
+## 2021.2.1
+- [x] [Jerry:如何实现 BI 仪表盘及数据导出分享功能](https://mp.weixin.qq.com/s/i6_bqBLbw_7D-zevfRjhZQ)
+- [x] [Facebook 将对 React 的优化实现到了浏览器！](https://mp.weixin.qq.com/s/Lbcu1aa2LQZlddAwIIExqA)
+> isInputPending是fiber的良好补充
+- [x] [从0开始实现一个合成大西瓜](https://mp.weixin.qq.com/s/Ums80D3wUyGNdUqabxPw7w)
+> 使用cocos creator做一个2D的游戏。
+- [x] [聊聊 React 组件库的技术选型与设计](https://mp.weixin.qq.com/s/PH8QqDEXEtwN5CB4nBm6pg)
+> 字节的react组件库实现的各种框架、库、解决方案。已收藏。
+- [x] [从零开始开发3D游戏，助力B类场景互动创新尝试](https://mp.weixin.qq.com/s/FwhHg15LVYTeyJFa6lJGXg)
+> 没开源说个啥
+- [x] [“无代码”与我们的距离](https://mp.weixin.qq.com/s/Zhmh6mzCyxJlOvmuDMBSfw)
+- [x] [Understanding Clip Path in CSS](https://ishadeed.com/article/clip-path/)
+- [x] [一行CSS实现全站中文简繁转换 « 张鑫旭-鑫空间-鑫生活](https://www.zhangxinxu.com/wordpress/2021/01/css-simplified-traditional-chinese/)
+> 直接筛选出字体里的繁体字体。需要字体库的支持。
+- [x] [如何做好技术 Team Leader？](https://mp.weixin.qq.com/s/U-hqectN-fes7Td6Osut7Q)
+> 写的挺好的。大多数tl都应该有类似的感受。
+## 2021.1.29
+- [x] [速度提高几百倍，记一次数据结构在实际工作中的运用](https://mp.weixin.qq.com/s/AQOogSNOcklZJ21uDdAKMA)
+- [x] [解构标志性的 Apple Watch Bubble UI](https://mp.weixin.qq.com/s/1aHFzZNu4mknFll4xjlD3g)
+- [x] [一文搞懂 Web Worker(原理到实践)](https://mp.weixin.qq.com/s/9lTLrjWaaeR5Bcf7ZNIZQw)
+> service worker本质上就是一个worker。
 
+## 2021.1.28
+- [x] [RxJS：给你如丝一般顺滑的编程体验（建议收藏）](https://mp.weixin.qq.com/s/b9e0nAaJy_J0-IHNLiuprA)
+> RxJs真的可以好好研究下。响应式编程。
+- [x] [Facebook 重构时为什么要使用 TailwindCSS 方案？](https://mp.weixin.qq.com/s/vg8g291Lmxbz4REXLFgTGA)
+> 原子css有点极端，不过值得学习和尝试。
+- [x] [ES6 Promise 的最佳实践](https://mp.weixin.qq.com/s/K56HS9L5GJ6oLp5Wf8z_Vg)
+> Promise的开销还是很大的，尽量少创建实例。
+- [x] [Chrome 88 新功能解读](https://mp.weixin.qq.com/s/RCGljgCqtxkRbQ-KJz9w0w)
+> 正则回溯、aspect-ratio
+- [x] [前端机器学习简史](https://mp.weixin.qq.com/s/5M6FLoCJT4P9VEcEbcY93A)
+- [x] [Vue 3 和 Webpack 5 来了，手动搭建的知识该更新了](https://mp.weixin.qq.com/s/ulfuXoP4D4OA1QKy55fZVA)
+- [x] [技巧：文本超过N行折叠内容并显示“...查看全部”](https://mp.weixin.qq.com/s/r4NR-ojYWZbWHmkgbFkNrQ)
+> 这个真是个技术活
+## 2021.1.27
+- [x] [山月手把手教你10个Typescript小技巧](https://mp.weixin.qq.com/s/BXcwEaEfxG_LBr3koOSCRA)
+- [x] [谈谈 React 5种最流行的状态管理库](https://mp.weixin.qq.com/s/Qg0DH6okMVFAh2H6XG9RcA)
+- [x] [【美团】node 中 module.exports 与 exports 有什么区别](https://mp.weixin.qq.com/s/uRR5wlqm1IGple5E6IXQ4A)
+- [x] [Java是如何实现Future模式的？万字详解！](https://mp.weixin.qq.com/s/ayZHmiOqQULFJQLL-Z_9WA)
+- [x] [前端常见内存泄漏及解决方案](https://mp.weixin.qq.com/s/tQcgjZNkjOX1E-sohT0N6g)
+- [x] [使用mono-repo实现跨项目组件共享](https://mp.weixin.qq.com/s/-A3Yg2TX4fCkkx9vXgREFA)
+- [x] [编写高质量可维护的代码：优雅命名](https://mp.weixin.qq.com/s/0PaNfSml357FDVfCPH8DEQ)
+> 还可以，收藏了。
+
+## 2021.1.26
+- [x] [10 个 GitHub 上超火的前端面试项目](https://mp.weixin.qq.com/s/pDGvf5-sy5hsPFq7PY0pOQ)
+- [x] [关于双列瀑布流布局的优化思考](https://mp.weixin.qq.com/s/UeEKbji202ZAAXEFmkvTtg)
+> 提到了为啥要用瀑布流、如何用瀑布流、如何优化瀑布流
+- [x] [如何为开源技术项目做单元测试](https://mp.weixin.qq.com/s/-0tjBSVZzJFSCX19laAikA)
+> 等价类划分。读完本文基本上能写好一个开源库的测试代码了。
+- [x] [媒体智能-淘宝直播流媒体互动实践 | D2 分享视频+文章](https://mp.weixin.qq.com/s/8JRgaBu65DGLej73BWlM4g)
+- [x] [React Server Component 可能并没有那么香](https://mp.weixin.qq.com/s/0cOdSZek5GszXiI_LeFo3w)
+- [x] [“12306” 的架构到底有多厉害？](https://mp.weixin.qq.com/s/JsHnogJjAEkMPwF0h9Dt2w)
+> 服务器预下单、负载均衡、redis、mqtt队列。
+## 2021.1.25
+- [x] [【阿里】既然 cors 配置可以做跨域控制，那可以防止 CSRF 攻击吗](https://mp.weixin.qq.com/s/Btd3g5F6wNlkfTNNQa6tKA)
+> cors和csrf放一起说？始料不及。cors是跨域资源共享，关csrf啥事情，csrf是防止form提交吧。
+- [x] [山月带你走进ES2021的世界](https://mp.weixin.qq.com/s/GFj3oPK-3wuafxWnVaZH3Q)
+- [x] [这些 JS 中强大的操作符，总有几个你没听说过](https://mp.weixin.qq.com/s/Uhx78VT3ZB7xDSO34hz0ew)
+>逗号操作符对它的每个操作数求值（从左到右），并返回最后一个操作数的值。逗号这个作用还挺好。
+- [x] [高级 Promise 模式 - Promise缓存](https://mp.weixin.qq.com/s/-NIAl9MZ1VaAZWLTL4H7LA)
+- [x] [代码规范之-理解ESLint、Prettier、EditorConfig](https://mp.weixin.qq.com/s/zi373Sw66mOtmmsoTWsG7A)
+- [x] [JELLY | ECMAScript 2021 新特征](https://jelly.jd.com/article/5febdfbb846cc00148ae36d7)
+> 弱引用、井号代表私有
+- [x] [登上 Github 趋势榜，iMove 原理技术大揭秘!](https://mp.weixin.qq.com/s/cfGdGp1VAVn_bUqXUspvJg)
+> iMove是一个把流程图转为代码的工具。文中提到了蚂蚁的X6流程图。
+- [x] [前端小团队如何搞基础设施建设？](https://juejin.cn/post/6917057999328509959)
+> 谈了一些方向的。
+- [x] [漫画 | 如何向外行解释产品经理频繁更改需求会令程序员很焦灼？](https://mp.weixin.qq.com/s/pVEJmBXFgo8qtyiUTKem6g)
+> 通过做菜来说明，确实是比较形象。
+## 2021.1.21
+- [x] [【美团】如何获取一个进程的内存并监控](https://mp.weixin.qq.com/s/kzzNWIotJhnS03OyjgOIqw)
+> pidstat和htop
+- [x] [一个 Array.concat 引发的血案](https://mp.weixin.qq.com/s/LLWv7h0UijXcQkftfMHrdw)
+> concat的性能不咋滴，慎用。文中对原生实现的摸索值得学习。
+- [x] [【Vuejs】探索 Vue.js 响应式原理](https://mp.weixin.qq.com/s/L0wMy4Wdn5mBtbzKFAx_BA)
+> vue核心观察者模式的简单实现，是vue2原理实现的参考。
+- [x] [在人工智能工程化里，前端能做什么？](https://mp.weixin.qq.com/s/kI7ze-o5TO1f74QdhMR12g)
+> 很好 ，机器学习的启蒙文章，里面还有一些平台的链接和名词解释的链接。
+- [x] [如何做好一个跨团队协作项目](https://mp.weixin.qq.com/s/Ewn1f93mCw6aGKRwhJdRlw)
+
+## 2021.1.20
+- [x] [【Flutter 技能篇】你不得不会的状态管理 Provider](https://mp.weixin.qq.com/s/A3XSi6_RT9wRxNK5056P6w)
+- [x] [结合 React 源码，五分钟带你掌握优先队列](https://mp.weixin.qq.com/s/GYC4SulbnbnQV6TO01Qk_A)
+> 二叉堆、多叉堆对排序来说比较友好。他们主要是通过生成一个有规则的堆来实现的。
+- [x] [使用Vue3的CompositionAPI来优化代码量](https://mp.weixin.qq.com/s/Gh0tpPRQ-KIFnIKa9NflnA)
+- [x] [Node.js - What's next](https://mp.weixin.qq.com/s/W92TNMEcBCmaewGtB2lTew)
+> 看看大型项目是如何进行维护的。
+
+## 2021.1.19
+- [x] [爱 GraphQL 胜过 REST](https://mp.weixin.qq.com/s/JfdgAJoDIJSkdU__X_XehQ)
+- [x] [深入挖掘如何用 CSS 实现水平垂直居中](https://mp.weixin.qq.com/s/oYeeWVGG5D7a0PxWdELOSg)
+- [x] [【经济学+前端技术】双视角分析 - 哪些技术值得投入学习](https://mp.weixin.qq.com/s/iT7dOoP6IN3OmFYPnFCNeA)
+- [x] [5种前端实现邮件发送至指定邮箱的方式](https://mp.weixin.qq.com/s/A7gNwcC3435ocdf42oFk3w)
+
+## 2021.1.18
+- [x] [动图演示11个必备 VS Code 插件](https://mp.weixin.qq.com/s/BaZSbf50pLXIuhFWX0ytsQ)
+> change-case可以把所有的大小写方式改成一种统一的，Import Cost可以显示引入文件的大小，indent-rainbow对缩进加颜色，Fira Code然等号变为一体，
+- [x] [数字指纹有什么用？赶紧来了解一下](https://mp.weixin.qq.com/s/zjMwXFIbt8EWN2jWaid3Yg)
+> md5不靠谱了，用户密码应该用bcrypt来加密。
+- [x] [前端的Nginx知识梳理](https://mp.weixin.qq.com/s/dte9oRimIWlZp0pd-ZF-WQ)
+- [x] [Nohost 开源啦！](https://mp.weixin.qq.com/s/wG7tQ2epbPP0UdiddSJWFw)
+> 基于whistle的抓包工具。通过代理来配置不同环境，并可以保存抓包日志分享。
+- [x] [从D2语言与框架专场到modern JavaScript](https://mp.weixin.qq.com/s/UizucwSagwTtZQMngSY63Q)
+- [x] [不使用插件在网页嵌入 Flash SWF 文件](https://developers.ibexa.co/blog/embed-flash-swf-content-without-adobe-plugin)
+> 主要通过wasm嵌入解码器来实现。
+- [x] [浏览器端录制技术的探索与实践](https://www.yuque.com/binfe/cquxg7/vn9i0d)
+> 通过录制初始的dom和后续的dom变化来实现页面的录制。
+- [x] [隐藏在浏览器背后的“黑手”](https://tech.meituan.com/2020/12/24/lnkr-chrome.html)
+> 值得学习。chrome的插件如果中了病毒，如何去保护用户隐私？csp规则是要好好配置下。
+
+## 2021.1.15
+- [x] [教你用PixiJs实现复杂动画](https://mp.weixin.qq.com/s/IzCAzswK50BbfNHqE8vIxQ)
+> PixiJs实现canvas动画游戏。还提到了其他几款canvas渲染框架
+- [x] [8个问题带你进阶 React](https://mp.weixin.qq.com/s/LRvVQ1_7q9Zyw3rOWgxYfQ)
+- [x] [2020 全球 JavaScript 现状调查报告](https://mp.weixin.qq.com/s/sXxTGG28fSDoZDWKdIrPAQ)
+> svelte越来越火了。ts要成为标配了。测试工具 Testing Libray也很火呢。
+- [x] [代码规模飙升，前端如何走好工程化之路？](https://mp.weixin.qq.com/s/H0iXKkY8X1L9IrYyX4BT3w)
+- [x] [媒体智能-淘宝直播流媒体互动实践 | D2 分享视频+文章](https://mp.weixin.qq.com/s/B1wTAN7OC-VG5wWCvRlIWQ)
+- [x] [浅谈移动端开发技术](https://mp.weixin.qq.com/s/TXBRUVoOBDxr8P9Iw5FpTQ)
+
+
+## 2021.1.14
+- [x] [打造更稳定的 Serverless 业务 | D2 分享视频+文章](https://mp.weixin.qq.com/s/WdvNeGNLttfSoWfQTNqXtg)
+- [x] [如何开发一款 H5 小程序直播？](https://mp.weixin.qq.com/s/6yvCgNbWoqRPOk3uIaCiCg)
+> 对视频协议和推流进行了介绍
+- [x] [「计算机网络」前端必备知识，看到就是赚到系列](https://mp.weixin.qq.com/s/rKtI6sr8ahfnDxRqrGMSUA)
+- [x] [设计实现中后台搭建 PaaS 平台](https://mp.weixin.qq.com/s/pzokc_KyNpSgpoq0rkkwvA)
+> 文章抽象，字也很小
+- [x] [对比webpack，你更应该先掌握gulp【10分钟教你彻底掌握gulp】](https://mp.weixin.qq.com/s/B7YjaTyeXw5RkkFmPVnZiw)
+> gulp可不仅仅是打包这么简单，跟webpack是有本质差异的 。它相当于一个任务组织器，比webpack更加底层。
+
+## 2021.1.13
+- [x] [Vue CLI 是如何实现的 -- 终端命令行工具篇](https://mp.weixin.qq.com/s/_3mpRIbPLjiWQpKDbbcE1g)
+> 如果要写一个命令行工具，可以参考vue cli
+- [x] [2021 年前端趋势预测](https://mp.weixin.qq.com/s/OAKvV3HHkIEnzXdvuiCkuA)
+> 智能化
+- [x] [解读新一代 Web 性能体验和质量指标](https://mp.weixin.qq.com/s/xv7mWi3ApCfETqC6Kl-B9A)
+> 判断网页性能的各种指标
+## 2021.1.12
+- [x] [自己动手实现一个malloc内存分配器 | 30图](https://mp.weixin.qq.com/s/TuJ5GideKer2ZzWk2a-J6g)
+> 收藏。malloc原理解析。
+- [x] [为什么 Vue3 选择了 CSS 变量](https://mp.weixin.qq.com/s/tWySTbxopamcwFB8s-PUgg)
+> vue使用的原生的css变量。
+- [x] [视频应用井喷，前端音视频发展前景如何？](https://mp.weixin.qq.com/s/LfiyB_S_MLorK7lh7eK0LA)
+- [x] [JavaScript 世界万物诞生记](https://mp.weixin.qq.com/s/tcrF6lt0bWxWDhrtA7cDWQ)
+> 有点意思
+## 2021.1.11
+- [x] [10 张图打开 CPU 缓存一致性的大门](https://mp.weixin.qq.com/s/d_BWhFw5oRiD_E0wx0FLMg)
+> cpu多级缓存之间如何同步数据的问题。
+- [x] [Next.js +Egg.js+React项目服务器部署超详解](https://mp.weixin.qq.com/s/F8hM073GDonZcR8ZSKkZkA)
+- [x] [用个通俗的例子讲一讲死锁](https://mp.weixin.qq.com/s/9NxlbJ0GO-w4Qx3nOKuW6g)
+- [x] [前端也要懂机器学习（上）](https://mp.weixin.qq.com/s/B671hJouyu_GcxZTpKEQvw)
+- [x] [跨端的另一种思路 | D2分享+文章](https://mp.weixin.qq.com/s/7csWFJtpisZlr33SwOCjGQ)
+> 这个思路非常好啊。通过ts转ast转dart，然后再通过hooks方案抽象出逻辑代码，这样逻辑代码都用ts，业务代码用flutter和react。牛掰牛掰。
+- [x] [揭秘http2](https://mp.weixin.qq.com/s/tG6HPSuGEOxpS9lq-Q_uLg)
+> 对http2的一些讲解，做参考
+- [x] [CSS现状和如何学习](https://mp.weixin.qq.com/s/ztU1tESHy-5kF2iFpZbgfw)
+- [x] [如何基于心智模型打造更棒的用户体验](https://mp.weixin.qq.com/s/6-M3iyHQYHxYUNNWoUAx_Q)
+> 非常棒的ui和产品设计教育文。实现同样的功能，不同的交互对用户来说友好程度完全不一样。
+- [x] [前端故障演练的探索与实践 | D2分享视频+文章](https://mp.weixin.qq.com/s/WKCAxddI_tWA4_qu6ZYmCg)
+> 有点意思。对于对质量要求高的产品，故障演练显得还是非常重要。
+- [x] [大型 web 前端架构设计-面向抽象编程入门](https://mp.weixin.qq.com/s/GG6AtBz6KgNwplpaNXfggQ)
+> 主要还是讲依赖注入和依赖反转
+- [x] [会员定价-三个学了就能用的大招](https://mp.weixin.qq.com/s/YaOAh0NnPrOuVrOLzNzdKg)
+> 通过统计来找到最适合的价格。
+
+## 2021.1.8
+- [x] [【头条】请简述一下 async 与 defer 的区别](https://mp.weixin.qq.com/s/St7TLPmzkVuJi7iaXYi3lw)
+## 2021.1.6
+- [x] [揭秘G6图表自定义的真相](https://mp.weixin.qq.com/s/kxvryq9D5M4Z7FUZ9k5HXw)
+- [x] [types 和 @types 是什么？](https://mp.weixin.qq.com/s/47W1mKoFMaU8jlocC5qB-w)
+- [x] [使用 vite 构建 React 项目](https://mp.weixin.qq.com/s/AExF5you1Rce8RiQDGT1Jw)
+> vite主要利用浏览器自带的import、export解析功能来优化编译速度。
+- [x] [响应式布局新方案](https://mp.weixin.qq.com/s/mDTIfRrjaBcjXOMwPa1IbA)
+> 各种各样的屏幕判断
+- [x] [编写高质量可维护的代码：Awesome TypeScript](https://mp.weixin.qq.com/s/gAwvcmSNYMwQKk6RY-GaEw)
+> 文中提到了不少ts的最佳实践和工具。
+- [x] [10万级大型场馆背后的绘选座技术 | D2分享视频+文章](https://mp.weixin.qq.com/s/xPPG0s45HCNndqodSPbZ8g)
+## 2021.1.5
+- [x] [一文串联 HTTP、TCP、IP、以太网](https://mp.weixin.qq.com/s/6cZ5VWYs55R0cxG5aABHjA)
+> 比较全面
+- [x] [前端进阶不可错过的 10 个 Github 仓库](https://mp.weixin.qq.com/s/i9nIphjl--36yJQfsMfNpQ)
+> 各种工具、学习教程的github仓库
+- [x] [Node开发实践总结-定时脚本的设计与实现](https://mp.weixin.qq.com/s/a_kIRvJUuICtw0CG7EFAtg)
+> 文不对题。这主要是讲node多实例部署的时候如何防止大家的读写冲突。
+
+## 2021.1.4
+- [x] [三种 Loading 制作方案](https://mp.weixin.qq.com/s/Cu2mK_7a8FZKjRF2gERI6g)
+> css/svg/字体
+- [x] [10个很棒的 JavaScript 字符串技巧](https://mp.weixin.qq.com/s/R4_tZJecwc1Nc_OlCvRgHg)
+> 主要讲解字符串的一些原生方法。
+- [x] [Vue3.0 新特性 teleport 是啥，用起来真香](https://mp.weixin.qq.com/s/mvO3zvlTHELXnf3VJOYx-g)
+> 官方的portal
+- [x] [框架带来了什么？](https://mp.weixin.qq.com/s/AreRWfVb6L7AaJIhSyaQYA)
+> 张鑫旭的一些感想，主要是告诫不要成为框架工程师。
+- [x] [凹凸实验室的过去与未来 | Aotu.io「凹凸实验室」](https://aotu.io/notes/2020/12/24/aotu-5-year/)
+> 挺好的了。
+- [x] [前端响应式编程与实时计算：从 RxJS 到 Flink](https://mp.weixin.qq.com/s/m5kBSTYg95qHHOaZn1NV0g)
+> RxJS
+## 2020.12.30
+- [x] [如何优雅的处理多个弹框的显示？](https://mp.weixin.qq.com/s/rFXEfMvuX_9OXDs4yovztw)
+> 集中管理模式
+- [x] [11 个小技巧提升你的 JavaScript 代码质量](https://mp.weixin.qq.com/s/WUAs9jRP_n2MzEDLA45c4w)
+- [x] [前端工程师的自我修养：React Fiber 是如何实现更新过程可控的](https://mp.weixin.qq.com/s/i6xbbIEZC9p4gNl505PKqg)
+- [x] [看前端如何通过WebAssembly实现播放器预览能力](https://mp.weixin.qq.com/s/qePFM0IA3h3Sx_Zb1LBV8Q)
+> 不会c，都是白搞。ffmpeg必须通过c来针对业务实现接口暴露。
+- [x] [闲庭信步聊前端 - 见微知著微前端](https://mp.weixin.qq.com/s/GiIh6bgOsL0vmghne4B2vA)
+> 使用了qiankun框架。
+## 2020.12.29
+- [x] [可视化拖拽组件库一些技术要点原理分析](https://mp.weixin.qq.com/s/AL1g--hJDEs60xMQjhTuZg)
+> 挺不错的，大多数知识点都说到了。
 ## 2020.12.28
 - [x] [gulp 的运作方式分析](https://mp.weixin.qq.com/s/8JCyRYlTfRg62hqpU5rfLw)
 - [x] [移动端1px问题解决方案](https://mp.weixin.qq.com/s/JZqS0SrFOHcg53-0V3D0uA)
