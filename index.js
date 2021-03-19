@@ -33,9 +33,8 @@ async function url2md(urls) {
 }
 
 url2md([
-    'https://mp.weixin.qq.com/s/JTO_XAtu0BwgewrZG0ZsJQ',
-    'https://mp.weixin.qq.com/s/j099A1rxPzJqUGoFXrGPog',
-    'https://mp.weixin.qq.com/s/v3JUb205k26L4oc1DFPxOQ',
-    'https://mp.weixin.qq.com/s/E4sPbx6DWlPLRCyekiYQDA',
-    'https://mp.weixin.qq.com/s/9RyvVLEoOsju2LuXijSpiA',
+    'https://mp.weixin.qq.com/s/ym5wYhtO32-4NZMY0_vg5A',
+    'https://mp.weixin.qq.com/s/I9vtAZUlYN_j3oErjS8SJw',
+    'https://mp.weixin.qq.com/s/uYd72aUb9wvUcjICFLREgg',
+    'https://mp.weixin.qq.com/s/mZTfeVP6qAtrAmPKRKqxLA',
 ]);

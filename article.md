@@ -1,3 +1,210 @@
+## 2021.3.19
+- [x] [React 性能优化完全指南，将自己这几年的心血总结成这篇！](https://mp.weixin.qq.com/s/ym5wYhtO32-4NZMY0_vg5A)
+- [x] [为什么要用 picture 标签代替 img 标签？](https://mp.weixin.qq.com/s/I9vtAZUlYN_j3oErjS8SJw)
+- [x] [走进 React Fiber 的世界](https://mp.weixin.qq.com/s/uYd72aUb9wvUcjICFLREgg)
+- [x] [今日头条 iOS 安装包大小优化 - 新阶段、新实践](https://mp.weixin.qq.com/s/mZTfeVP6qAtrAmPKRKqxLA)
+
+## 2021.3.18
+- [x] [以前我没得选，现在我只想用 Array.prototype.reduce](https://mp.weixin.qq.com/s/6dnWIQUr8lbDGGbN1h6uZw)
+> reduce确实可以。
+- [x] [基于 esbuild 的 universal bundler 设计](https://mp.weixin.qq.com/s/myMCptZ44FOuMZywTZ_kyw)
+> 这篇文章非常好，梳理了如何实现一个类似rollup或者webpack的编译器，收藏。
+- [x] [多金的ToG项目总结——数字人民币](https://mp.weixin.qq.com/s/DihIa3q5fXshe6MR_Zv6CA)
+> 通用的异常处理页面值得参考。
+- [x] [温故而知新，8张 Javascript 思维导图助你成长](https://mp.weixin.qq.com/s/SyTyhkdkWFpP1EphAgxVSQ)
+- [x] [从 Chrome 源码 video 实现到 Web H265 Player](https://mp.weixin.qq.com/s/RDpp2Opjh3LAxYczeHac5g)
+> 团队正在自研开发的播放器，基于WASM的H265 Web软解播放器。期待
+- [x] [浅析JavaScript函数式编程](https://mp.weixin.qq.com/s/oZd4Rbi9-D0F_fIcwxJF_A)
+- [x] [编写高质量可维护的代码：编程范式](https://mp.weixin.qq.com/s/NmWPziVRnCvBsd-_hOG84Q)
+> 各种编程的方式
+## 2021.3.16
+- [x] [可视化研发之线的画法：直线，曲线，动画（Canvas版）](https://mp.weixin.qq.com/s/Bi-VRHr72t5DCD-5_abAzw)
+- [x] [关于 JavaScript Object.keys() 排序问题的探索](https://mp.weixin.qq.com/s/foXbAj3ODqFKYGUP5K8MkQ)
+> 作者从标准到源码的路径值得学习。
+- [x] [使用JavaScript开发一个Photoshop插件](https://mp.weixin.qq.com/s/eqqeiwUfuzRZvGFEL2e_ZQ)
+
+## 2021.3.15
+- [x] [我以为我很懂 Promise，直到我开始实现 Promise/A+规范](https://mp.weixin.qq.com/s/XExP0m6DnYP32akys-DYYQ)
+> 并没有说太清。但是能看出作者对规范是认真看过了的，里面很多属于都是ecma和w3c规范里的。
+- [x] [写给昊昊的前端零基础编译原理科普](https://mp.weixin.qq.com/s/M9_bOMTbnG9fC52HuHJhGw)
+- [x] [了不起的Chrome浏览器：Chrome 89开启Web应用的物联网时代](https://mp.weixin.qq.com/s/aoXc9tfTDb-h4sXqDN_u8w)
+- [x] [后端是如何获取到客户端的IP地址的](https://mp.weixin.qq.com/s/ckfh-RfyqkVe37uRjCTVgA)
+- [x] [【阿里】如何使用命令查看一个文件有多少字符以及多少行](https://mp.weixin.qq.com/s/2TwHJKCiM0N-kwsnTjVGcw)
+- [x] [前端爱好者周刊 (第 2 期 ): ESM深入图解](https://mp.weixin.qq.com/s/-nr8fMfVi6bU4on0aeBPmg)
+- [x] [探索微前端的场景极限 - 知乎](https://www.zhihu.com/column/p/355419817)
+- [x] [中文输入法中光标跟随能力触发的浏览器事件探究](https://mp.weixin.qq.com/s/I4kHfMHIA83bTVzQfQnw3w)
+- [x] [写给前端的手动内存管理基础入门（一）返璞归真：从引用类型到裸指针](https://juejin.cn/post/6938201650012094495)
+## 2021.3.12
+- [x] [Chrome 89 DevTools 新功能](https://mp.weixin.qq.com/s/zaZzVhWZgDZa53zldn0faw)
+- [x] [24个解决实际问题的ES6代码段](https://mp.weixin.qq.com/s/QpZ8p7vEby-bldw02vR89w)
+- [x] [酷炫！巧用 -webkit-box-reflect 倒影实现各类动效](https://mp.weixin.qq.com/s/cm1NtV3s1_HhVKIiZ4lUPQ)
+- [x] [Exploring @property and its Animating Powers](https://mp.weixin.qq.com/s/JuyUBXzGpMuA3KU0bo4DPA)
+> 为css的自定义属性指定类型定义，这样动画函数等就可以用自定义属性了。
+- [x] [All in one：项目级 monorepo 策略最佳实践](https://mp.weixin.qq.com/s/mV6gvPy-N3NZPEYONV4A0A)
+> 比较详细的探索了整个menorepo的实践。
+- [x] [Flexbox布局中不为人知的细节](https://mp.weixin.qq.com/s/KIqcUSxhCYEcfGVHPf5Gkg)
+> 这篇文章有点复杂。
+- [x] [如何深入理解计算机系统](https://mp.weixin.qq.com/s/ERRQzIhNsfD6YdrW9sp_VQ)
+> 一本书
+## 2021.3.11
+- [x] [快速打造一个套壳APP](https://mp.weixin.qq.com/s/rqLEkMi0HXhs9BPmaimUmg)
+> 使用uniapp实现云打包，uniapp有webview组件。
+- [x] [彻底玩转图片懒加载及底层实现原理](https://mp.weixin.qq.com/s/CjEADNu_IBA7zQ0KvTBrYw)
+- [x] [【译】听尤雨溪聊：下一代前端构建工具 ViteJS 中英双语字幕](https://mp.weixin.qq.com/s/Y_ggfivkF87TdL4LnD-dCw)
+- [x] [three.js 实现图片滚动扭曲特效](https://mp.weixin.qq.com/s/3uDeTVCUiqDyLANsgtHaFA)
+- [x] [如何做一场高质量的分享](https://mp.weixin.qq.com/s/Uwia82XlTMHPcvJ8QpPbSg)
+- [x] [SourceMap 知多少：介绍与实践](https://mp.weixin.qq.com/s/87VqGBaT9aF1B1Tokr4CKQ)
+> 通过devTool配置suorceMap，css的sourceMap需要在loader里配置
+
+
+## 2021.3.10
+- [x] [那些与 IE 相伴的日子](https://mp.weixin.qq.com/s/YMURNX09Vzj_NtrPfmzHVQ)
+> 至今还未死绝。
+- [x] [构建效率大幅提升，webpack5 在企鹅辅导的升级实践](https://mp.weixin.qq.com/s/P3foOrcu4StJDGdX9xavng)
+> 模块联邦就是在A模块里使用远程的B模块，这样我们可以把通用模块导出来，然后其他子模块可以共享。
+- [x] [如何禁止开发者操作网页上的 DOM 对象？](https://mp.weixin.qq.com/s/mvDeQhcwouC8PQESIUk_Og)
+> 使用worker、shadowdom。shadowdom不是特别靠谱，因为可以重建整个body。
+## 2021.3.9
+- [x] [Deno 将停用 TypeScript 的五个原因](https://mp.weixin.qq.com/s/1CXgkl31ezx726rwk8rplA)
+- [x] [语雀思维图子图嵌套的技术思考](https://mp.weixin.qq.com/s/R9YnZnphESqc2yZ7-jGhew)
+> 这篇文章写得比较好，像论文一样，很有学术的感觉。
+## 2021.3.8
+- [x] [精读《设计模式 - State 状态模式》](https://mp.weixin.qq.com/s/XSR401_iu5jfQBZaEM4MPg)
+> 通过状态来减少if/else
+- [x] [性能优化最佳实践：按需打包组件](https://mp.weixin.qq.com/s/jdsGxDEPPFZ4L14LehT4qw)
+> 打包时如何自动排除一些不需要打包的东西。
+- [x] [自动埋点核心原理揭秘](https://mp.weixin.qq.com/s/G8HUcrctip2vl7LpPHeO1w)
+> 通过改变原生的方法实现埋点。
+- [x] [Flutter 2 正式发布！](https://mp.weixin.qq.com/s/tJe2ScLgKWFTybpBtDl2TA)
+- [x] [2020年 JavaScript 明星项目](https://risingstars.js.org/2020/zh)
+> 这个页面包含了各种前端比较流行的项目，作为一个字典来看更好。
+- [x] [🤔移动端 JS 引擎哪家强？美国硅谷找......](https://mp.weixin.qq.com/s/2cxe1L9_vyB8oNg2jr2rkg)
+
+## 2021.3.5
+- [x] [开发中经常遇到的JavaScript问题整理(超实用)](https://mp.weixin.qq.com/s/wsmGs9Dlct0p_7xj0wP3og)
+> 尾递归优化
+- [x] [聊聊编程范式](https://mp.weixin.qq.com/s/eEb7EF9FcoY0XFRYAZTF9g)
+> 比较底层的编程思维探索。
+
+## 2021.3.4
+- [x] [不可思议的纯CSS导航栏下划线跟随效果](https://mp.weixin.qq.com/s/moEHfFOjDS1r90Hae6AoOg)
+> 利用兄弟选择器实现下划线从不同方向移进移出，非常巧妙。
+- [x] [【头条】请简述一下 async 与 defer 的区别](https://mp.weixin.qq.com/s/8R_JEg08cH6eNtlOTOCbZQ)
+> 第二次这篇文章了。async真没想清楚有啥好的。
+- [x] [你该知道的字体 font-family](https://mp.weixin.qq.com/s/13Rrgngv-kdLlCQSR4SjEQ)
+> 这个写得好，搜藏了。
+- [x] [你不知道的 Chrome DevTools](https://mp.weixin.qq.com/s/DPEIj5uJgd7j_Sh0VPCxtw)
+> 这个有点全面
+- [x] [Node.js + typescript 写一个命令批处理辅助工具](https://mp.weixin.qq.com/s/_hhpCM0mtENpAK6FrtsgPQ)
+- [x] [这可能是大型复杂项目下数据流的最佳实践](https://mp.weixin.qq.com/s/g5ZjQt9F1UUryisEW1csSA)
+## 2021.3.3
+- [x] [代码自动化重构利器——jscodeshift 初探](https://mp.weixin.qq.com/s/X_3WPcpAWM6L73XpolIBPA)
+> 逻辑是通过修改ast来重新生成源代码。jscodeshift是一个帮组更好完成这个步骤而开发的一个框架。
+- [x] [解剖Babel —— 向前端架构师迈出一小步](https://mp.weixin.qq.com/s/C1hxBYVbHHHWfofDvekt8Q)
+## 2021.3.2
+- [x] [Tailwindcss 为何大受欢迎？](https://mp.weixin.qq.com/s/y3rQPYNZrNhXDu2eaHGNnA)
+- [x] [手把手教你接入前端热门抓包神器 - whistle](https://mp.weixin.qq.com/s/K27yYBzOotAI6C4j4z5cCw)
+- [x] [Node.js 并发能力总结](https://mp.weixin.qq.com/s/6LsPMIHdIOw3KO6F2sgRXg)
+- [x] [基础组件完善的今天，如何通过业务组件提效？](https://mp.weixin.qq.com/s/eJdgTygV4wiMqATklyFaPg)
+
+## 2021.3.1
+- [x] [TypeScript 中你不一定知道的 top types，在用 any 之前先试试 unknown？](https://mp.weixin.qq.com/s/Q3fhFf50DQ0wxttqwcNlUA)
+> 用any前先考虑下unknown
+- [x] [一键格式化代码带来的快感 | 你还在为每个项目配置Stylelint和Eslint吗](https://mp.weixin.qq.com/s/ULTfBSIXNsCfqFU6WOnVPQ)
+> 直接通过vscode插件
+- [x] [我在阿里云做云开发平台](https://mp.weixin.qq.com/s/5FjN3b9PaPWUkrl1b876zA)
+> 这应该是未来的趋势。
+- [x] [ECMAScript 双月报告：TC39 2021年1月会议提案进度汇总](https://mp.weixin.qq.com/s/D3VdgiRRxeG6Un3HYU1Enw)
+- [x] [有道云笔记新版编辑器架构设计（上） - 知乎](https://zhuanlan.zhihu.com/p/345895871)
+- [x] [有道云笔记新版编辑器架构设计（下） - 知乎](https://zhuanlan.zhihu.com/p/347415991)
+> 做编辑器非常好的参考文章。
+- [x] [纯 CSS 也能实现拖拽效果？](https://mp.weixin.qq.com/s/gxe5QOVt9kRFWvXx-gugbg)
+> 真的是脑洞大开。利用移动端原生可以拖动内容的特性来实现拖动。
+- [x] [Electron 生命周期看这篇就够了](https://mp.weixin.qq.com/s/0f6wSUxd43HJL9WZfKjiEQ)
+- [x] [Web Components 上手指南](https://blog.shenfq.com/posts/2021/Web%20Components%20%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97.html)
+
+## 2021.2.26
+- [x] [可视化搭建平台之跨iframe拖拽](https://mp.weixin.qq.com/s/VO90m2qH_SWeluE8J-Qlsw)
+- [x] [Ryan Dahl 访谈： Node.js/Deno 的创始人](https://mp.weixin.qq.com/s/Ect6ZVAoJ0-i1F8aVeqlcA)
+> 非常棒，大佬的视角就是不一样
+- [x] [淘系运营工作台前端体系](https://mp.weixin.qq.com/s/czCotMCdUdRhvkye9mFXbw)
+- [x] [为什么现在我更推荐 pnpm 而不是 npm/yarn?](https://mp.weixin.qq.com/s/2LJmkcNfH9MHp597xjdIyQ)
+- [x] [Virtual DOM 认知误区](https://mp.weixin.qq.com/s/nwnnlMLdC-LvnY3-CiiT6A)
+
+## 2021.2.25
+- [x] [十分钟教你用 svg 做出精美的动画！](https://mp.weixin.qq.com/s/3IktHPwthMDkyw_HEHygVw)
+> 一个制作svg动画的工具，利用js的来操作元素动画。
+- [x] [一文详解 CSS-in-JS](https://mp.weixin.qq.com/s/v0IB2mZHrF0l2ks5pVsO1g)
+> 这东西感觉有点懵，用的太少了么。空了研究下
+- [x] [【头条】prefetch 与 preload 的区别是什么](https://mp.weixin.qq.com/s/VMteZPeUeX3hZfG9zjtFbQ)
+> 一个当前页一个其他页
+
+## 2021.2.24
+- [x] [前端异常的捕获与处理](https://mp.weixin.qq.com/s/lIJGhMjYJ6kaIoSmZn_oww)
+> 如何捕获各种异常以及异常的上传方案。
+- [x] [前端工程师所需要了解的WebView](https://mp.weixin.qq.com/s/PipKSnMQaTBhE5kSwG3DVQ)
+> webView的native和js的交互就类似于rpc的交互
+- [x] [Serverless 2.0，鸡蛋还是银弹？](https://mp.weixin.qq.com/s/CLlQgj2kCvDAym88kLILIA)
+> serverless用在合适的地方还是非常好的。
+- [x] [前端如何在项目中做出亮点](https://mp.weixin.qq.com/s/Tp9JekaJLxOc0VUF7-oZGw)
+> 满篇的文字，贵在真诚。
+
+
+## 2021.2.23
+- [x] [Vue 3.0 进阶之动态组件探秘](https://mp.weixin.qq.com/s/pw07_r8z2YC9t4ORiD7OBQ)
+- [x] [一文串联 HTTP / [ 0.9 | 1.0 | 1.1 | 2 | 3 ]](https://mp.weixin.qq.com/s/R0dBfnkARzZ91AY27Ba4Sw)
+> 作为简单的历史介绍，写得比较经典。
+- [x] [React 表单源码阅读笔记](https://mp.weixin.qq.com/s/nVgOU6jz4ORnfH436mnm4Q)
+> 表单的思考，里面很多思想值得学习。
+- [x] [如何更好地理解中间件和洋葱模型](https://mp.weixin.qq.com/s/p6lg9dw7tuePj9DDn85vjw)
+- [x] [互联网究竟是怎么诞生的？](https://mp.weixin.qq.com/s/2JTyLpr9HlgrGazDC_DYNQ)
+## 2021.2.22
+- [x] [门神——转转前端代码校验系统](https://mp.weixin.qq.com/s/o7M1bXwFM54GyviCUT2CnA)
+> 上线前通过扫描代码对代码进行各种检测断言质量打分。值得参考。
+- [x] [Hooks 邂逅 MobX ，代码变得更丝滑了！](https://mp.weixin.qq.com/s/MJjQ3__G29yPfIiW8g86Jg)
+- [x] [如何开发跨框架的组件](https://mp.weixin.qq.com/s/N9SZWWfNCUXFoc_t1EkVtQ)
+- [x] [Vite 2.0 正式发布！](https://mp.weixin.qq.com/s/TYjS53QYcHj2ZC8aFx-Cdw)
+> vite/rollup/Svelte安排起
+- [x] [多种开箱即用的“动态主题”解决方案](https://mp.weixin.qq.com/s/cnU1PJWyI7Dswr4A8RIlXg)
+> 最终通过css变量来解决。
+- [x] [新兴前端框架 Svelte 从入门到原理](https://mp.weixin.qq.com/s/7GTTAYNf28IvIe2bpfVHuQ)
+- [x] [Monorepo 进化论 - 你真的在用公共包吗？](https://mp.weixin.qq.com/s/xmObIKPkza21FH8O2gVAhQ)
+- [x] [Vue 3.0 进阶之双向绑定探秘](https://mp.weixin.qq.com/s/bWAtROCLRbHaJpwBV2vfUg)
+- [x] [​Web前端剪切板文本分享到文件发送](https://mp.weixin.qq.com/s/TrrxxeGdPsF5wVoGMcuw4w)
+> 三哥用上mac了
+
+## 2021.2.8
+- [x] [你辛苦学会的 Webpack dll 配置，可能已经过时了](https://mp.weixin.qq.com/s/jtIbVc9Bl50TIs7YilWbFg)
+> 是的，这东西本来就应该原生支持的。
+
+## 2021.2.7
+- [x] [前端 Code Review 的最佳实践方案](https://mp.weixin.qq.com/s/FL5O0xzoi3HptCNKV1Hzbg)
+> 对实际的code review执行还是有一些帮助。
+- [x] [Vuex 4.0 正式发布！新年，官方生态齐聚一堂。](https://mp.weixin.qq.com/s/39KXSVW7oHW1J7An6UMvrw)
+- [x] [聊聊写作以及公众号后续规划](https://mp.weixin.qq.com/s/7ngTXH02ijXc0_MsBhmXXQ)
+- [x] [Pipboard：从Git页面被攻击说起](https://mp.weixin.qq.com/s/YlnK_WKEZPbAfnitYOIsFw)
+> Pipboard机器学习。可以上传水杯和土豆的照片训练模型，然后进行使用。
+- [x] [Chrome 88 重要更新解读](https://mp.weixin.qq.com/s/CFzEJPGv1IwCtx1iRVFXQw)
+- [x] [补齐v8基础知识（一）v8与JavaScript简介](https://mp.weixin.qq.com/s/XB3n7aGz6ntPRJwwaDSRMw)
+> 还不错，V8的一个架构简介。
+- [x] [你对APP导航设计分类知多少？](https://mp.weixin.qq.com/s/BHmTB-gRd4skxKWT85wOww)
+> 各种可以使用的app导航类型大集合。
+- [ ] [1. Chrome 团队今年是如何工作的_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/BV1tK411372S)
+## 2021.2.5
+- [x] [Sign-in form best practices](https://mp.weixin.qq.com/s/6T7ZIIWuoeUkcnAJM9Y18A)
+> 已记录
+- [x] [智能UI：1688 B买狂欢节的探索与实践](https://mp.weixin.qq.com/s/lOzSpj6jflYhD7maFg1I_w)
+- [x] [【蚂蚁】什么是缓存穿透，如何解决](https://mp.weixin.qq.com/s/1YKP9mZby63GNn9UrcJtKA)
+> 数据库的缓存穿透
+- [x] [前端mock完美解决方案实战](https://mp.weixin.qq.com/s/GiIIS-b00AZGHCxxMMTN5w)
+> 不是很懂，感觉文章不是很清晰。
+- [x] [Vue隐藏技能：运行时渲染用户写入的组件代码！](https://mp.weixin.qq.com/s/o2jAZOhBhQqwU-3CFxczlA)
+> 动态创建组件并渲染。使用跨域iframe来实现隔离。
+- [x] [搜尽全网，整理了 19 道 Promise 面试题，你能做对几个？](https://mp.weixin.qq.com/s/MJiOFZb4QgMGRpE7YDfS8A)
+## 2021.2.4
+- [x] [如何打造一个高性能的前端智能推理引擎](https://mp.weixin.qq.com/s/vc1xQdJJjJT-xoYSPMGshA)
+> 主要是宣传为主。前端去识别一条狗，通过gpu的算力和wasm去优化。
+
 ## 2021.2.3
 - [x] [从浅入深讲解 Node 如何开发一个命令行工具](https://mp.weixin.qq.com/s/JTO_XAtu0BwgewrZG0ZsJQ)
 - [x] [像玩 jQuery 一样简单地玩转 AST](https://mp.weixin.qq.com/s/v3JUb205k26L4oc1DFPxOQ)
