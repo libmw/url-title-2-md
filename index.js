@@ -33,8 +33,11 @@ async function url2md(urls) {
 }
 
 url2md([
-    'https://mp.weixin.qq.com/s/ym5wYhtO32-4NZMY0_vg5A',
-    'https://mp.weixin.qq.com/s/I9vtAZUlYN_j3oErjS8SJw',
-    'https://mp.weixin.qq.com/s/uYd72aUb9wvUcjICFLREgg',
-    'https://mp.weixin.qq.com/s/mZTfeVP6qAtrAmPKRKqxLA',
+    'https://mp.weixin.qq.com/s/8JRgYY7_Kxwa3HK8jZXEjw',
+    'https://mp.weixin.qq.com/s/3OKTdpXV9386Xl83_B2vkg',
+    'https://mp.weixin.qq.com/s/G3PPyGYDR22-qsq-h3YbEw',
+    'https://ming1016.github.io/2021/02/21/deeply-analyse-quickjs/',
+    'https://mp.weixin.qq.com/s/GjFC5_85pIk9EbKPJXZsXg',
+    'https://mp.weixin.qq.com/s/MJScjoqGtKh9IuFpfMbbQg',
+    'https://mp.weixin.qq.com/s/YpNBI9Lbhv-iQDyu2m2u0w',
 ]);
