@@ -33,11 +33,9 @@ async function url2md(urls) {
 }
 
 url2md([
-    'https://mp.weixin.qq.com/s/8JRgYY7_Kxwa3HK8jZXEjw',
-    'https://mp.weixin.qq.com/s/3OKTdpXV9386Xl83_B2vkg',
-    'https://mp.weixin.qq.com/s/G3PPyGYDR22-qsq-h3YbEw',
-    'https://ming1016.github.io/2021/02/21/deeply-analyse-quickjs/',
-    'https://mp.weixin.qq.com/s/GjFC5_85pIk9EbKPJXZsXg',
-    'https://mp.weixin.qq.com/s/MJScjoqGtKh9IuFpfMbbQg',
-    'https://mp.weixin.qq.com/s/YpNBI9Lbhv-iQDyu2m2u0w',
+    'https://mp.weixin.qq.com/s/ce86Czo7xwuMH2U1eKsqLw',
+    'https://mp.weixin.qq.com/s/JgR_oSLbxYpbAgwQuij1Eg',
+    'https://mp.weixin.qq.com/s/M9NYHZyOvFMxqzeFbiMq4w',
+    'https://mp.weixin.qq.com/s/liTfLJcHbu6i0m9srLjShA',
+    'https://mp.weixin.qq.com/s/uOVFpApoFJ7culotTQ5f3A',
 ]);

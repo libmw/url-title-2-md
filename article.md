@@ -1,3 +1,55 @@
+## 2021.4.2
+- [x] [【附源码】微信原生开放标签不好用？使用Rollup与Web Components撸个更好的！](https://mp.weixin.qq.com/s/ce86Czo7xwuMH2U1eKsqLw)        
+- [x] [从一道让我失眠的 Promise 面试题深入分析](https://mp.weixin.qq.com/s/JgR_oSLbxYpbAgwQuij1Eg)
+> 还是那道提，还是没说明白。
+- [x] [Tailwind 生成的 CSS文件竟然有 3.7 Mb 这么巨大！这还能用？](https://mp.weixin.qq.com/s/M9NYHZyOvFMxqzeFbiMq4w)
+> 介绍了purge Css工具用来删除css文件中没有被用到的css类
+- [x] [前端应该知道的Web标准](https://mp.weixin.qq.com/s/liTfLJcHbu6i0m9srLjShA)
+- [x] [Vuex源码阅读过程分享](https://mp.weixin.qq.com/s/uOVFpApoFJ7culotTQ5f3A)
+## 2021.4.1
+- [x] [从原理到实战彻底搞懂基于 Monorepo 的 lerna 模块](https://mp.weixin.qq.com/s/BO0pV0O794r2KrzuP5gNew)
+- [x] [看了就会的 Node.js 三大基础模块常用 API](https://mp.weixin.qq.com/s/tB6axCDFiC5Cp_7tPGDkpQ)
+- [x] [写 Node.js 代码，从学会调试开始](https://mp.weixin.qq.com/s/6y25bXd6VAcVUKkQl6iG3Q)
+- [x] [从0到1实现Web端H.265播放器：视频解码篇](https://mp.weixin.qq.com/s/f7f-4E2b07f4K0FduEg4YA)
+> 不开源都是在耍流氓
+- [x] [奇技淫巧！不规则边框的生成方案](https://mp.weixin.qq.com/s/DjrvvrOPvoKkDHrLzgXSTg)
+- [x] [「react进阶」一文吃透react-hooks原理](https://mp.weixin.qq.com/s/-NaAyp6806YIyJWNO4SScQ)
+> 好像是把hooks说得比较清楚的。
+## 2021.3.29
+- [x] [composition API重构mixin实践](https://mp.weixin.qq.com/s/6WLOlYoTy7CEJIecTB_sMA)
+- [x] [2021 年 Web 核心性能指标是什么？谷歌工程师告诉你，FMP 过时啦！](https://mp.weixin.qq.com/s/NYqdeQm5tnQZ1NrgL9vsJQ)
+> 性能分析指标还是参考谷歌的比较好。
+- [x] [理解 ECMAScript 规范（1）](https://mp.weixin.qq.com/s/scA3PepT_JcNk0U4EXbHwA)
+> 松峰翻译版。
+- [x] [推出 Lyra：用于语音压缩的新型极低比特率编解码器](https://mp.weixin.qq.com/s/bQRCGgVG8ZwegBWSEifoPw)
+> 语音的编码解码器，基于机器学习。
+- [x] [我对 Svelte 的看法 - Randy's Blog](https://lutaonan.com/blog/svelte/)
+> 这个作者有点意思，文章写得比较浅显。
+- [x] [游戏“头号玩家”：像做游戏一样做Web开发](https://mp.weixin.qq.com/s/-CJbjSa5r1qRJJnGNz30Wg)
+> "就像俄罗斯方块一样，软件技术的发展过程就是不断垒加抽象层，最容易最需要创造价值的地方永远是最高的抽象层级。直插底层做革新和填补空白虽然能带来很大影响，但机会少，刻意追求反而高不成低不就。"这句话不错
+## 2021.3.26
+- [x] [一些前端项目常见问题的解决方案（Vue）](https://mp.weixin.qq.com/s/FZfWSip-8CeLB6usOoaWmw)
+> 一些思想值得借鉴
+- [x] [Charts.css 一个新的数据可视化框架，底层使用纯 CSS 实现](https://mp.weixin.qq.com/s/U0Je5PMeu4h_YTTTsBlIVA)
+> 有点意思，纯css来实现图表。
+- [x] [Understanding the ECMAScript spec, part 1](https://mp.weixin.qq.com/s/V3o3MgP1GMG2NzbLeAM79Q)
+> 看标准要先看标准的约定。本文说了一些标准里面基本的约定。
+
+## 2021.3.25
+- [x] [HTML标签之 <details> 与 <summary>](https://mp.weixin.qq.com/s/EEXvrOiGBL9dQmWo82SEVg)
+> 用原生的来做下来菜单还是很不错的。
+## 2021.3.24
+- [x] [[Flutter] UI调试小工具——颜色吸管](https://mp.weixin.qq.com/s/7Aij6vItbZ6jFOffBFOTrw)
+- [x] [使用 FFmpeg 与 WebAssembly 实现纯前端视频截帧](https://mp.weixin.qq.com/s/HJpexn0pRWtucmkgLTGdPQ)
+- [x] [一道面试题让你更加了解事件队列](https://mp.weixin.qq.com/s/FKdbx27jfSlzonpX6RS7Vw)
+
+## 2021.3.23
+- [x] [【CSS Houdini】Paint API，带你变身前端达芬奇](https://mp.weixin.qq.com/s/zr-Zw82EwlXMq9jDD4JmxQ)
+> 通过css类型变量+paintApi可以实现自由绘制可变背景
+- [x] [探索Table组件虚拟化](https://mp.weixin.qq.com/s/X2b4ewT-99HdNuC1Wg-Tew)
+> 探讨了AntD上的table如何做虚拟化，ant官方虚拟化会丢失一些表格功能。
+- [x] [仅使用CSS提高页面渲染速度](https://mp.weixin.qq.com/s/uga8enKl1Yx7yE6d8Bn0bQ)
+> content-visible、will-change、contain可以选择哪些元素需要重绘、font-display可以防止web字体加载闪烁、scroll-behavior让滚动平滑、通过link media=来选择性的加载自适应样式表、
 ## 2021.3.22
 - [x] [由浅入深，走进 JavaScript 时间处理](https://mp.weixin.qq.com/s/8JRgYY7_Kxwa3HK8jZXEjw)
 > 里面介绍了很多时间相关的基础知识。
