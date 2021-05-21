@@ -1,3 +1,64 @@
+## 2021.5.20
+- [x] [三元同学来抖音架构组八个月，他怎么样了？](https://mp.weixin.qq.com/s/KnkOWGTH15zQB9PnfQ4CaQ)
+> 怀念实习岁月
+- [x] [手把手教你写一个脚手架](https://mp.weixin.qq.com/s/1hT8n6zkMeuTmvh-zo9OCw)
+- [x] [探案揭秘六种React‘灵异’现象背后的原因](https://mp.weixin.qq.com/s/-bns51t3514KoHMhPc8t-g)
+
+## 2021.5.19
+- [x] [政采云前端团队-前端小报系统开源了](https://mp.weixin.qq.com/s/esfeiigcGX5lCQG2OumaPQ)
+- [x] [一文彻底搞懂 DvaJS 原理](https://mp.weixin.qq.com/s/frSXO79aq_BHg09rS-xHXA)
+- [x] [从0到1实现Web端H.265播放器：YUV渲染篇](https://mp.weixin.qq.com/s/-YI2Xfjkns98-j7TR8sKJw)
+
+## 2021.5.18
+- [x] [GraphQL及元数据驱动架构在后端BFF中的实践](https://mp.weixin.qq.com/s/62Rc51-K37mbMGcZ3ptoqg)
+- [x] [直播场景 http flv 流内存泄露排查小记](https://mp.weixin.qq.com/s/LScQyoFUWJOyymK5POaYZg)
+- [x] [从一次重构组件代码来谈谈前端多语言最佳实践](https://mp.weixin.qq.com/s/V-GetBAy2v2Is5rA7-8oMA)
+> 跟OneNET的方案很相似啊
+
+## 2021.5.17
+- [x] [【流水线竞品分析】GitLab CI/CD 分析与实践](https://mp.weixin.qq.com/s/pi1X85zoAQN9GQxe1SABow)
+- [x] [精读《新一代前端构建工具对比》](https://mp.weixin.qq.com/s/iQCyMMj5jyUQNZdyO-ioVA)
+> wmr还是第一次听说。
+- [x] [【一题】如何实现页面文本不可复制](https://mp.weixin.qq.com/s/QF_GUO23Hbi9B-20rHxUfg)
+- [x] [浅聊防抖与节流 实现与应用](https://mp.weixin.qq.com/s/VddNKlfEeasj_ziXgQV9yQ)
+- [x] [聊一聊迭代器和生成器的那些事](https://mp.weixin.qq.com/s/0TcL5dxW-QnYEascQIqgAg)
+- [x] [因活跃度不够，阿里巴巴主导的Weex从Apache Incubator退休](https://mp.weixin.qq.com/s/_wS0V-gUsX19vvdVLHJnEQ)
+- [x] [无码/低码新兴宇宙](https://mp.weixin.qq.com/s/DYYELKMGNuG56EREyLn37g)
+- [x] [从 SWR 开始 — 一窥现代请求 hooks 设计模型](https://mp.weixin.qq.com/s/ZyMyYBd3tItDatZHj0zuoQ)
+- [x] [JavaScript Debugger 原理揭秘](https://mp.weixin.qq.com/s/iATe4YPbB7GLuOZtKu3ucQ)
+- [x] [深入剖析虚拟内存工作原理](https://mp.weixin.qq.com/s/c81Fvws0J2tHjcdTgxvv6g)
+> 从硬件的角度描述虚拟内存。
+- [x] [在Javascript应用程序中执行语音识别](https://mp.weixin.qq.com/s/gvmQkZj8yHFk5AxSGCOhhA)
+> chrome原生语音识别，原理是云端处理
+## 2021.5.14
+- [x] [见微知著 - npm包的基础建设如此简单](https://mp.weixin.qq.com/s/OpuxWY89TYeyDqC86BVe2g)
+- [x] [见微知著 - HTTP的进化史](https://mp.weixin.qq.com/s/XMe1SA96nTGx3L1BlRMVvw)
+- [x] [移动端那些戳中你痛点的软键盘问题及解决方法](https://mp.weixin.qq.com/s/XhNyIQZ4PNNQWRQyl6GdfQ)
+- [x] [我从来不理解 “压缩算法”，直到有人这样向我解释它](https://mp.weixin.qq.com/s/Yvy2u4fDBbdMcGxS3rBm0Q)
+- [x] [ESModule 系列 ㈠ ：演进](https://mp.weixin.qq.com/s/XmwfKLQrRlZ4z0niz5mLJg)
+> 模块化历史
+- [x] [深入探索视频帧中的颜色空间—— RGB 和 YUV](https://mp.weixin.qq.com/s/GeLMneMIgKIXpXp5iMqFzQ)
+- [x] [NVS —— js 实现的node版本管理工具](https://mp.weixin.qq.com/s/Wnv6AupkNEDlSJz82krbXg)
+- [x] [CSS @property，让不可能变可能](https://mp.weixin.qq.com/s/lneJrApkkSKa98hK0Aw9nw)
+- [x] [我在 react 里写 vue3 ? 还写了自定义 hooks 和 Hoc 构建了响应式 ！](https://mp.weixin.qq.com/s/3vO9IjKH7rNtqMf7_tKfkw)        
+- [x] [Hi~ 这将是一个通用的新手引导解决方案](https://mp.weixin.qq.com/s/vrDQEGgOSnKBvHuwZV6vSA)
+- [x] [Event Loop 和 JS 引擎、渲染引擎的关系](https://mp.weixin.qq.com/s/g_-blGV4CVF5EogYZaPMzQ)
+- [x] [JavaScript 如何压缩目录并上传？](https://mp.weixin.qq.com/s/2uAmC9F6eQBA8f4Cu5vQsw)
+- [x] [如何打造渐进式、可扩展的前端研发平台](https://mp.weixin.qq.com/s/2F3SHAbZkm9mYJ6L0LAa6w)
+- [x] [两个DIV实现雷达扫描效果](https://mp.weixin.qq.com/s/OOgsQboXSRnuj6M_Gyc2CQ)
+- [x] [字节面试官问粉丝，如何实现准时的setTimeout](https://mp.weixin.qq.com/s/AZh1djakcCo798T3OsdOwQ)
+- [x] [聊聊各端手势体系以及对 Web 标准手势的思考](https://mp.weixin.qq.com/s/FHwuHSXmUZ0BiF_DFH3w1A)
+- [x] [尝试用 Rust + Yew 写高性能前端页面](https://mp.weixin.qq.com/s/REXsf9tMmCisa8lWAdxGGw)
+
+## 2021.5.8
+- [x] [JavaScript 的静态作用域链与“动态”闭包链](https://mp.weixin.qq.com/s/0uT1wm2icR0vMW0lstj9lQ)
+
+## 2021.5.7
+- [x] [浅探 Web Worker 与 JavaScript 沙箱](https://mp.weixin.qq.com/s/_HZdKQQNDmPQNdN9LNtlRw)
+> 又回到了taro说的MVX的模式。这篇文章写得挺不错的，里面有很多关于沙箱的知识。
+- [x] [如何在 JavaScript 中使用宏](https://mp.weixin.qq.com/s/8Dtjy9clLINaxIdIko0bWw)
+- [x] [看了就会的浏览器帧原理](https://mp.weixin.qq.com/s/CxD7SKzyRMS0rMY6jDlVvg)
+
 ## 2021.5.6
 - [x] [见微知著-css布局天花板 Grid](https://mp.weixin.qq.com/s/F8xUZZSal07HCc1yH3CDhg)
 - [x] [细数这些年被困扰过的 TS 问题](https://mp.weixin.qq.com/s/FTtobh-wGylG1TQAkng8uw)
