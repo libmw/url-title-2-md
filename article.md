@@ -1,3 +1,244 @@
+## 2021.7.20
+- [x] [从 SWR 开始 — 一窥现代请求 hooks 设计模型](https://mp.weixin.qq.com/s/DFt129rgcrTJch1RcUqpXg)
+- [x] [仅用 CSS 几步实现赛博朋克 2077 风格视觉效果](https://mp.weixin.qq.com/s/52QMKFnESEG5pCsYb44ASw)
+> 多边形裁剪实现故障效果。
+- [x] [TypeScript的另一面：类型编程](https://mp.weixin.qq.com/s/cWJNIb-ngyxpTWQAl40DsQ)
+> 主要讲如何写类型工具。还挺好的。
+- [x] [如何优雅的管理 Axios 请求和响应拦截器？](https://mp.weixin.qq.com/s/QBno6MG1_w9aAAXljQVMyw)
+- [x] [Vue.js 源码分析—— Slots 是如何实现的](https://mp.weixin.qq.com/s/1UmnH7VKlYJ9iTTXlzuAnA)
+- [x] [前端视角看HarmonyOS](https://mp.weixin.qq.com/s/2WSjbZjzXHI5bb83Ydkh1g)
+- [x] [深入浅出 RxJS 核心原理（源码实现）](https://mp.weixin.qq.com/s/RxL9plpKipi1lrG5f6EDjg)
+
+## 2021.7.19
+- [x] [用了这么久的 require，你真的懂它的原理吗？](https://mp.weixin.qq.com/s/MqFD93THSExHQpci1ybgaQ)
+- [x] [让你 vscode 写代码效率更高的技巧](https://mp.weixin.qq.com/s/CNFAP-YDIMJe74-iv8FhZQ)
+- [X] [Flutter企业级应用开发在闲鱼的落地](https://mp.weixin.qq.com/s/kCZffZnyCmIL63x-YzHqqA)
+- [x] [Slate 架构分析与总结](https://mp.weixin.qq.com/s/yx6eOcCX-dQlv-dNvy6aSA)
+> 一款插件为一等公民的富文本编辑器。
+- [x] [「硬核JS」你的程序中可能存在内存泄漏](https://juejin.cn/post/6984188410659340324)
+> 内存泄露可能的原因以及查错方式
+- [x] [SolidJS硬气的说：我比React还react](https://mp.weixin.qq.com/s/A_IYySoUmTQ7MLYp2IS_VA)
+> react和vue3和svelte结合体
+- [X] [GitHub Copilot体验：AI辅助编程提前看](https://mp.weixin.qq.com/s/hZIK_IC0K9eGInh4POr-6g)
+- [x] [尤雨溪：做技术哪有什么两全之策，都是取舍和平衡](https://mp.weixin.qq.com/s/_q_SnCbGyXrNnXA876tXbA)
+> https://codepen.io/collection/DkxpbE 一个小型的vue3系统。
+`所以说用 Vue3 的时候，一个最好的习惯就是不要对原对象存一个引用，直接把它变成一个 Proxy，然后一直只用这个 Proxy 来做事情。大致遵循这样一个原则就行。`
+## 2021.7.15
+- [x] [从微服务到微前端：浅谈微前端的设计思想](https://mp.weixin.qq.com/s/ok0jNFcRx7vAohu6DpS2yA)
+- [x] [带你探索神秘的“幽灵空白节点”](https://mp.weixin.qq.com/s/dqI7cin7smENjd98BD_Knw)
+> 讲基线、line-height
+- [x] [前端领域，编译原理能用在哪？](https://mp.weixin.qq.com/s/Yixafv7FtD3RbUPAQhUB8w)
+- [x] [Vue3.0最新动态：script-setup 定稿，部分实验性 API 将弃用](https://mp.weixin.qq.com/s/AHCt3WTYkmhu9BZ-WPeSUA)
+- [x] [Chrome 的下一代 Web 渲染架构：RenderingNG](https://mp.weixin.qq.com/s/9W3WZZxNxuRsohNh2zSRwQ)
+- [x] [每个前端都值得拥有自己的组件库，就像每个夏天都拥有西瓜](https://mp.weixin.qq.com/s/3E0irVhQ9uA5qt0LIt2rfQ)
+> 非常棒的组件库脚手架搭建教程。
+- [x] [新一代图片编解码技术在淘宝的应用及落地](https://mp.weixin.qq.com/s/fWk5WXZPWRJVmHVdhNRhDw)
+
+## 2021.7.13
+- [x] [手淘店铺全链路性能优化](https://mp.weixin.qq.com/s/Ltc7RskDFNQK0xh8Dss83A)
+- [x] [Monorepo 进化论 - monorepo 内 Node 部署](https://mp.weixin.qq.com/s/qQIFD7boAS4Gv3dAdbPlNQ)
+
+## 2021.7.12
+- [x] [尤大又出新单曲，5kb 的 petite-vue](https://mp.weixin.qq.com/s/Wa4ZFgmveVXhHYGsxk2ctw)
+> 一个小型的vue响应式系统，支持模板。
+- [x] [花椒低代码可视化编辑平台的设计与实践](https://mp.weixin.qq.com/s/O3VvId5xMWrRjug8S-yq_A)
+> 基于pipeline-page的低代码平台
+- [x] [聊聊前端领域那些“门面”](https://mp.weixin.qq.com/s/6jAXxV_mFhNg2wg0dokupQ)
+> 设计模式
+- [x] [利用机器学习通过网页预提取技术加快网站加载速度](https://mp.weixin.qq.com/s/S1Yg6wiYkK2lN-5aTp2dqQ)
+> 有数据的地方就有机器学习。
+- [x] [突破Hooks所有限制，只要50行代码](https://mp.weixin.qq.com/s/ghpJf2-qxD4nXjek5dqLHA)
+> 利用响应式突破react 的hooks顺序限制
+- [x] [WebIM原理解析](https://mp.weixin.qq.com/s/IGTirxb6Cg7c_uMrHyvhHw)
+- [x] [手把手教你设计一个任务调度器](https://mp.weixin.qq.com/s/O6fAOodJq6pyJnqy1IuqEg)
+## 2021.7.9
+- [x] [在字节用 Monorepo，我们帮你踩了这些坑](https://mp.weixin.qq.com/s/KExxFGJASD-DczC5BCGNMQ)
+- [x] [GMTC 2021 演讲 《字节跳动基于 Serverless 的前端研发模式升级》](https://mp.weixin.qq.com/s/J2fHm_mR7UE65q1vSQ9xpA)
+> 字节还开源了一个微前端框架
+
+## 2021.7.7
+- [x] [CSS 奇思妙想 | 全兼容的毛玻璃效果](https://mp.weixin.qq.com/s/GSNv4sh6ZEaCcKwR_GV9hA)
+- [x] [让你 nodejs 水平暴增的 debugger 技巧](https://mp.weixin.qq.com/s/xHHtLrnb-FZeonkX525RVw)
+> 调试nodejs的办法。
+- [x] [Serverless Custom (Container) Runtime](https://mp.weixin.qq.com/s/AinmCj3iJEkP4Fwq5mSTQw)
+> serverless自定义运行容器
+- [x] [从场景倒推我们要什么样的微前端体系](https://mp.weixin.qq.com/s/Xb-P9ubzrXGmtTE8xhK8TQ)
+> `微前端干货`。对于css沙箱隔离、js沙箱隔离提出了各种办法。对于子应用的加载器实现说了原理。
+- [x] [抽象泄漏（Leaky Abstractions）](https://mp.weixin.qq.com/s/KneomYX_7yQ78RzAmvIoHg)
+> 可以放到架构中学习
+- [x] [他开发了redux，昨晚"字节一面"却挂了？](https://mp.weixin.qq.com/s/6vM5cI_zK6L5n2iZOu1_TA)
+> 对于框架的一些见解
+## 2021.7.6
+- [x] [硬核破解 Cocos 内存泄漏](https://mp.weixin.qq.com/s/7tRjIap7dP_u16AUYp59_w)
+- [x] [JavaScript 函数式编程解析（上）](https://mp.weixin.qq.com/s/1IZwX6GIgl2-rDzS43ta1w)
+
+## 2021.7.5
+- [x] [迈入现代 Web 开发（GMTC 2021 演讲《字节跳动的现代 Web 开发实践》全文）](https://mp.weixin.qq.com/s/0VDBAgEvqB1xiUs540Fu9A)  
+> 非常长的文章。这种非常重的基建，对infra团队有很高的要求，但是真正使用这种studio形式的开发，感觉自己在车螺丝。 
+- [x] [前端架构之 React 领域驱动设计](https://mp.weixin.qq.com/s/rICtjdO0usOp5_Zh7ncDuQ)
+- [x] [如何实现前端白屏监控？](https://mp.weixin.qq.com/s/Gyg3iYoaiEM8_QrAL_ZDDQ)
+- [x] [TypeScript 4.3 新功能的实践应用](https://mp.weixin.qq.com/s/KJdUdwbLN4g4M7xy34m-fA)
+> 对tuple类型的高级应用
+- [x] [我在大厂写React学到了什么？性能优化篇](https://mp.weixin.qq.com/s/lkYoiPorc6TQ19zPK_W-1A)
+- [x] [在 2021 成为前端开发者 的 完全指南](https://mp.weixin.qq.com/s/4WYvCle2JnNVH0AGjgCZAg)
+> 写给新手前端
+- [x] [SVG基础及其动画应用浅析](https://mp.weixin.qq.com/s/y7ixXeUcyDkTMCpP9V9Ygw)
+- [x] [产品经理：鸿蒙那个开场动画挺帅的 给咱们页面也整一个呗](https://juejin.cn/post/6979042510400126983)
+
+## 2021.7.1
+- [x] [AST in CSS](https://mp.weixin.qq.com/s/fGWFE2zZ75oxfnlHr3Pgfw)
+> postCss这个名字起得真撇。
+- [x] [Javascript 机器学习的四个层次](https://mp.weixin.qq.com/s/cUCCo9-qJEKPycxlIo00tg)
+- [x] [CSS 奇思妙想边框动画](https://mp.weixin.qq.com/s/JAOZ-NZoPnmAhL-9l0WKKQ)
+> 边框渐变、动画，可以实现一些轨迹动画，非常棒。
+- [x] [一种低延迟的超时中心实现方式](https://mp.weixin.qq.com/s/q7_YiTTLkfB8ktRxEfz8lQ)
+
+## 2021.6.30
+- [x] [兄弟萌，让我们在 vscode 里放烟花吧](https://mp.weixin.qq.com/s/VZ7fvee0hVbsIM8S_MlhIA)
+> vs code如何编写插件
+- [x] [Vite 特性和部分源码解析](https://mp.weixin.qq.com/s/sieWEJZc5Tg-4uh9Mdvtcw)
+> vite源码分析
+- [x] [下一代图片压缩格式 AVIF](https://mp.weixin.qq.com/s/vQvxV2iIj-I31tG0WqGtOQ)
+- [x] [Js是怎样运行起来的？](https://mp.weixin.qq.com/s/3ROdZZ_xTtl6B5ii4ha46w)
+- [x] [一觉醒来，竟发现自己看不懂 JS 了？](https://mp.weixin.qq.com/s/fonmsicWWG1xBwokmDpO2Q)
+
+## 2021.6.29
+- [x] [【一题】package-lock.json 有何作用，如果没有会出现什么问题](https://mp.weixin.qq.com/s/agx1xfUzRo342GraAl5gfQ)
+- [x] [前端也要懂图形学：使用 TypeScript 实现光线追踪](https://mp.weixin.qq.com/s/W8FSN3YIeqzwbN5uZG9q1w)
+- [x] [深入浅出 Yarn 包管理](https://mp.weixin.qq.com/s/0RG3vvluVa1Dm2JxxnsVDw)
+
+## 2021.6.28
+- [x] [Node.js + Vue 实现 Excel 导出与保存](https://mp.weixin.qq.com/s/PHIbCZe31rATZj34xgdKkA)
+- [x] [为啥套娃？聊聊 babel、jscodeshift 和阿里妈妈的 gogocode](https://mp.weixin.qq.com/s/XxdWQ7dXHvtx9N1c2ZTsGQ)
+- [x] [Android相机预览设置适配及显示方式](https://mp.weixin.qq.com/s/W-bwZNRZkfUFewvXxIG9iw)
+- [x] [从 0 到 1 实现浏览器端沙盒运行环境](https://mp.weixin.qq.com/s/7CD_F0hEZtYRK0fvBWb_gQ)
+> 更像是一个react运行时
+- [x] [手把手教你打造前端智能图标识别工具](https://mp.weixin.qq.com/s/Xz234s6ZHhxV5LxdqPfWBg)
+> 不错，可以当做入门demo。后面的一些参考资料很有用。
+- [x] [【vite】你不知道的小妙招，确定不看一下吗？](https://mp.weixin.qq.com/s/J_HBCBATgVEexbhzKvb2wQ)
+- [x] [我优化了进度条，页面性能竟提高了70%](https://mp.weixin.qq.com/s/yk7llzupEwkKdMwwGeenzQ)
+> 有动画的地方就得考虑重排重绘
+- [x] [谈一谈 Node.js Stream 中 Readable 类的源码实现](https://mp.weixin.qq.com/s/sD6Pi3hS9H5XysmG5cRDhw)
+
+## 2021.6.25
+- [x] [Node版Spring - 那些让人眼前一亮的NestJS特性](https://mp.weixin.qq.com/s/lOJ-_i9IVQsvRVGwCFhm9g)
+> NestJS是一个类似Spring的编程框架，把很多设计模式都囊括了，值得学习。
+- [x] [为什么有了 XMLHttpRequest，还要设计一套 fetch API?](https://mp.weixin.qq.com/s/gVpskPVFMddF1Ok1DTtoMA)
+> 很棒
+- [x] [换个角度思考 React Hooks](https://mp.weixin.qq.com/s/_uCquHuFaAk8W2bVjaC7Sg)
+> 对于react hooks的思考，挺好
+- [x] [JavaScript 变量命名](https://mp.weixin.qq.com/s/I4gFKpyzvVqQIyS9Mh0BJg)
+- [x] [如何建设一个开源图形引擎的文档网站](https://mp.weixin.qq.com/s/3Sjk8ws-MJvyTq7ksCeZ4g)
+> 还不错的
+## 2021.6.24
+- [x] [初创公司的前端团队，如何突围](https://mp.weixin.qq.com/s/qO2AKK4p1-JXIDApVG08Bw)
+> 值得参考
+## 2021.6.23
+- [x] [15 分钟学会 Immutable](https://mp.weixin.qq.com/s/8-xfY45DLqKDKAhvP16sUw)
+> 不可变对象的实现，非常棒。react用得比较多，其他很多场景也可以使用。
+- [x] [一文了解AsyncHooks](https://mp.weixin.qq.com/s/08AVmJLMdMNm4yNWQwk-DA)
+- [x] [基于 monorepo 的架构实践总结： vscode 插件及其相关 packages 开发](https://mp.weixin.qq.com/s/3h86y4oBXiDKoYo849b8ng)
+
+## 2021.6.22
+- [x] [5 分钟学会 Nginx 负载均衡](https://mp.weixin.qq.com/s/4O9LasVtDI-b88qygWqJVQ)
+> 负载通过up_stream配置，可以配置权重、单ip、轮询。
+- [x] [Mapbox GL JS简析](https://mp.weixin.qq.com/s/Uff_yzPVgj7zNNSa-3AsBw)
+## 2021.6.21
+- [x] [【CSS进阶】试试酷炫的 3D 视角](https://mp.weixin.qq.com/s/YudMHtALOgViFLWBfxJdvQ)
+- [x] [用最简单的前端技术揭示那些灰色产业背后的原理](https://mp.weixin.qq.com/s/Pu6HnUO1TQsdAtsleNTtgg)
+- [x] [前端如何在项目中做出亮点](https://mp.weixin.qq.com/s/nAj9oqXqYiR5_J2Zga3L0Q)
+- [x] [2021 年最值得关注的 5 个技术趋势](https://mp.weixin.qq.com/s/XGHvzdy-Tq5l2z__Q4MuXw)
+- [x] [JavaScript 二十年都发生了什么？](https://mp.weixin.qq.com/s/p2J0_kKfm9-ZIWjgfrM2pA)
+- [x] [网页生成PDF实战指南](https://mp.weixin.qq.com/s/mbao5xFKmGwCnxAxSighqg)
+- [x] [从 ESLint 开始，说透我如何在团队项目中基于 Vue 做代码校验](https://mp.weixin.qq.com/s/iwm2UtEEmsJgZx0D7yT1zA)
+- [x] [SourceMap 与前端异常监控](https://mp.weixin.qq.com/s/BbvJ-OfcS7Sa-e0Zq6iF1w)
+- [x] [玉伯：开源有带给我什么](https://mp.weixin.qq.com/s/Zo7uzFnSfVTJ4QfGwKAXOQ)
+- [x] [你可能不知道的五个关键的 React 知识点](https://mp.weixin.qq.com/s/Brp0TECsGpdBdv1686TPiQ)
+- [x] [Vue 3 的 SFC Style CSS Variable Injection 提案实现的背后](https://mp.weixin.qq.com/s/cj2gqZGCtUnFtkoSOqClvw)
+- [x] [Vue+微前端(QianKun)落地实施和最后部署上线总结](https://juejin.cn/post/6973156414210441247)
+- [x] [CANVAS增量渲染：裁剪和拼接，小数与残影](https://mp.weixin.qq.com/s/dbL62keGESFeNvyGYqFrPw)
+- [x] [我被编程语言 PUA 了！用互联网黑话写代码，这操作简直太骚了！](https://mp.weixin.qq.com/s/rHQHUev88aHOme7bBdaG_Q?clicktime=1623931433&enterid=1623931433)
+- [x] [gRPC vs REST：两种API架构风格的对比](https://mp.weixin.qq.com/s/R2Y5C3ebQ04uCKwAs0pATA)
+
+## 2021.6.18
+- [x] [::marker 让文字序号更有意思](https://mp.weixin.qq.com/s/NqvffLlo-vTsmbpKff-i_w)
+- [x] [Cocos 小白的性能优化探索](https://mp.weixin.qq.com/s/_mKEuWigL7jB5xnw9rxUbQ)
+- [x] [JSBridge原理解析——以WebviewJavascriptBridge实现方式为例](https://mp.weixin.qq.com/s/lJJjbmuOZXE25I7FIz7OVg)
+- [x] [盒马跨端设计系统 ReX Design For OS](https://mp.weixin.qq.com/s/aRGiDMAqWMiCWqy0s5be7A)
+- [x] [常用图片文件下载上传方法](https://mp.weixin.qq.com/s/en4uHXJhMZu4Sxteohd9vg)
+
+## 2021.6.17
+- [x] [如何设计开发一个 Web 插件系统？](https://mp.weixin.qq.com/s/i4dKBwklo8HPnlmuLFgMsA)
+- [x] [搜索引擎工作原理](https://mp.weixin.qq.com/s/rHdyp2rLaump2J0c-baS5g)
+
+
+## 2021.6.16
+- [x] [转转搭建 iconfont 平台实践](https://mp.weixin.qq.com/s/Yqk_W_jBKiUZhFyP1L-6hQ)
+- [x] [我在工作中是如何使用Git的](https://mp.weixin.qq.com/s/uqEL6cqRWRXu2hH1ySNAIQ)
+- [x] [汉字笔顺动画C端实现&B端原理 - [大力智能 前端]](https://mp.weixin.qq.com/s/dhh5UVXPD9d9bD3JfYOU9w)
+> 汉字笔画数据和动画实现，参考的https://github.com/skishore/makemeahanzi
+- [x] [狼叔：聊聊 Node.js](https://mp.weixin.qq.com/s/zP1K-K4FjeS5gaILFk2ySg)
+
+
+## 2021.6.15
+- [x] [使用 jsencrypt 配合 axios 实现数据传输加密](https://mp.weixin.qq.com/s/35fQ01bDLFvSf27fEvkAzQ)
+- [x] [盘点那些真正能提升工作幸福度的小工具](https://mp.weixin.qq.com/s/DUTH3Zm2osR-FTXShTJ8rQ)
+- [x] [SameSaite 那些事](https://mp.weixin.qq.com/s/QZkOXhQIg2LqDWpi7mzCdQ)
+- [x] [rollup - 构建原理及简易实现](https://mp.weixin.qq.com/s/diE0M-TWtGoYUUTfTNN26A)
+- [x] [大型前端项目 DevOps 沉思录 —— CI 篇](https://mp.weixin.qq.com/s/YyZvpiBD34VY-VZnjDtGoQ)
+- [x] [【前端实践系列之九】登录注册界面千篇一律？教你做个炫酷的！](https://juejin.cn/post/6972108369641340935)
+
+## 2021.6.11
+- [x] [趣解面试高频算法难题：数组中的第K个最大元素](https://mp.weixin.qq.com/s/f4ckLGzlst2kWWuWnbWpEA)
+- [x] [CSS 奇思妙想 | Single Div 绘图技巧](https://mp.weixin.qq.com/s/rovE_p4kX7VNyKmEn19eow)
+>https://a.singlediv.com/ 挺有意思的。主要是利用background多个渐变拼接用单个div来绘图。所以还要svg干啥呢？
+- [x] [11个JavaScript代码重构最佳实践](https://mp.weixin.qq.com/s/3uQeCVa_KUeXTrXdXME7hA)
+- [x] [2021 在线教育大前端全栈研发模式升级](https://mp.weixin.qq.com/s/F5qLeCeB0brAEX-PljQ_kA)
+> 前端使用serverless迈向全栈的实践，值得参考。
+- [x] [如何实现一个零延迟的定时器？](https://mp.weixin.qq.com/s/rWMLWNSiO63ql8xpfuLZug)
+- [x] [如何使用状态机优化代码](https://mp.weixin.qq.com/s/oXMJLfYEg-mx8DiIh3IfpA)
+> 利用状态机来减少if/else
+## 2021.6.10
+- [x] [智能设计生产的色彩详解和应用](https://mp.weixin.qq.com/s/pMaZ5mQDxpL_aTPD71jLyg)
+
+## 2021.6.9
+- [x] [前端插件式可扩展架构设计心得](https://mp.weixin.qq.com/s/lUZZQevZGH98Tgv09XOmqg)
+> 如何赋予不确定以确定性，在不确定中寻找确定。说人话，就是“抽象”
+- [x] [据说 99% 的人不知道 vue-devtools 还能直接打开对应组件文件？本文原理揭秘](https://mp.weixin.qq.com/s/QwaCsrS-UTDA03sVhNiaHg)   
+- [x] [vue中Axios的封装和API接口的管理](https://mp.weixin.qq.com/s/0Eo9r6FsWvQXRupbO0NhLg)
+> 经典的问题
+> 经典的问题
+- [x] [纯前端生成海报实践及其性能调优](https://mp.weixin.qq.com/s/P4tbSAbExc203ORBpU6RiA)
+> jsZip、html2canvas、递归都有内存泄露的可能。
+- [x] [V8 执行 JavaScript 的过程](https://mp.weixin.qq.com/s/Y1kc5K7kr8y7jKC0mXg1Bw)
+- [x] [手把手教你搭建一个无框架埋点体系](https://mp.weixin.qq.com/s/TcaOUBMBBEGQoQPAjYXb_Q)
+- [x] [淘系自研前端研发工具  AppWorks  正式发布](https://mp.weixin.qq.com/s/SmxDd9ZhEQ622VPwTIgOPg)
+> 还是挺强大的。
+- [x] [Bundleless，前端工程构建的未来](https://mp.weixin.qq.com/s/h1bIzXO2AQUIrjW4teTwCg)
+
+## 2021.6.8
+- [x] [前端，你要知道的SEO知识](https://mp.weixin.qq.com/s/eo54xuiLMw5HRDzmBK71Qg)
+- [x] [TypeScript 声明文件全解析](https://mp.weixin.qq.com/s/y0c4daxpfvOm-oAo7A6ZFg)
+> ts声明文件就是告诉你一个模块里有哪些全局的变量以及他们的类型是什么。类型含基本类型、函数重载、集合等等
+- [x] [小鲸鱼的前世今生--Docker](https://mp.weixin.qq.com/s/4aFJ7t37IwEMyq-u09Wf1g)
+> 一些大杂烩，没太大看头
+- [x] [VS Code Web 之 Web Worker](https://mp.weixin.qq.com/s/jPtszQbqb3inkBHDbQnCkw)
+- [x] [精读《算法 - 动态规划》](https://mp.weixin.qq.com/s/c3afZAd_X14UVysHpa2aZw)
+
+## 2021.6.7
+- [x] [用 Vite 构建静态网站，还原 Vitepress 的能力](https://mp.weixin.qq.com/s/3eswyC69KlfawFQJJwGtEQ)
+> 用vue构建静态网站的一种尝试。这里的问题在于产出的东西是否有vue的运行时。
+- [x] [写给前端的跨平台方案、跨端引擎的本质](https://mp.weixin.qq.com/s/ATKsLRFV1mD9i_aqO7HP5Q)
+> 把跨端介绍得比较全面。
+- [x] [​V8 引入全新的非优化 JS 编译器，性能大幅提升！](https://mp.weixin.qq.com/s/w-eV2u_ND9ilo1zLbzkOaQ)
+- [x] [叙事可视化与数据视频](https://mp.weixin.qq.com/s/IsHZW66-YqJ9qFOBlb44PA)
+- [x] [官方揭秘！你的颜色是这样算出来的……](https://mp.weixin.qq.com/s/I60CO5DMD7mWDdGwdbLGsg)
+- [x] [组件库按需加载原理分析](https://mp.weixin.qq.com/s/ty4IUtLlTgxdc8-7_UGyiQ)
+- [x] [React Hooks 踩坑之-- Capture Value 特性](https://mp.weixin.qq.com/s/eyFKOi3PTux6aTF0s557Rg)
+- [x] [一个让 git clone 提速几十倍的小技巧](https://mp.weixin.qq.com/s/2Eyg9ExBWicBwuQq5VoGug)
+> 下载three.js这种就的加上depth比较靠谱。
+- [x] [我们是如何在CI流水线统计web前端FPS的？](https://mp.weixin.qq.com/s/fD-jtZ0ETUWwyL3YhmA3kw)
+> 通过Chromnium提供的api来实现。
 ## 2021.6.4
 - [x] [如果用 JavaScript 实现微信 “炸屎” 功能](https://mp.weixin.qq.com/s/0nu5zntO6aTL4fj9uLTS3Q)
 > 通过数学来计算坐标。通过tween来实现补间动画
@@ -1407,7 +1648,7 @@ JSON Schema 有官方规范及各个语言的实现，但语法繁琐，可使�
 - [x] [由浅入深定制你的代码规范与检查](https://mp.weixin.qq.com/s/xH5XNPgubmoZHELZCRx3gA)
 > 感觉写得不是很明白呢。
 ## 2020.8.19
-- [x] [对比 React Hooks 和 Vue Composition API](https://mp.weixin.qq.com/s/NeNcGbRBcpGis8uOzljHDg)
+- [x] [对比 React Hooks 和 Vue Composition API](https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247496468&idx=1&sn=71e1ba3e46c9a404bec140d0a7c86cd8&source=41#wechat_redirect)
 > 文章把各种典型的hooks在vue和react中的实现方式做了一个对比。通过对比来理解不同框架的内部处理方式的差异，非常棒。
 - [x] [什么是人工智能自动编程？它只是一个噱头吗？](https://mp.weixin.qq.com/s/br9cl2wGFBkWVzDhc6HUGA)
 > 人工智能时代的代码补全。
@@ -1580,7 +1821,7 @@ JSON Schema 有官方规范及各个语言的实现，但语法繁琐，可使�
 - [x] [图解23种设计模式（TypeScript版）——前端必修内功心法](https://mp.weixin.qq.com/s/v8QRqjDrc7m0P3npigG_4Q)
 > 确实是图解，里面全是图。
 ## 2020.7.28
-- [x] [让你的 commit 更有价值](https://mp.weixin.qq.com/s/wrEQbvVMJLyhcjTRovM9Gg)
+- [x] [让你的 commit 更有价值](https://mp.weixin.qq.com/s?__biz=Mzg4MTYwMzY1Mw==&mid=2247496449&idx=1&sn=6d670d64d9daa46960a95ec4299868f3&source=41#wechat_redirect)
 > 通过angular的commit message 规范来写message，然后可以利用工具生成log日志等。还可以通过hooks来实现自动转换命令。git的hooks原理是在.git目录里的hooks目录，这个目录在git的执行流程中会被调用。也可以通过ghooks工具来自动生成hooks命令，然后通过配置来实现hooks调用。
 - [x] [JS数组奇巧淫技](https://mp.weixin.qq.com/s/c9jtemK9Do85RG4ub1MORA)
 > 把大多数的array function都说了一遍。还讲了各个方法的应用场景。奇淫技巧主要是利用...展开操作和Set类型实现。reduce的例子比较棒。最后作者还感叹了一下生活，聊了下人生。

@@ -1,3 +1,10 @@
+/*
+ * @Description: 
+ * @Author: limengjun
+ * @Date: 2021-06-01 16:25:05
+ * @LastEditors: limengjun
+ * @LastEditTime: 2021-07-20 09:38:44
+ */
 const { Builder, By, Key, until } = require('selenium-webdriver')
 const chromeDriver = require('selenium-webdriver/chrome')
     //chromeDriver地址：http://chromedriver.storage.googleapis.com/index.html 复制到windows/system32
@@ -33,9 +40,11 @@ async function url2md(urls) {
 }
 
 url2md([
-    'https://mp.weixin.qq.com/s/0nu5zntO6aTL4fj9uLTS3Q',
-    'https://mp.weixin.qq.com/s/rMm0OXRMKGWUpi8FWHP0Tw',
-    'https://mp.weixin.qq.com/s/zWnKMolN9ieMgpKEmjyqFw',
-    'https://mp.weixin.qq.com/s/ZyWoQ5G80NZWhX4VHGTtLg',
-    'https://mp.weixin.qq.com/s/JpGW0pJWz-ch1M5NVF-I5g',
+    'https://mp.weixin.qq.com/s/DFt129rgcrTJch1RcUqpXg',
+    'https://mp.weixin.qq.com/s/52QMKFnESEG5pCsYb44ASw',
+    'https://mp.weixin.qq.com/s/cWJNIb-ngyxpTWQAl40DsQ',
+    'https://mp.weixin.qq.com/s/QBno6MG1_w9aAAXljQVMyw',
+    'https://mp.weixin.qq.com/s/1UmnH7VKlYJ9iTTXlzuAnA',
+    'https://mp.weixin.qq.com/s/2WSjbZjzXHI5bb83Ydkh1g',
+    'https://mp.weixin.qq.com/s/RxL9plpKipi1lrG5f6EDjg',
 ]);
