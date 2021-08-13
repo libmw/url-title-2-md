@@ -3,7 +3,7 @@
  * @Author: limengjun
  * @Date: 2021-06-01 16:25:05
  * @LastEditors: limengjun
- * @LastEditTime: 2021-07-20 09:38:44
+ * @LastEditTime: 2021-08-13 09:57:42
  */
 const { Builder, By, Key, until } = require('selenium-webdriver')
 const chromeDriver = require('selenium-webdriver/chrome')
@@ -40,11 +40,9 @@ async function url2md(urls) {
 }
 
 url2md([
-    'https://mp.weixin.qq.com/s/DFt129rgcrTJch1RcUqpXg',
-    'https://mp.weixin.qq.com/s/52QMKFnESEG5pCsYb44ASw',
-    'https://mp.weixin.qq.com/s/cWJNIb-ngyxpTWQAl40DsQ',
-    'https://mp.weixin.qq.com/s/QBno6MG1_w9aAAXljQVMyw',
-    'https://mp.weixin.qq.com/s/1UmnH7VKlYJ9iTTXlzuAnA',
-    'https://mp.weixin.qq.com/s/2WSjbZjzXHI5bb83Ydkh1g',
-    'https://mp.weixin.qq.com/s/RxL9plpKipi1lrG5f6EDjg',
+    'https://mp.weixin.qq.com/s/YOM4tGvxKYS5m6UWldALgQ',
+    'https://mp.weixin.qq.com/s/ZO20g0pE0szszgCJL8-6-g',
+    'https://mp.weixin.qq.com/s/dwIBylOyGA4_iZEDtgwnIg',
+    'https://mp.weixin.qq.com/s/9whB2Mtw6J56O7v4Lj4Khw',
+    'https://mp.weixin.qq.com/s/_uDPLjMpeVrG5nztI2cBnw',
 ]);
