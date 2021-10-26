@@ -3,7 +3,7 @@
  * @Author: limengjun
  * @Date: 2021-06-01 16:25:05
  * @LastEditors: limengjun
- * @LastEditTime: 2021-08-13 09:57:42
+ * @LastEditTime: 2021-10-26 09:49:28
  */
 const { Builder, By, Key, until } = require('selenium-webdriver')
 const chromeDriver = require('selenium-webdriver/chrome')
@@ -40,9 +40,9 @@ async function url2md(urls) {
 }
 
 url2md([
-    'https://mp.weixin.qq.com/s/YOM4tGvxKYS5m6UWldALgQ',
-    'https://mp.weixin.qq.com/s/ZO20g0pE0szszgCJL8-6-g',
-    'https://mp.weixin.qq.com/s/dwIBylOyGA4_iZEDtgwnIg',
-    'https://mp.weixin.qq.com/s/9whB2Mtw6J56O7v4Lj4Khw',
-    'https://mp.weixin.qq.com/s/_uDPLjMpeVrG5nztI2cBnw',
+    'https://mp.weixin.qq.com/s/Ft7VqN5tqG87OuzkYAIonA',
+    'https://mp.weixin.qq.com/s/ftHT8aoMQZaG1MPZqsTs4Q',
+    'https://mp.weixin.qq.com/s/-TXvfxpz1vhSRSwQ0WKooA',
+    'https://mp.weixin.qq.com/s/WUVVpEoXdhVOlwtjgpLX5A',
+    'https://mp.weixin.qq.com/s/Uik_PuN4-RIgywZ8tevOhg',
 ]);
