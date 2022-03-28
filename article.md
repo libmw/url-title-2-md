@@ -1,3 +1,99 @@
+## 2022.3.28
+- [x] [你一定会用到的 15个前端小知识](https://mp.weixin.qq.com/s/S_9KQMe9S1F3kAGDaggn6w)
+- [x] [你真的了解 gif 吗？分析 gif 文件和一些奇怪的 gif 特性](https://mp.weixin.qq.com/s/Gp-WbBF9vlz_Es5xlrkx9A)
+## 2022.3.25
+- [x] [两种给 Http 添加状态的方式，都不完美](https://mp.weixin.qq.com/s/51TpzGdf6d1wg0cGfP7JgQ)
+- [x] [CSS国际化](https://mp.weixin.qq.com/s/LCgdM02tXHMOFiQ7wC0H7Q)
+> lang()选择器，第一次听说
+## 2022.3.24
+- [x] [基于 Observable 构建前端防腐策略](https://mp.weixin.qq.com/s/2nookbwS_Gcn97THfp2R7A)
+- [x] [过度使用懒加载对 Web 性能的影响](https://mp.weixin.qq.com/s/Yb4bN_jjVOo2xUDPeKD_GA)
+## 2022.3.23
+- [x] [如何成为一个优秀的复制粘贴工程师](https://mp.weixin.qq.com/s/iIY4BEAuFdzPUrR9dhCKPg)
+> 把前端组件通过特征提取扫描到数据库中，后续进行搜索即可只到哪些组件是已有组件。
+- [x] [一文彻底搞懂前端沙箱](https://mp.weixin.qq.com/s/uu0H2MTO1z1b8nsfuoyLQw)
+## 2022.3.22
+- [x] [几个一看就会的 TypeScript 小技巧](https://mp.weixin.qq.com/s/_70LnSTEhawjD-Gft_YiMQ)
+- [x] [【音视频扫盲】可分级视频编码](https://mp.weixin.qq.com/s/a3nFluLUNQjTtwNvcKJfnw)
+- [x] [2022 年最受瞩目的新特性 CSS @layer 到底是个啥？](https://mp.weixin.qq.com/s/ah4SSomENbFvLasH-WuP5A)
+- [x] [商品3D建模的视觉定位和前景分割方法](https://mp.weixin.qq.com/s/BaPkCA5pJP3r9pY_5amVTw)
+- [x] [关于依赖管理的真相 — 前端包管理器探究](https://mp.weixin.qq.com/s/CYQQKvy9MaGHdpSHpBJwzw)
+> 详细说明了npm的寻址模式和各个包管理工具的处理方法。
+- [x] [网易云音乐低代码体系建设思考与实践](https://mp.weixin.qq.com/s/9yo-Au3wwsWErBJfFjhxUg)
+- [x] [【雷火UX平台开发】使用 Playwright 进行 E2E 测试](https://mp.weixin.qq.com/s/xL-CJRH4UNP7g8bDGJHp9g)
+- [x] [强大的JSON.stringify，你会使用吗? - 掘金](https://juejin.cn/post/7072122968087724046)
+- [x] [跨越 JavaScript：后端语言正在走入前端 - 知乎](https://zhuanlan.zhihu.com/p/467044714)
+## 2022.3.18
+- [x] [Vue3 中这样使用 Icon 更优雅！](https://mp.weixin.qq.com/s/IppvX7BmLkuKGArnnfCQow)
+- [x] [前端数据流选型](https://mp.weixin.qq.com/s/a3CCLTT_imgvgPhCj9qwag)
+> 写得看不懂
+- [x] [NextRPC : RPC多段返回的创新和探索](https://mp.weixin.qq.com/s/qGqdVOT-HiFB4hZ-ivWD-g)
+## 2022.3.17
+- [x] [一文读懂 TS 分布式条件类型](https://mp.weixin.qq.com/s/JuDY0-c-cwoEBYXX1ZqnJQ)
+- [x] [要搞清楚 IoC ，那就用 TS 手写一个！](https://mp.weixin.qq.com/s/GXv7JwBbJ0b_AUMvZ8C1QQ)
+- [x] [React  Hooks 的原理，有的简单有的不简单](https://mp.weixin.qq.com/s/u89G-Uas0mzZQsiWT_4EZQ)
+- [x] [内存优化: 纹理压缩技术](https://mp.weixin.qq.com/s/V7sK1WwQ4D3LikK2AHgrZQ)
+- [x] [大淘宝中后台页面无代码生产新模式探索](https://mp.weixin.qq.com/s/accbOv3RRpfQj8nvnUYEYw)
+- [x] [前端工程师如何快速使用一个NLP模型](https://mp.weixin.qq.com/s/QPjaXOJw4_NrvBhsCIPtnw)
+## 2022.3.16
+- [x] [浅谈在线文档的那些事儿](https://mp.weixin.qq.com/s/MmWDz7hqeOKMPr-xKwUHnA)
+- [x] [开源表单方案 Formily 的核心设计思路](https://mp.weixin.qq.com/s/bc0o5CatSmlhFPv9hG-XZQ)
+## 2022.3.15
+- [x] [设计模式初探](https://mp.weixin.qq.com/s/wTQmgFbrzIlZI9Y2_dLF-w)
+- [x] [基于 Yarn 的 Monorepo 实践](https://mp.weixin.qq.com/s/_pKwBA-8EkMipuUOZ9Ymow)
+## 2022.3.14
+- [x] [从 IP 到 IP，聊聊计算机网络中那些“没用的”知识](https://mp.weixin.qq.com/s/AB8-7KeBOSU1LgsuslkI3A)
+- [x] [EggJS 渐进式开发](https://mp.weixin.qq.com/s/e2RRtlTLNgGURwkhAv2rng)
+- [x] [TS interface vs type](https://mp.weixin.qq.com/s/C0flsrCyVIyXMNaH2uNU-w)
+- [x] [Websocket 被玩出了多种花样！](https://mp.weixin.qq.com/s/L-0Npn-4z8RlEQZcZKvjeA)
+- [x] [你不知道的vscode之空间控制](https://mp.weixin.qq.com/s/JG9kbTuAd-5FWzgzqCvdSQ)
+## 2022.3.11
+- [x] [WebSocket 基础与应用系列（二）—— Engine.IO 原理了解](https://mp.weixin.qq.com/s/bemT3Gz7xiLuHDwB5hMsYQ)
+- [x] [如果没有JS框架该怎么办](https://mp.weixin.qq.com/s/1h4LKyeobSACU3I8sIYAtw)
+- [x] [关于依赖管理的真相 — 前端包管理器探究](https://mp.weixin.qq.com/s/t6RZAKb6mXTfXl7XbpZ_vw)
+## 2022.3.10
+- [x] [TypeScript 官方：JavaScript 中直接支持类型！](https://mp.weixin.qq.com/s/iGlSFTMUsmc8R35GWOGAkA)
+- [x] [编写 API 接口文档更好的方式](https://mp.weixin.qq.com/s/V4XHSmYNH255iLYjwxKsIQ)
+- [x] [如何搭建H5/小程序多端商城低代码平台（一）](https://mp.weixin.qq.com/s/d-_dDzxafHF0o1h7hXpBIw)
+- [x] [能用CSS实现的就不用麻烦JavaScript](https://mp.weixin.qq.com/s/oKwEB09qR6dGAAWIpziJgw)
+> css获取attribute有点意思
+- [x] [余额宝年年有余中的 lottie 摄像机](https://mp.weixin.qq.com/s/8A-pS6DbZiSbupRUaUS41g)
+## 2022.3.9
+- [x] [别再用 bash 写前端自动化脚本了！](https://mp.weixin.qq.com/s/DpJKtkwebjBMHdXRqIwk3Q)
+> 要写bash直接用zx就行了
+- [x] [能用 AST 搞明白的正则语法，就不需要看文档](https://mp.weixin.qq.com/s/1uLkiJlwwweBNFhM4X7ZwA)
+- [x] [服务端渲染(SSR) 通用技术解决方案](https://mp.weixin.qq.com/s/A-loxh4_vMZRqTV1kU5TCQ)
+## 2022.3.8
+- [x] [设计小姐姐都说好的视觉还原对比利器](https://mp.weixin.qq.com/s/YdLaDBT4Irbur6rjp28AUA)
+- [x] [跨端技术的本质是什么？现状如何？](https://mp.weixin.qq.com/s/VGZVnoTGT6BTS101jOPiQw)
+- [x] [浅谈 Node.js 热更新](https://mp.weixin.qq.com/s/xCoTeyJDifi4Ymk0VsI2Ig)
+## 2022.3.7
+- [x] [如何让 Vue、React 代码的调试变得更爽](https://mp.weixin.qq.com/s/8T_VhpFiNe0wncdXo7C7xQ)
+- [x] [硬核解析 Webpack 事件流核心！](https://mp.weixin.qq.com/s/vjvObaCvmGugj3Mmwxmayw)
+> Tapable 
+- [x] [Deno 比 Node.js 更好吗？](https://mp.weixin.qq.com/s/21fZ9gVnPgnt5LyGTebdFw)
+- [x] [聊一聊SourceMap](https://mp.weixin.qq.com/s/YVySzeCNpQpijwf8kwblFw)
+- [x] [一种开发 Chrome 扩展程序的新姿势](https://mp.weixin.qq.com/s/kip-EQsugPwiP_fUXqjviQ)
+- [x] [全网最简单的React Hooks源码解析！](https://mp.weixin.qq.com/s/FWLj9e7RuaUpPqMkeVyLvQ)
+- [x] [一文看懂云原生时代 DevOps 如何选型](https://mp.weixin.qq.com/s/yPeRriDT-miiLoJdY-aY8Q)
+> 了解运维架构选型的利器。文中分别介绍了小中大型公司应该如何选择devops相关工具链，非常棒。
+- [x] [React Native原理之跨端通信机制](https://mp.weixin.qq.com/s/8R9S4C5Av5-C09wC7Cjzgw)
+- [x] [分享小技巧：实现在浏览器中import内联JS模块](https://mp.weixin.qq.com/s/ghWlsNLu1JhnoiC7oouv8g)
+- [x] [突破限制，CSS font-variation 可变字体的魅力 - 知乎](https://zhuanlan.zhihu.com/p/473485760)
+> 字体除了字体还有很多属性如缩放、字重等等，而每一个属性都需要字体文件里面支持才行，很多时候一个字体文件并不含有各种字重，而我们通过新的可变字体可以把各种属性都打包成一个字体，还可以通过动画去控制各个属性的同时变化从而实现很绚丽的效果。
+## 2022.3.4
+- [x] [用DDD(领域驱动设计)和ADT(代数数据类型)提升代码质量](https://mp.weixin.qq.com/s/QCIlheiEgmU4Qi-4b_XoqQ)
+> 代码理论
+- [x] [Node.js 流源码解读之可读流](https://mp.weixin.qq.com/s/O59JUnbWshJSWrV8NBL5Ng)
+> 研究了node处理流的源代码
+- [x] [下一代前端开发利器——Vite（原理源码解析）](https://mp.weixin.qq.com/s/oroQSMSPxtSEfnjuxu2pew)
+> 研究了一些client端的源代码。
+- [x] [2022 开发岗 SQL 和 NoSQL 数据库选择指南](https://mp.weixin.qq.com/s/CdaIj6WLKK5tKcfsrv4x9A)
+> 数据库选择指南，还不错
+- [x] [你的 Omit 类型还可以更严格一些](https://mp.weixin.qq.com/s/sI85onnZc0UXE7wGmpSTng)
+> Omit的key可以是typeof any。确实有些让人匪夷所思。
+- [x] [Vue 的这些技巧你真的都掌握了吗？](https://mp.weixin.qq.com/s/ghVfca_f3bmQO6YvwLtP_A)
+- [x] [阿里 & 蚂蚁自研 IDE 研发框架 OpenSumi 正式开源](https://mp.weixin.qq.com/s/MQqd4OlYRMX-eC4O4rrt5A)
 ## 2022.3.3
 - [x] [了解下Rust 模块使用方式](https://mp.weixin.qq.com/s/mQ0zh_tcLEZZNpGIbz6BVA)
 - [x] [Nest.js 用了 Express 但也没完全用](https://mp.weixin.qq.com/s/qcy5sL0sV6wnxif8EEBrMQ)
@@ -1456,7 +1552,7 @@
 - [x] [开发 H5 时能用到的 5 个 Chrome H5调试技巧](https://mp.weixin.qq.com/s/nKN8a3LRBKleCHLnTqKVIw)
 - [x] [数据可视化探索之 SpreadJS](https://mp.weixin.qq.com/s/wTVbioBftHVs1Z_4FIDFmw)
 > 在线的excel库介绍
-- [x] [【干货】淘宝人生里的虚拟人像渲染技术（含直播回放）](https://mp.weixin.qq.com/s/ac
+- [x] [【干货】淘宝人生里的虚拟人像渲染技术（含直播回放）](https://mp.weixin.qq.com/s/ac)
 > 作者介绍了rrweb的原理和源码。
 - [x] [豪横！他徒手撸了个markdown笔记平台，只是不想委屈自己](https://mp.weixin.qq.com/s/iT657ouxVD-o-T0BhX43AQ)
 
