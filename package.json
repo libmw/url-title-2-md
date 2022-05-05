@@ -9,10 +9,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "ghooks": "^2.0.4",
-    "selenium-webdriver": "^4.0.0-alpha.5"
+    "ghooks": "^2.0.4"
   },
   "dependencies": {
-    "config": "^3.3.0"
+    "config": "^3.3.0",
+    "playwright": "^1.21.1",
+    "request": "^2.88.2"
   }
 }

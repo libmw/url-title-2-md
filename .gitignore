@@ -1,1 +1,4 @@
 ﻿node_modules
+article/*
+!article/*.css
+!article/*.js
