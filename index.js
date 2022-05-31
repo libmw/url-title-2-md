@@ -1,16 +1,9 @@
 /*
- * @Description: 
- * @Author: limengjun
- * @Date: 2021-06-01 16:25:05
- * @LastEditors: limengjun
- * @LastEditTime: 2021-11-24 09:42:08
- */
-/*
  * @Description:
  * @Author: limengjun
  * @Date: 2021-06-01 16:25:05
  * @LastEditors: limengjun
- * @LastEditTime: 2021-11-17 10:28:17
+ * @LastEditTime: 2022-05-05 10:40:46
  */
 const { Builder, By, Key, until } = require("selenium-webdriver");
 fs = require("fs");
