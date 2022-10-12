@@ -35,6 +35,7 @@ async function getTitleByUrl(url) {
 }
 
 async function url2md(urls) {
+  console.log('urls: ', urls);
   getTitlePromises = urls.map((url) => getTitleByUrl(url));
   const titles = await Promise.all(getTitlePromises);
   const todayDate = new Date();
@@ -55,7 +56,7 @@ async function url2md(urls) {
 }
 
 var urlStr = fs.readFileSync("./urls.md", { encoding: "utf8" }); //read existing contents into data
-url2md(urlStr.split('\n').filter(u=>{return u.replace(/\s/g, '').length > 0;}));
+url2md(urlStr.split('\n').map(u=>u.replace(/\s/g, '')).filter(u=>{return u.length > 0;}));
 /* 
 url2md([
   "https://mp.weixin.qq.com/s/wr3pCA0FnRtHuIyyDkSloA",

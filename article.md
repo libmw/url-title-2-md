@@ -1,3 +1,41 @@
+## 2022.10.11
+- [x] [前端网红框架的插件机制全梳理（axios、koa、redux、vuex）](https://mp.weixin.qq.com/s/MuohDtMBrmIHOe8KrS_0ew)
+- [x] [在撸 Vue 的 ⌘+K 唤起菜单库时，我学到了很多……](https://mp.weixin.qq.com/s/5AnRvwmA-U76T52FR47w8Q)
+> vue快捷键库
+- [x] [微前端方案 qiankun 只是更完善的 single-spa](https://mp.weixin.qq.com/s/HgEfI8JSFOwfjG4GAoaQJQ)
+- [x] [Lath(纯前端容器)打造页面间的无缝平滑连接体验](https://mp.weixin.qq.com/s/idHHsTdjya0GAlYJSeaLqQ)
+> 这东西可以研究下
+- [x] [从useEffect看React、Vue设计理念的不同](https://mp.weixin.qq.com/s/jHBbKUmF6Ka9nQwr5kqOAQ)
+- [x] [我是如何开发和部署一个Chrome扩展程序的](https://mp.weixin.qq.com/s/9-WRSHAw443DPl6jXG542A)
+- [x] [React 可组合 API 的设计原则](https://mp.weixin.qq.com/s/yOHogY5HvL5Plfz8Pxoqtg)
+- [x] [使用 WebAssembly 打造定制 JS Runtime](https://mp.weixin.qq.com/s/jMFdha5FNqo2lPmyx10SIQ)
+- [x] [激荡二十年：HTTP API 的变迁](https://mp.weixin.qq.com/s/9TAYgS74yVdNmjduRycy4A)
+- [x] [JavaScript LocalStorage 完整指南](https://mp.weixin.qq.com/s?__biz=Mzg5NzcxMDY5Nw==&mid=2247488921&idx=1&sn=97b3065239c2b7399cd21d54d7697245&chksm=c06cfa9ff71b738981e10d37171bb1f7311ad2875319c33bd5cf8ff8e0df2bf23c313397d6ad&token=2113819192&lang=zh_CN#rd)
+- [x] [Web 3D 从入门到跑路](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247495888&idx=1&sn=e3d6540dca371132b0e866f1b4eb8ed7&chksm=c16003b0f6178aa634c8195516e9675d1e0ba273dbbd9f2be21ca311c3fc77ec77c18130f8d2&token=2113819192&lang=zh_CN#rd)
+- [x] [一起来实现全景图 VR 吧！—— Three.js 系列](https://mp.weixin.qq.com/s?__biz=MzkyOTIxMDAzNw==&mid=2247492778&idx=1&sn=1a7713e29adb11e7cae535a00238a3df&chksm=c20faf70f578266625df9b230c34b574acea75b7a9ddadeac622fbc7a2777f0907eb1d630103&token=2113819192&lang=zh_CN#rd)
+- [x] [AI 联动！现在前端都流行这样开发~ 效率提升 100%](https://mp.weixin.qq.com/s?__biz=MzkxMjI3MTA1Mg==&mid=2247523199&idx=1&sn=c3303c723aa3c0876b2e7f8e3b649999&chksm=c10da8dcf67a21cae5d6421db1c41470d91e6396d9e59c2a4b87bc2594f4089d5803d5d9f466&token=2113819192&lang=zh_CN#rd)
+## 2022.9.30
+- [x] [跑 npm scripts，其实有更香的方式](https://mp.weixin.qq.com/s/PUoe2QTsZzFot1ADdCYShw)
+> 调试npm scripts
+- [x] [CSS-in-JS 的库是如何工作的？](https://mp.weixin.qq.com/s/zOlvdksBjlgxVyidgnt-mA)
+## 2022.9.29
+- [x] [前端也要懂算法，不会算法也能微调一个 NLP 预训练模型](https://mp.weixin.qq.com/s/UwOcDH0mxYpVvtggzUi2mw)
+- [x] [联机游戏原理入门即入土 -- 入门篇](https://mp.weixin.qq.com/s/7NJjBG9AdFQtJ3BjqiSbXg)
+- [x] [推荐一个检测 JS 内存泄漏的神器](https://mp.weixin.qq.com/s/3pWjbpQ_EHBGTdjTnlvh7A)
+> 使用MemLab来检查内存泄露
+- [x] [HTTPS的原理浅析与本地开发实践（下）](https://mp.weixin.qq.com/s/igD10IBiEJSfSApksTXpFA)
+- [x] [HTTPS的原理浅析与本地开发实践（上）](https://mp.weixin.qq.com/s/ZY2tN_sqUhLo2kRxVDqKDQ)
+- [x] [万字长文：带你走进shell世界](https://mp.weixin.qq.com/s/qkqo6S8Cas_713GZ14Kk2g)
+> shell教程
+- [x] [前端架构师的一些思考和总结](https://mp.weixin.qq.com/s/DA8ZcojvMqaIB23OkjIZYg)
+- [x] [【第2709期】一份详尽的 React re-render 指南](https://mp.weixin.qq.com/s/SH7N2f5ZhUhysQ7_G2s9rQ)
+- [x] [一个案例学会 VSCode Snippets，极大提高开发效率](https://mp.weixin.qq.com/s/-mWZxLRT8Z7aO_9bCe3eDQ)
+- [x] [前端切图仔可以看懂的自动化测试入门文章](https://mp.weixin.qq.com/s/YG6Yq3C0CifInSyP5OOQEw)
+- [x] [还在用定时器吗？借助 CSS 来监听事件](https://mp.weixin.qq.com/s/84eYQjIWk8W0hEgQ8daeSg)
+> 利用css来实现延时触发js，真的很有思路
+- [x] [使用FLIP技术让编写动画事半功倍](https://mp.weixin.qq.com/s/H9YV73kENQAeEnBYO2Ib7w)
+- [x] [以 QUIC 为例，聊聊如何学习网络协议](https://mp.weixin.qq.com/s/Q5dOJzHD-hsYPdLc-LLM3w)
+
 ## 2022.8.11
 - [x] [浅析 Vue3 响应式原理](https://mp.weixin.qq.com/s/ylf8E2hYzYpBtXxl4NakRg)
 - [x] [ESM 是如何被 webpack 打包成 CommonJS 格式的](https://mp.weixin.qq.com/s/qDO2QHsSrQWl8Y5NdLnmrA)
