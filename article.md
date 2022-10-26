@@ -1,3 +1,20 @@
+## 2022.10.26
+- [x] [为什么说 90% 的前端不会调试 Ant Design 源码？](https://mp.weixin.qq.com/s/0X3QNLgbqpk6jMjsAX3Jyw)
+> 调试真的还算很香的，脱光衣服才知道里面是啥
+- [x] [IntersectionObserver实现虚拟列表初探](https://mp.weixin.qq.com/s/UEOE-nK2C8NyID2Xq1QwQw)
+- [x] [浅析 VSCode 代码高亮实现原理](https://mp.weixin.qq.com/s/hZtiTGUJjLKaxb2PIr4Zag)
+- [x] [记录一种新的绕过403的tip](https://mp.weixin.qq.com/s/o00V2a3kAEHB5leIIWAZKA)
+- [x] [搞懂这12个Hooks，保证让你玩转React](https://mp.weixin.qq.com/s/qXqlWjULWRMeEEGLizLojw)
+> hooks需搞清楚本质，自然就知道怎么写了。
+- [x] [会用 Performance 工具，就能深入理解 Event Loop](https://mp.weixin.qq.com/s/22tS74K5JQr1V98Q4DPqJg)
+> 颜色这个记一下还是可以的
+- [x] [【第2752期】CSS 有了:has伪类可以做些什么？](https://mp.weixin.qq.com/s/OOUG_XA-YFByqTcWJurJxg)
+> has选择器确实是很方便的。
+## 2022.10.20
+- [x] [patch-package 实现原理：如何保存恢复 node_modules 下的代码改动？](https://mp.weixin.qq.com/s/D3fx79O1Tn6ygK1_iNEOpA)
+> 有点意思哦，git要是能自动合并diff就好了
+- [x] [EngineGroup：让 Flutter 桌面端引擎“飘”起来](https://mp.weixin.qq.com/s/FiHs5_kEsjEi0us7Vf3ERw)
+- [x] [复活了！ Lerna V6 带来了哪些新东西？](https://mp.weixin.qq.com/s/ObZA0lfLedprvi0-HgJZVw)
 ## 2022.10.18
 - [x] [微前端改了 3 个字符，10 倍的沙箱性能提升？！！](https://mp.weixin.qq.com/s/_rxWjSD-3T-NTPVU7aoNPQ)
 > 大运算中一个小的优化可能带来极大性能提升
