@@ -1,3 +1,20 @@
+## 2022.11.10
+- [x] [3D技术在数字藏品中的应用](https://mp.weixin.qq.com/s/Rv_DBasjNJEmYZzN6u4PLg)
+## 2022.11.9
+- [x] [大数据前端团队生存指南](https://mp.weixin.qq.com/s/rD_WtiCVRJRbmgUJ9w_7_w)
+- [x] [面试必问之 JS 事件循环（Event Loop），看这一篇足够](https://mp.weixin.qq.com/s/wugntKhMZpgr6RtB1AwAmQ)
+## 2022.11.8
+- [x] [微前端的前世今生](https://mp.weixin.qq.com/s/wlO5xaMz_DYYy01VkCRkZA)
+- [x] [浅析设计模式3 —— 装饰者模式](https://mp.weixin.qq.com/s/95DQqiC8l8xr93AerRCCUg)
+## 2022.11.7
+- [x] [你了解可显著提升加载性能的 103 Early Hints 状态码吗？](https://mp.weixin.qq.com/s/D3tvLBoZ8n80oY34W2JXXw)s
+- [x] [精读《Rest vs Spread 语法》](https://mp.weixin.qq.com/s/cSp-uDJCln1mi-9UhHrFIg)
+- [x] [原生 JS 手写一个优雅的图片预览功能，带你吃透背后原理](https://mp.weixin.qq.com/s?__biz=MzIzNjQ0MjcwNw==&mid=2247484388&idx=1&sn=69cfb8702da7562331414bdfefb4cb71&chksm=e8d686d8dfa10fce567dab93fde9827a8ae43af254e46f8a4e3547c6286a76a701cb97a0a33d&token=1970288910&lang=zh_CN#rd)
+> pointer事件把移动端和pc端的点击事件做了一层抽象，学到了。
+- [x] [现代 CSS 指南 -- at-rule 规则必知必会](https://mp.weixin.qq.com/s/LkM_Y-9OfgXatocVsM6m6g)
+- [x] [全新的 React 组件设计理念 Headless UI](https://mp.weixin.qq.com/s/VguoRHJJXE90LEunkCY0bQ)
+- [x] [Chrome 最近带来了哪些有意思的新东西？](https://mp.weixin.qq.com/s?__biz=Mzk0MDMwMzQyOA==&mid=2247496177&idx=1&sn=f06e5435c0c511d396a7b7b6c2902f5d&chksm=c2e104daf5968dcca607e3b5c7ded0c6a9e660e7604baff83784d22c4733e55a422ad155e692&token=793691450&lang=zh_CN#rd)
+- [x] [WebXR 技术调研 - 在浏览器中构建扩展现实应用](https://mp.weixin.qq.com/s/i9uduikZQbwLegIqasyRJA)
 ## 2022.10.26
 - [x] [为什么说 90% 的前端不会调试 Ant Design 源码？](https://mp.weixin.qq.com/s/0X3QNLgbqpk6jMjsAX3Jyw)
 > 调试真的还算很香的，脱光衣服才知道里面是啥
