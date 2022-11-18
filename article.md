@@ -1,3 +1,25 @@
+## 2022.11.18
+- [x] [Hybrid 远程调试的前世今生](https://mp.weixin.qq.com/s/R4iULRX-IYXKY_aarf2WGg)
+> 把手机端调试的历史、原理都讲了一遍，调试参考利器。
+- [x] [抓包理解 DNS 流程和 CDN 原理](https://mp.weixin.qq.com/s/ywg7J8sZm6elkuNQ7WKfJw)
+- [x] [vue-router 使用与原理分析](https://mp.weixin.qq.com/s/avrIWnqocrOmtJdw1lJXsQ)
+- [x] [Graphql 前后端一条龙怎么玩？](https://mp.weixin.qq.com/s/nRykK-yWOmQlT4IgG1nyKw)
+## 2022.11.16
+- [x] [从 React 源码彻底搞懂 Ref 的全部 api](https://mp.weixin.qq.com/s/KnFTafpmvr7u8PUoCZwTTA)
+- [x] [基于Sentry高效治理前端异常](https://mp.weixin.qq.com/s/rl6QrHFnR9CCTKSZiMghVA)
+- [x] [Git 是如何工作的](https://mp.weixin.qq.com/s/DBnbDjY_oXuM-X6m2K5oeQ)
+> 很好的原理文章
+- [x] [使用useReducer + useContext 代替 react-redux](https://mp.weixin.qq.com/s/CzgM90pxubNwAnAArdDHYw)
+## 2022.11.15
+- [x] [精读《我们为何弃用 css-in-js》](https://mp.weixin.qq.com/s/SQZvAguGydMnFDBqf4U9uA)
+- [x] [Node.js 安全最佳实践](https://mp.weixin.qq.com/s/2CBGgtja04NnOerpKfk0Ug)
+## 2022.11.14
+- [x] [它的出现将统一所有浏览器存储 API ？！](https://mp.weixin.qq.com/s/0isuwNAjF6Mt1vpuOsg98w)
+- [x] [Chrome DevTools中的这些骚操作，你都知道吗？](https://mp.weixin.qq.com/s/zwmFoz0bf8O04fwCLjMiLA)
+- [x] [Web Audio API 太强了，让我们一起领略音频之美](https://mp.weixin.qq.com/s/rEX18DMuvzUx8GhJ5c3AEA)
+- [x] [从零实现一个迷你 Webpack](https://mp.weixin.qq.com/s/e0ibggrhNdr_ZAGvxxok2Q)
+- [x] [【第2778期】CSS 实现自适应文本的头像](https://mp.weixin.qq.com/s/3Kt2BqiAa6v8GMSnHo1HBQ)
+- [x] [H5移动端调试攻略](https://mp.weixin.qq.com/s/OMp-Hj9lLdP8JChI7GRxow)
 ## 2022.11.10
 - [x] [3D技术在数字藏品中的应用](https://mp.weixin.qq.com/s/Rv_DBasjNJEmYZzN6u4PLg)
 ## 2022.11.9
