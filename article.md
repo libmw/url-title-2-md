@@ -1,3 +1,12 @@
+## 2022.12.8
+- [x] [Web Component入门](https://mp.weixin.qq.com/s/uELw1_5oDvxCqYI-ygDOdw)
+- [x] [React Streaming SSR 原理解析](https://mp.weixin.qq.com/s/GVts2QW3H_aTrB9anGwl5g)
+> 挺有意思的，通过不断返回chunk来进行递进式的渲染，渲染是通过占位符实现的。
+- [x] [造轮子利器：AST与前端编译](https://mp.weixin.qq.com/s/tDIIZUV4sDZ0lkPX0FPAHQ)
+## 2022.12.7
+- [x] [CreateML 使用以及在 iOS 中应用介绍](https://mp.weixin.qq.com/s/yPst2aguKCUNd7-wFe1G5w)
+- [x] [前端本地化部署](https://mp.weixin.qq.com/s/TT9sNgwgiuhQAucCmJWfRg)
+- [x] [前端图形学实战: 从零实现编辑器的图层管理面板和实时缩略图(vue3 + vite版)](https://mp.weixin.qq.com/s/Gqh_XRcEge15kN8x1Rqb3A)
 ## 2022.12.6
 - [x] [浅谈搭建平台 - 画布篇](https://mp.weixin.qq.com/s/pfWplWHajZDcsOH_m3rUMw)
 > 编辑器里面的意思设计模式，值得参考，多模块之间通过IOC思想进行了解耦。
