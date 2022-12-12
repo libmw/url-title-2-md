@@ -1,3 +1,14 @@
+## 2022.12.12
+- [x] [「React 深入」一文吃透React v18 全部 Api（1.3w+ 字）](https://mp.weixin.qq.com/s/TBWcKeozZX0-Zah8ealEtg)
+- [x] [放弃 console.log 吧！用 Debugger 你能读懂各种源码](https://mp.weixin.qq.com/s/KyqxU_9t6HpntWeERNvwaA)
+- [x] [JS 的 9 种作用域，你能说出几种？](https://mp.weixin.qq.com/s/2R58yPHmroE8VzR48p5SIw)
+- [x] [现代 CSS 之高阶图片渐隐消失术](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247494281&idx=1&sn=2a3e8083a0ada47f926d511b0163bf3c&chksm=ce26897ff951006910a52ae34695d3383e4ab90ab644ed97915e1d8a2067d87490a33e9cc550&token=805012839&lang=zh_CN#rd)
+- [x] [内有乾坤！大有学问的字体定义原理](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247494195&idx=1&sn=96e613dbd336f603b4fa217751684b8b&chksm=ce2689c5f95100d33d283599b841f8850e8dcd7c2015742e721dc37efbfccbbad8cd5a53ab23&token=805012839&lang=zh_CN#rd)
+- [x] [2022年CSS生态圈技术趋势！](https://mp.weixin.qq.com/s?__biz=MzU2MTIyNDUwMA==&mid=2247510201&idx=1&sn=a3b54ebee6d28ef47eaae8c1a00cf269&chksm=fc7ee6e2cb096ff41dbbc4b4e810821030d2ce4114f8059ef7aa1d5c8b6f94108d766e1c1eea&token=805012839&lang=zh_CN#rd)
+## 2022.12.9
+- [x] [自己写插件控制 Webpack 的 Chunk 划分，想怎么分就怎么分](https://mp.weixin.qq.com/s/GP6EVdh9IYqMQ2CHYAnCWQ)
+- [x] [我们是如何追逐元宇宙、XR等“概念股”浪潮的？](https://mp.weixin.qq.com/s/Q9VNdOXGlsA4OXRUc5_-xw)
+> 不错的分享，介绍了各种3d引擎，并做了对比。
 ## 2022.12.8
 - [x] [Web Component入门](https://mp.weixin.qq.com/s/uELw1_5oDvxCqYI-ygDOdw)
 - [x] [React Streaming SSR 原理解析](https://mp.weixin.qq.com/s/GVts2QW3H_aTrB9anGwl5g)
