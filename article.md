@@ -1,3 +1,14 @@
+## 2023.1.16
+- [x] [2022 年 CSS 新增了这么多牛逼的特性！](https://mp.weixin.qq.com/s/DWVoOTSzY6WykNY4s4w4CA)
+- [x] [2023 年大淘宝 Web 端技术概览](https://mp.weixin.qq.com/s/9JCqhRh2cIkyXEAOLI6N5Q)
+- [x] [技术周报·State of JS 2022 发布](https://mp.weixin.qq.com/s/h0WV0o5_-oxyujV61wdRJw)
+- [x] [为什么single-spa才是微前端的正确开发模式](https://mp.weixin.qq.com/s/RzNvq8t5_UFYcJZLBBF2XQ)
+## 2023.1.12
+- [x] [How to build your own React: Didact 解析](https://mp.weixin.qq.com/s/EL3Qu6SB9pct4d_vF7XVtQ)
+## 2023.1.11
+- [x] [TypeScript 新语法 satisfies：用声明还是用推导？这是个问题](https://mp.weixin.qq.com/s/GWIzprvAwo3wNpjX0J3xnQ)
+## 2023.1.10
+- [x] [加速几十倍 git clone 速度的 --depth 1，它的后遗症怎么解决？](https://mp.weixin.qq.com/s/6VaV70zbnfzWBRxHGbmTcw)
 ## 2023.1.9
 - [x] [微前端究竟是什么？微前端核心技术揭秘！](https://mp.weixin.qq.com/s?__biz=MzI2NDU4OTExOQ==&mid=2247534273&idx=1&sn=15f4dfb2e4c27f7b590c5794dd6ae218&chksm=eaa85c91dddfd5876305b3e0e5010af0800fcead06c4f657917badacd7a6e769330068a2f83c&token=953834215&lang=zh_CN#rd)
 - [x] [不使用第三方库实现原生 JS 解析 excel 文件需要分几步](https://mp.weixin.qq.com/s/prSXuatNtABb64_yUmHjfg)
