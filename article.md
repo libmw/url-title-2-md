@@ -1,3 +1,48 @@
+## 2023.4.4
+- [x] [用 ChatGPT 开发一个能听懂人话的命令行工具](https://mp.weixin.qq.com/s/rQc0iM7WIrNQDP9aCs7Hpw)
+
+## 2023.4.3
+- [x] [GPT-4老板：AI可能会杀死人类，已经出现我们无法解释的推理能力](https://mp.weixin.qq.com/s/M0mQ7nBmSmFF6hKWqePJNA)
+- [x] [针锋相对！为挑战GPT-4加持的Copilot X，谷歌与拒绝被微软收购的Replit联合发布编码工具](https://mp.weixin.qq.com/s/T10pBZBtWtbBei43o35E4g)
+- [x] [私有化部署chatGPT，告别网络困扰 - 掘金](https://juejin.cn/post/7216217118588551229?share_token=bc4a039a-b1e7-4446-9391-372d60c6f273)
+## 2023.3.31
+- [x] [前端视角下的转转客服通信过程](https://mp.weixin.qq.com/s/iuy9zMqLa_nqAqi-U1yuPw)
+- [x] [MVCC与数据库锁](https://mp.weixin.qq.com/s/A5p5PIjB2BGWwIPfAs_G-w)
+## 2023.3.30
+- [x] [svelte + vite 开发 Web Components](https://mp.weixin.qq.com/s/BNbAI2ClX1-iZExFvOOG8g)
+## 2023.3.29
+- [x] [远程组件实践](https://mp.weixin.qq.com/s/qTR1XcJE6QH058C-inlZFg)
+> vue的is实现
+## 2023.3.28
+- [x] [WebAssembly 使用场景和未来发展趋势](https://mp.weixin.qq.com/s/yHrjL3MSgkvZ65Tk93BQAA)
+> 这东西还可放在边缘计算上替代docker使用，真是个好的思路。
+- [x] [Cursor简单入门](https://mp.weixin.qq.com/s/j7lyeTOy6Qb1lFyfmsThTw)
+## 2023.3.27
+- [x] [在 Web 平台规模化部署高效编码格式的实践和思考](https://mp.weixin.qq.com/s/0-mE1BVq6znvjFbnf4hhJw)
+> 如何在web上部署H265
+- [x] [我被 React 劫持了，很痛苦又离不开](https://mp.weixin.qq.com/s/I_mP_LJDB9PCk3zawjWHBA)
+- [x] [微服务进入深水区后该何去何从](https://mp.weixin.qq.com/s/bgXdZdrNRqsjZ9HI2vm44Q)
+- [x] [精读《维护好一个复杂项目》](https://mp.weixin.qq.com/s/Fh72-rVU_I-ilCLQTCfgug)
+- [x] [如何使用ChatGPT快速构建一个网站模板](https://mp.weixin.qq.com/s/XkQpVZYtZ07iEOcIPpn8mw)
+- [x] [杀死Python？ChatGPT插件系统正式开放，不用写代码，人人都是程序员](https://mp.weixin.qq.com/s/PSPF--qRpP0JahiedDKAqQ)
+- [x] [PDF 预览和下载你是怎么实现的？](https://mp.weixin.qq.com/s/WMirGPsrGYKFibfAQO_szQ)
+## 2023.3.24
+- [x] [Signals 在JavaScript中的应用](https://mp.weixin.qq.com/s/djJrsXSWKFxZJmq-Hv0xNA)
+- [x] [webpack 的 scope hositing 实现原理，它也是一种 tree shaking！](https://mp.weixin.qq.com/s/id-d8Cq_RW0HXc9DTVjAVA)
+## 2023.3.23
+- [x] [关于编码的那些事 - URL 编码](https://mp.weixin.qq.com/s/QQEq-_84SxcLzAbRHSuYVw)
+- [x] [AIGC图像生成的原理综述与落地畅想](https://mp.weixin.qq.com/s/DyRjhN0BiDcwunlZIlRv8g)
+## 2023.3.22
+- [x] [如何让 ChatGPT 读懂超长保险条款？](https://mp.weixin.qq.com/s/kvFGMc5vWFzAZ5Iu6_ML9g)
+- [x] [JavaScript中的 this 指向](https://mp.weixin.qq.com/s/O6OSFG4DqqElo59Ni_6egw)
+- [x] [由a标签rel=_noopener noreferrer_属性引发对浏览器进程的思考](https://mp.weixin.qq.com/s/FUAI3s205trbjwivbr8thA)
+## 2023.3.20
+- [x] [ChatGPT分享-如何开发一个LLM应用 ｜得物技术](https://mp.weixin.qq.com/s/A8LfEDhL7GlqJdttgNfeJA)
+- [x] [ChatGPT的狂飙之路](https://mp.weixin.qq.com/s/S9sGEb_c8SUsO3Rh7dRO0Q)
+- [x] [把React新文档投喂给 GPT-4 后...](https://mp.weixin.qq.com/s/N6mird2hR0iCh1wSTd9UDg)
+- [x] [只会 git log ？ 其实 git 还有两个好用的 log 命令](https://mp.weixin.qq.com/s/DEX34OG5CA4wMr8u5QAbmw)
+## 2023.3.17
+- [x] [上瘾模型](https://mp.weixin.qq.com/s/ssrvyzaWA-ehtaTonPel7A)
 ## 2023.3.16
 - [x] [git submodule 和 git subtree，你会选择哪个来管理子项目？](https://mp.weixin.qq.com/s/Cm-xgtregfljwk6Ep9hSpw)
 - [x] [如何在 Vue 中使用 防抖 和 节流](https://mp.weixin.qq.com/s/osaKAHkpBJGX_Q8U5sSjFg)
