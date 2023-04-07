@@ -1,3 +1,8 @@
+## 2023.4.7
+- [x] [RSA加密算法原理及JS实现](https://mp.weixin.qq.com/s/mXMey_uAAkt-W02KP78p_Q)
+- [x] [快速入门 GraphQL：一个接口实现 CRUD](https://mp.weixin.qq.com/s/rRFubAwTy46Re5TCW1vl3A)
+## 2023.4.6
+- [x] [快速入门 GraphQL：一个接口实现 CRUD](https://mp.weixin.qq.com/s/rRFubAwTy46Re5TCW1vl3A)
 ## 2023.4.4
 - [x] [用 ChatGPT 开发一个能听懂人话的命令行工具](https://mp.weixin.qq.com/s/rQc0iM7WIrNQDP9aCs7Hpw)
 
