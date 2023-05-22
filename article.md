@@ -1,3 +1,32 @@
+## 2023.5.22
+- [x] [〖译〗50+ ChatGPT 提示和策略，加速你的 Web 开发工作流程新闻](https://mp.weixin.qq.com/s?__biz=Mzg3ODIwNTA1OQ==&mid=2247483842&idx=1&sn=ac62f7ddff0f756f12d75a32e4fa1820&scene=21#wechat_redirect)
+- [x] [从 VSCode 源码中我看到的...](https://mp.weixin.qq.com/s?__biz=Mzg2OTYyODU0NQ==&mid=2247512928&idx=1&sn=f23135aa24c3c6ecfedee5d70a71a57d&scene=21#wechat_redirect)
+- [x] [TypeScript 之 Lambda 函数](https://mp.weixin.qq.com/s/WqoTgoY822wDMdStEZveiA)
+## 2023.5.18
+- [x] [Spring-retry详解](https://mp.weixin.qq.com/s/fCogDuNUz74EHd_WEYqfZA)
+- [x] [Node.js 微服务如何实现注册中心和配置中心](https://mp.weixin.qq.com/s/4Nyj2i8kcgxejWBnaM2SVw)
+> 类似nacos的etcd3配置服务。
+## 2023.5.17
+- [x] [前端自动化测试 —— Jest 测试框架应用](https://mp.weixin.qq.com/s/74yodd86qn-Zn4AxTGp5kQ)
+- [x] [ChatGPT的打字回复效果，原理是什么？我带你们实现！](https://mp.weixin.qq.com/s/4lVYGfq26ckpDds297XxXg)
+## 2023.5.16
+- [x] [在JavaScript中4种创建枚举方式](https://mp.weixin.qq.com/s/TFYoHAfFnfmydRb4xy1yCg)
+## 2023.5.15
+- [x] [Google I/O 2023 — Web 平台的最新动态](https://mp.weixin.qq.com/s?__biz=Mzk0MDMwMzQyOA==&mid=2247497504&idx=1&sn=5dd6d9659bfdba30419f0c64bcd85030&scene=21#wechat_redirect)
+- [x] [用 git bisect 快速定位你想找的 commit](https://mp.weixin.qq.com/s/vKi0nKlmrIvLP42aDdnKZg)
+## 2023.5.11
+- [x] [Redis持久化：RDB和AOF](https://mp.weixin.qq.com/s/IaJrBwUuJt_DFjIynIzF5g)
+> redis如何在宕机后恢复
+## 2023.5.10
+- [x] [单开网页应用利器 - BroadcastChannel](https://mp.weixin.qq.com/s/OChbJt7pfvxh54Vp5H-IUQ)
+## 2023.5.8
+- [x] [使用 ChatGPT 和 json-server 快速实现 mock API](https://mp.weixin.qq.com/s?__biz=MzA5NzUxNzQwMw==&mid=2247485288&idx=1&sn=0e3b15972cc4ff458e3b6ce01a7c3083&scene=21#wechat_redirect)
+- [x] [十年架构重构，为多端统一，QQ 选用了 Electron](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520788&idx=1&sn=f7c940ba9fc1c5a5f90832c90ff5297d&scene=21#wechat_redirect)
+- [x] [CSS 实现 hover 时文字波浪式变色效果](https://mp.weixin.qq.com/s/0SLuZ4F5tLHWISKHqIXsSQ)
+- [x] [你安装的 NPM 包，可能偷偷在做坏事](https://mp.weixin.qq.com/s/bjjrrTegKblCgjx4nAZXvw)
+## 2023.5.6
+- [x] [初识WebAssembly](https://mp.weixin.qq.com/s/btVaRCHPqEevrNCVQMchGg)
+- [x] [为什么 Node 应用要用 PM2 来跑？](https://mp.weixin.qq.com/s/K7KqAQEszl1SP9v8yoEJ7A)
 ## 2023.5.4
 - [x] [调试 Jest 测试用例，有更强大的方式](https://mp.weixin.qq.com/s/dH2-IeLI54VXoji0nH0yBQ)
 - [x] [ECMAScript 2023 有哪些新东西？](https://mp.weixin.qq.com/s?__biz=Mzk0MDMwMzQyOA==&mid=2247497304&idx=1&sn=edb848f17660e86ed32a3924c9acf215&chksm=c2e10373f5968a656ec17d17dc52a8d2764bf0ba3ceb824abf0611df2ef8f6a6b546a2a28078&token=1951016129&lang=zh_CN#rd)
