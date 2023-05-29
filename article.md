@@ -1,3 +1,16 @@
+## 2023.5.29
+- [x] [Web开发者必备！PageSpy 现已开源](https://mp.weixin.qq.com/s?__biz=MzI0MjIxNjE0OQ==&mid=2247486759&idx=1&sn=a6689aaf598e511204a1c7e27c1295b8&scene=21#wechat_redirect)
+- [x] [一种让 ChatGPT 的回答既实时又精准的方法](https://mp.weixin.qq.com/s?__biz=Mzg4NzU5OTI1NQ==&mid=2247494706&idx=1&sn=5825ce3727b6bc55bf5b17115a42efc7&chksm=cf8555caf8f2dcdcaea6fd0ef9107931ca7d0b2539421560f5ab6cb6db4370536f3afaeff256&token=372471149&lang=zh_CN&scene=21#wechat_redirect)
+## 2023.5.26
+- [x] [初识Monorepo](https://mp.weixin.qq.com/s/SXme3V6p1nIIP17tHOiAcw)
+## 2023.5.25
+- [x] [Hook 革命！浅谈 React 新 Hook 的未来与思想](https://mp.weixin.qq.com/s/DZVMvq_wwtjjCckci-tVaQ)
+## 2023.5.24
+- [x] [Google I/O 2023 — 前端开发者划重点](https://mp.weixin.qq.com/s/66utrGYREh3_EOUPNYIZrQ)
+- [x] [LocatorJS 源码分析](https://mp.weixin.qq.com/s/_H4pcxlOjoQArtcZa30y7Q)
+- [x] [OpenAI Whisper + FFmpeg + TTS：动态实现跨语言视频音频翻译](https://mp.weixin.qq.com/s/XtJQxxOOLVWWfkue5sS8NA)
+## 2023.5.23
+- [x] [2023款ECMAScript](https://mp.weixin.qq.com/s/pUALva4GFpMImJZdR-VxnQ)
 ## 2023.5.22
 - [x] [〖译〗50+ ChatGPT 提示和策略，加速你的 Web 开发工作流程新闻](https://mp.weixin.qq.com/s?__biz=Mzg3ODIwNTA1OQ==&mid=2247483842&idx=1&sn=ac62f7ddff0f756f12d75a32e4fa1820&scene=21#wechat_redirect)
 - [x] [从 VSCode 源码中我看到的...](https://mp.weixin.qq.com/s?__biz=Mzg2OTYyODU0NQ==&mid=2247512928&idx=1&sn=f23135aa24c3c6ecfedee5d70a71a57d&scene=21#wechat_redirect)
