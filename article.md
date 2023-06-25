@@ -1,3 +1,18 @@
+## 2023.6.25
+- [x] [掌握这 5 个技巧，让你的 Dockerfile 像个大师！](https://mp.weixin.qq.com/s/v9kznJ1OezUxA49-nd_r_Q)
+- [x] [浅谈前后端交互的基本原理](https://mp.weixin.qq.com/s/3Ec_le_xUCwAmewxBPN1eQ)
+## 2023.6.21
+- [x] [前端常见问题分析](https://mp.weixin.qq.com/s/dwVszXvDT1IfkBv-L5o4jw)
+- [x] [图片加载错误的捕获及处理](https://mp.weixin.qq.com/s/KKSVObuqchQOW3rWFkjbWQ)
+## 2023.6.20
+- [x] [BeanCopy坑到MapStruct技巧](https://mp.weixin.qq.com/s/DLEsF2x2JVg2Kh0Z-Y81Xw)
+- [x] [使用 TensorFlow.js 将机器学习引入您的 Web 应用程序](https://mp.weixin.qq.com/s/iE2Bn-uObx3wGlEQtKEvYg)
+## 2023.6.19
+- [x] [前端技术十年回顾](https://mp.weixin.qq.com/s?__biz=MzU1MzE2NzIzMg==&mid=2247491916&idx=1&sn=b7f3c2277e1a2b0c5984396c6099ed90&scene=21#wechat_redirect)
+- [s] [AIGC 如何影响下一代文档搜索方案？](https://mp.weixin.qq.com/s?__biz=MzkxNDIzNTg4MA==&mid=2247488559&idx=1&sn=294b604f54aac0e8f925cee2a638bdec&scene=21#wechat_redirect)
+> 一些支持生成ai文档的工具已经出现了。
+## 2023.6.14
+- [x] [没几个前端知道这种 字符串分割技巧](https://mp.weixin.qq.com/s/AsI71qlGH57v0c_-OwVDvQ)
 ## 2023.6.13
 - [x] [由浅入深了解MySQL底层查询逻辑](https://mp.weixin.qq.com/s/egBskwueOA2jidFUhYdOxA)
 - [x] [今年苹果大会的 前端看点](https://mp.weixin.qq.com/s/J1vKMCDZt9aNmX2HDyAyeg)
