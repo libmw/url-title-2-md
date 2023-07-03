@@ -1,3 +1,23 @@
+## 2023.7.3
+- [x] [花了大半个月，我终于逆向分析了Github Copilot](https://mp.weixin.qq.com/s?__biz=Mzk0ODM5NTEyNA==&mid=2247484980&idx=1&sn=240c76200248bc35101710683a516ff6&scene=21#wechat_redirect)
+- [x] [用ChatGPT搭建代码知识库，提升开发效率](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649779584&idx=1&sn=2d45a03e065d0dff940b068684bf50ce&scene=21#wechat_redirect)
+- [x] [如何用大语言模型构建一个知识问答系统](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649779506&idx=1&sn=d6406a827808b2887b959bb6b2b05976&scene=21#wechat_redirect)
+- [x] [Next.js + Rust 革新全栈开发，Rust没那么难](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521256&idx=1&sn=b85f93527f3f1854c6eff1bc4bd09360&scene=21#wechat_redirect)
+- [x] [结合 Docker，快速掌握 Nginx  2 大核心用法](https://mp.weixin.qq.com/s/DAIbd01AlHWnAna7WFMjig)
+- [x] [基于 Nginx 实现一个灰度上线系统](https://mp.weixin.qq.com/s/36g51pc-qeO3GDfywiHjMQ)
+- [x] [React Context的核心实现，就5行代码](https://mp.weixin.qq.com/s/qpQS3ne7HXSL5Dle-ts4qQ)
+- [x] [Chrome 震撼新特性：文档画中画！（不光是视频）](https://mp.weixin.qq.com/s/GAytI88w69p7zXHFqDtgeg)
+## 2023.6.30
+- [x] [图数据技术调研以及业务实践](https://mp.weixin.qq.com/s/44hoVL1z_tKcKS8w0Y7Qgw)
+- [x] [人工智能时代，前端如何抓住机会](https://mp.weixin.qq.com/s/YiZGZnP3gpL8585lEZlUmA)
+- [x] [Tauri：跨平台探索之旅](https://mp.weixin.qq.com/s/dxb3SxAv1u02qwxXCmnolQ)
+> Electron的替代品
+## 2023.6.28
+- [x] [初探 chatgpt](https://mp.weixin.qq.com/s/nUgoxyLpYOdUzCzyjrs7xw)
+- [x] [Node.js健康检查和过载保护](https://mp.weixin.qq.com/s/ig3V0iwaVea9V4VQYDm3CQ)
+## 2023.6.27
+- [x] [没见过这么可爱的 Toggle 组件](https://mp.weixin.qq.com/s/tQu_9cfOJHj1rcjpVPuCnA)
+- [x] [WebAssembly能否取代Docker?](https://mp.weixin.qq.com/s/gnMTUX1hb9KvfQQ0ls3OXA)
 ## 2023.6.25
 - [x] [掌握这 5 个技巧，让你的 Dockerfile 像个大师！](https://mp.weixin.qq.com/s/v9kznJ1OezUxA49-nd_r_Q)
 - [x] [浅谈前后端交互的基本原理](https://mp.weixin.qq.com/s/3Ec_le_xUCwAmewxBPN1eQ)
