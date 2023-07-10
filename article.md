@@ -1,3 +1,17 @@
+## 2023.7.10
+- [x] [TypeScript 的演进之路](https://mp.weixin.qq.com/s?__biz=MzU2MTIyNDUwMA==&mid=2247515280&idx=2&sn=96a895f468bd291141bcf73f3be99fef&scene=21#wechat_redirect)
+> ts竟然2010年就开始搞了。。
+- [x] [完美搭配，微前端与 Monorepo 的架构设计](https://mp.weixin.qq.com/s?__biz=Mzk0MDMwMzQyOA==&mid=2247498197&idx=1&sn=546e6d65977304a216ab52940ede35ad&scene=21#wechat_redirect)
+- [x] [TypeScript 5.2 beta 发布：using 关键字、装饰器元数据、元组匿名与具名元素混用](https://mp.weixin.qq.com/s?__biz=Mzg4NDc0ODIwMA==&mid=2247484008&idx=1&sn=e2624cf82e2fdc9bf29f4c52e22e862d&chksm=cfb238aff8c5b1b94a09e667052a2c2de198470c0d73ddfbd462dc521a40f8e6d7a0104d4167&token=2133551871&lang=zh_CN&scene=21#wechat_redirect)
+- [x] [【Vuejs】1732- 详细聊一聊 Vue3 依赖注入](https://mp.weixin.qq.com/s?__biz=MjM5MDc4MzgxNA==&mid=2458471419&idx=1&sn=3d1bab800cb4d0b849e24ba12bf96881&chksm=b1c26bd286b5e2c4cd3238d6dfc14bf2781be768fa53cc1ee74aff51cd41c3629f73923cffbd&token=2133551871&lang=zh_CN&scene=21#wechat_redirect)
+- [x] [如何删除未使用的 CSS 代码？](https://mp.weixin.qq.com/s?__biz=MzU2MTIyNDUwMA==&mid=2247515344&idx=2&sn=9d27a6cbfea7cbc07fcd8d7cdc1135c1&chksm=fc7ef28bcb097b9d03a80c66e219b2c3b175c51ea517dc6e7f9869af4d2d3b1a00f4dea26f5d&token=2133551871&lang=zh_CN&scene=21#wechat_redirect)
+- [x] [LangChain: 大语言模型的新篇章](https://mp.weixin.qq.com/s/gPfYTxwiCkFa4fck0weBRA)
+## 2023.7.7
+- [x] [让你 React 组件水平暴增的 5 个技巧](https://mp.weixin.qq.com/s/K2TbPPcLjot1BFcE9gGePQ)
+## 2023.7.5
+- [x] [脚手架开发流程](https://mp.weixin.qq.com/s/0BOsP_9qY304ss75w_HFxQ)
+## 2023.7.4
+- [x] [业务系统 hystrix 实际应用](https://mp.weixin.qq.com/s/2l9DhdFxkeYjXAQj5Kk-0Q)
 ## 2023.7.3
 - [x] [花了大半个月，我终于逆向分析了Github Copilot](https://mp.weixin.qq.com/s?__biz=Mzk0ODM5NTEyNA==&mid=2247484980&idx=1&sn=240c76200248bc35101710683a516ff6&scene=21#wechat_redirect)
 - [x] [用ChatGPT搭建代码知识库，提升开发效率](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649779584&idx=1&sn=2d45a03e065d0dff940b068684bf50ce&scene=21#wechat_redirect)
