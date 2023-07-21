@@ -1,3 +1,30 @@
+## 2023.7.21
+- [x] [新Viewport单位](https://mp.weixin.qq.com/s/unU_WsMn7AtEuFqB7rKaJA)
+## 2023.7.20
+- [x] [操作日志数据治理实战](https://mp.weixin.qq.com/s/o8vdLkDAwFrg96CNp2RXsg)
+- [x] [整天用 Calendar 日历组件，不如自己手写一个吧！](https://mp.weixin.qq.com/s/bOlc6TH2ZChYVQLUq-vSiw)
+- [x] [WebAssembly 在抖音烟花特效中的应用](https://mp.weixin.qq.com/s/R2_SMBVWd4rIQfQpr0hWBw)
+- [x] [面向 WebAssembly 的 ByteReact 框架](https://mp.weixin.qq.com/s/-K2jRYakCkJA09yd4JRLJg)
+- [x] [WebAssembly 在 ACC 音频编码中的应用](https://mp.weixin.qq.com/s/ib3TOKzax-7OHYx4p6Zt4w)
+- [x] [WebAssembly 与 Web 视频编辑](https://mp.weixin.qq.com/s/TS6PaJO-WmQGN9mFhwoD9g)
+## 2023.7.19
+- [x] [架构师对于 Vue 响应式编程的思路梳理，从 RxJS 身上学到这么多…](https://mp.weixin.qq.com/s/uYb6kjc0MTMbAE3jGmNfYA)
+- [x] [前端工程师的画图日记](https://mp.weixin.qq.com/s/5Zr4VdaFef7xqU1SO_yzAg)
+## 2023.7.18
+- [x] [Nest + Sharp 实现了一个 gif 压缩工具，帮我省不少钱](https://mp.weixin.qq.com/s/NaLTXWouiZ07ShEQszNg0A)
+> 图片压缩工具sharp
+- [x] [WebGL大场景性能优化](https://mp.weixin.qq.com/s/MZHSZpP2U4d6rEfe7RDQjQ)
+> 文本模型压缩算法
+- [x] [前端工程中的设计模式应用](https://mp.weixin.qq.com/s/EXBZW_ajkVrBg8C5Qnu4CQ)
+> 所有设计模式列表
+## 2023.7.17
+- [x] [ChatGPT：GPT-4 架构揭秘](https://mp.weixin.qq.com/s?__biz=MzIzNjE2NTI3NQ==&mid=2247487222&idx=1&sn=059d093c6bc79c88fb324c1787cb763c&scene=21#wechat_redirect)
+- [x] [WebAssembly 调试原理和方法简介](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503863&idx=2&sn=2980f6646926ca9357c945e86531fc70&scene=21#wechat_redirect)
+- [x] [如何用Three.js + Blender打造一个web 3D展览馆](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247496983&idx=1&sn=7a0234d5293b0a2aa884539a97b2af76&scene=21#wechat_redirect)
+> 文中讲到的模型烘焙还是有点意思的。
+## 2023.7.14
+- [x] [科技爱好者周刊（第 262 期）：告别密码 - 阮一峰的网络日志](https://www.ruanyifeng.com/blog/2023/07/weekly-issue-262.html)
+- [x] [通过调试技术，我理清了 b 站视频播放很快的原理](https://mp.weixin.qq.com/s/zYHVHdMWEdmqAjhGCuCAlw)
 ## 2023.7.13
 - [x] [自己动手实现一个 WebAssembly 解释器](https://mp.weixin.qq.com/s/TpIiCnGDflNmeO51jkpYrA)
 ## 2023.7.12
